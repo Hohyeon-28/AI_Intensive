@@ -1,0 +1,157 @@
+"""
+BERT, ELECTRA, XLNet 실험 결과에서 H1 가설 검증을 위한 p-value 계산
+- ROUGE-1 (성능)
+- BERTScore (의미 유사도)
+- Efficiency (효율성)
+- Density (정보 밀도)
+"""
+
+import pandas as pd
+import numpy as np
+from scipy import stats
+
+# CSV 파일 읽기
+print("데이터 로드 중...")
+df = pd.read_csv('bert_electra_xlnet_result.csv')
+
+print(f"총 데이터 행 수: {len(df)}")
+print(f"컬럼: {df.columns.tolist()}\n")
+
+# H1 가설 검증: 9~13개 단어 구간에서 최고 성능 달성
+print("=" * 80)
+print("H1 가설 검증: 통계적 검정 (다양한 메트릭)")
+print("=" * 80)
+print("가설: 9~13개 단어로 요약할 때 모든 모델에서 최고의 성능을 달성한다\n")
+
+# 각 모델별로 검정
+models = ['bert', 'electra', 'xlnet']
+hypothesis_range = [9, 11, 13]  # 9~13 구간
+other_range = [1, 3, 5, 7, 15, 17, 19, 21]  # 그 외 구간 
+
+# 검정할 메트릭들
+metrics = {
+    'rouge1': 'ROUGE-1 (성능)',
+    'bertscore': 'BERTScore (의미 유사도)',
+    'eff': 'Efficiency (효율성)',
+    'density': 'Density (정보 밀도)'
+}
+
+all_results = []
+
+for metric_name, metric_label in metrics.items():
+    print("\n" + "=" * 80)
+    print(f"{metric_label} 분석")
+    print("=" * 80)
+    
+    statistical_results = []
+    
+    for model in models:
+        print(f"\n--- {model.upper()} 모델 ---")
+        
+        # 가설 구간 (9~13)의 점수 (개별 샘플별 값)
+        hypothesis_data = df[
+            df['target_n'].isin(hypothesis_range)
+        ][f'{model}_{metric_name}'].values
+        
+        # 그 외 구간의 점수 (개별 샘플별 값)
+        other_data = df[
+            df['target_n'].isin(other_range)
+        ][f'{model}_{metric_name}'].values
+    
+        # NaN 값 제거
+        hypothesis_scores = hypothesis_data[~np.isnan(hypothesis_data)]
+        other_scores = other_data[~np.isnan(other_data)]
+        
+        # 평균 비교
+        mean_hypothesis = np.mean(hypothesis_scores)
+        mean_other = np.mean(other_scores)
+        std_hypothesis = np.std(hypothesis_scores, ddof=1)
+        std_other = np.std(other_scores, ddof=1)
+        
+        print(f"가설 구간 (9~13) 평균: {mean_hypothesis:.4f} (std: {std_hypothesis:.4f}, n={len(hypothesis_scores)})")
+        print(f"그 외 구간 평균: {mean_other:.4f} (std: {std_other:.4f}, n={len(other_scores)})")
+        print(f"차이: {mean_hypothesis - mean_other:.4f}")
+        
+        # t-test (독립 표본 t-검정)
+        # alternative='greater': 가설 구간이 더 크다는 대립가설
+        t_stat, p_value = stats.ttest_ind(hypothesis_scores, other_scores, alternative='greater')
+        
+        print(f"t-statistic: {t_stat:.4f}")
+        print(f"p-value: {p_value:.4f}")
+        
+        # 유의성 판단
+        if p_value < 0.001:
+            significance = "*** (p < 0.001)"
+        elif p_value < 0.01:
+            significance = "** (p < 0.01)"
+        elif p_value < 0.05:
+            significance = "* (p < 0.05)"
+        else:
+            significance = "ns (not significant)"
+        
+        print(f"유의성: {significance}")
+        
+        # 효과 크기 (Cohen's d)
+        pooled_std = np.sqrt(((len(hypothesis_scores) - 1) * std_hypothesis**2 + 
+                              (len(other_scores) - 1) * std_other**2) / 
+                             (len(hypothesis_scores) + len(other_scores) - 2))
+        cohens_d = (mean_hypothesis - mean_other) / pooled_std if pooled_std > 0 else 0
+        print(f"Cohen's d (효과 크기): {cohens_d:.4f}")
+        
+        statistical_results.append({
+            'metric': metric_label,
+            'model': model.upper(),
+            'mean_hypothesis_range': mean_hypothesis,
+            'mean_other_range': mean_other,
+            'std_hypothesis': std_hypothesis,
+            'std_other': std_other,
+            'n_hypothesis': len(hypothesis_scores),
+            'n_other': len(other_scores),
+            'difference': mean_hypothesis - mean_other,
+            't_statistic': t_stat,
+            'p_value': p_value,
+            'cohens_d': cohens_d,
+            'significance': significance
+        })
+    
+    # 결과 요약
+    print("\n" + "-" * 80)
+    print(f"{metric_label} 통계적 검정 결과 요약")
+    print("-" * 80)
+    df_statistical = pd.DataFrame(statistical_results)
+    print(df_statistical.to_string(index=False))
+    
+    all_results.extend(statistical_results)
+
+# 전체 결과 저장
+print("\n" + "=" * 80)
+print("전체 통계적 검정 결과 (모든 메트릭)")
+print("=" * 80)
+df_all_results = pd.DataFrame(all_results)
+print(df_all_results.to_string(index=False))
+
+# CSV 저장
+df_all_results.to_csv('hypothesis_test_results_all_metrics.csv', index=False)
+print("\n통계적 검정 결과가 'hypothesis_test_results_all_metrics.csv'에 저장되었습니다.")
+
+# 추가 분석: 각 n_words별 성능 비교
+print("\n" + "=" * 60)
+print("각 단어 수별 평균 ROUGE-1 성능")
+print("=" * 60)
+
+for model in models:
+    print(f"\n{model.upper()} 모델:")
+    model_performance = df.groupby('target_n')[f'{model}_rouge1'].agg(['mean', 'std', 'count']).round(4)
+    print(model_performance)
+    
+    # 최적 n_words 찾기
+    best_n = df.groupby('target_n')[f'{model}_rouge1'].mean().idxmax()
+    best_score = df.groupby('target_n')[f'{model}_rouge1'].mean().max()
+    print(f"최적 n_words: {best_n}, 최고 ROUGE-1: {best_score:.4f}")
+    
+    # 가설 구간 내 최고 성능 확인
+    hypothesis_performance = df[df['target_n'].isin(hypothesis_range)].groupby('target_n')[f'{model}_rouge1'].mean()
+    if len(hypothesis_performance) > 0:
+        best_in_hypothesis = hypothesis_performance.idxmax()
+        best_score_in_hypothesis = hypothesis_performance.max()
+        print(f"가설 구간(7~13) 내 최고: n={best_in_hypothesis}, ROUGE-1={best_score_in_hypothesis:.4f}")
