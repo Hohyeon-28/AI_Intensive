@@ -1,0 +1,1434 @@
+dataset,target_n,key_sent,pred,bertscore,rouge1,eff,density
+cnn_dailymail,1,"""What's objectionable is the a...",decision,0.7966837882995605,0.0,0.7966837882995605,1.0
+cnn_dailymail,3,"""What's objectionable is the a...",s not decision,0.7880067825317383,0.0,0.2626689275105794,1.0
+cnn_dailymail,5,"""What's objectionable is the a...",s not s decision join,0.7846623063087463,0.0,0.15693246126174926,0.8
+cnn_dailymail,7,"""What's objectionable is the a...",s undermine not s decision join over,0.8000014424324036,0.04878048780487805,0.11428592034748622,0.8571428571428571
+cnn_dailymail,9,"""What's objectionable is the a...",s attempts undermine not s decision join treaty over,0.805216908454895,0.04651162790697674,0.08946854538387722,0.8888888888888888
+cnn_dailymail,1,Four days after her apparent d...,nearby,0.7869398593902588,0.0,0.7869398593902588,1.0
+cnn_dailymail,3,Four days after her apparent d...,st nearby covered,0.8008808493614197,0.0,0.2669602831204732,0.6666666666666666
+cnn_dailymail,5,Four days after her apparent d...,st nearby covered where vet,0.809111475944519,0.0,0.16182229518890381,0.8
+cnn_dailymail,7,Four days after her apparent d...,the st nearby dirt covered where vet,0.7982518672943115,0.0,0.1140359810420445,0.8571428571428571
+cnn_dailymail,1,The website of the Iranian For...,which,0.7925406694412231,0.0,0.7925406694412231,1.0
+cnn_dailymail,1,(CNN)Five Americans who were m...,hospital,0.7885171175003052,0.046511627906976744,0.7885171175003052,1.0
+cnn_dailymail,3,(CNN)Five Americans who were m...,five nebraska hospital,0.7975509762763977,0.044444444444444446,0.2658503254254659,1.0
+cnn_dailymail,5,(CNN)Five Americans who were m...,five omaha nebraska hospital email,0.7979987859725952,0.0425531914893617,0.15959975719451905,1.0
+cnn_dailymail,7,(CNN)Five Americans who were m...,five omaha nebraska hospital a nebraska email,0.7902173399925232,0.04081632653061224,0.11288819142750331,0.8571428571428571
+cnn_dailymail,1,A statement issued by Duke sai...,statement,0.7981859445571899,0.0,0.7981859445571899,1.0
+cnn_dailymail,3,A statement issued by Duke sai...,statement duke previous,0.7953830361366272,0.044444444444444446,0.26512767871220905,1.0
+cnn_dailymail,1,"""That's the kind of person Tre...","""",0.7984063625335693,0.0,0.7984063625335693,0.0
+cnn_dailymail,3,"""That's the kind of person Tre...","s kind """,0.7912132143974304,0.0,0.2637377381324768,1.0
+cnn_dailymail,1,"On one hand, the number of exe...",the,0.7886958122253418,0.03636363636363636,0.7886958122253418,1.0
+cnn_dailymail,3,"On one hand, the number of exe...",the number executions,0.8242959380149841,0.10526315789473684,0.2747653126716614,1.0
+cnn_dailymail,5,"On one hand, the number of exe...",the number executions almost previous,0.8111303448677063,0.13559322033898305,0.16222606897354125,1.0
+cnn_dailymail,1,"Getty's parents, Ann and Gordo...",asking,0.7964802384376526,0.0,0.7964802384376526,1.0
+cnn_dailymail,3,"Getty's parents, Ann and Gordo...",s statement asking,0.7879552245140076,0.04255319148936171,0.2626517415046692,1.0
+cnn_dailymail,1,"Just a few days ago, Maysak ga...",its,0.7920354008674622,0.0,0.7920354008674622,1.0
+cnn_dailymail,3,"Just a few days ago, Maysak ga...",few may its,0.7836299538612366,0.0,0.2612099846204122,0.6666666666666666
+cnn_dailymail,1,"Looking spry at 91, Barker han...",first,0.794460654258728,0.0,0.794460654258728,1.0
+cnn_dailymail,3,"Looking spry at 91, Barker han...",first the who,0.79011070728302,0.09090909090909091,0.26337023576100665,1.0
+cnn_dailymail,5,"Looking spry at 91, Barker han...","first guessing the "" who",0.7974776029586792,0.08695652173913043,0.15949552059173583,1.0
+cnn_dailymail,1,He's been charged with engagin...,commit,0.7913612723350525,0.0,0.7913612723350525,1.0
+cnn_dailymail,3,He's been charged with engagin...,acts assisting commit,0.8051422834396362,0.0,0.2683807611465454,1.0
+cnn_dailymail,5,He's been charged with engagin...,acts with conduct assisting commit,0.797581672668457,0.052631578947368425,0.1595163345336914,1.0
+cnn_dailymail,7,He's been charged with engagin...,preparation acts and with conduct assisting commit,0.795005738735199,0.05,0.11357224839074272,1.0
+cnn_dailymail,9,He's been charged with engagin...,conduct preparation acts and with conduct the assisting commit,0.7940658330917358,0.09523809523809523,0.08822953701019287,0.8888888888888888
+cnn_dailymail,11,He's been charged with engagin...,conduct preparation acts and with conduct the intention assisting commit terrorism,0.8177229166030884,0.09090909090909091,0.07433844696391713,0.9090909090909091
+cnn_dailymail,13,He's been charged with engagin...,conduct preparation acts terrorism and with engaging conduct the intention assisting commit terrorism,0.8030670285224915,0.08695652173913043,0.06177438680942242,0.8461538461538461
+cnn_dailymail,1,There are scenes that will res...,pay,0.7880227565765381,0.0,0.7880227565765381,1.0
+cnn_dailymail,3,There are scenes that will res...,audience the pay,0.7904147505760193,0.0,0.2634715835253398,1.0
+cnn_dailymail,5,There are scenes that will res...,audience which the touching pay,0.7860245704650879,0.0,0.15720491409301757,1.0
+cnn_dailymail,7,There are scenes that will res...,audience which the filmmakers touching pay his,0.7998327016830444,0.0,0.11426181452614921,1.0
+cnn_dailymail,9,There are scenes that will res...,audience - including which the filmmakers touching pay his,0.7969950437545776,0.0,0.08855500486161974,1.0
+cnn_dailymail,1,"(CNN)Seventy years ago, Anne F...",nazi,0.7635981440544128,0.0,0.7635981440544128,1.0
+cnn_dailymail,3,"(CNN)Seventy years ago, Anne F...",seventy nazi age,0.7925557494163513,0.0,0.26418524980545044,1.0
+cnn_dailymail,1,Progressives may enjoy watchin...,federal,0.7925108075141907,0.0,0.7925108075141907,1.0
+cnn_dailymail,3,Progressives may enjoy watchin...,but federal go,0.7922289967536926,0.0,0.2640763322512309,0.6666666666666666
+cnn_dailymail,5,Progressives may enjoy watchin...,s but who federal go,0.7868258357048035,0.0,0.1573651671409607,0.8
+cnn_dailymail,1,Mötley Crüe's Vince Neil remin...,dangers,0.7993481755256653,0.0,0.7993481755256653,1.0
+cnn_dailymail,3,Mötley Crüe's Vince Neil remin...,s dangers span,0.8026471138000488,0.0,0.2675490379333496,0.6666666666666666
+cnn_dailymail,1,Walmart's opposition to the re...,support,0.7981001734733582,0.04347826086956522,0.7981001734733582,1.0
+cnn_dailymail,3,Walmart's opposition to the re...,s which support,0.7888901233673096,0.04166666666666667,0.26296337445576984,1.0
+cnn_dailymail,5,Walmart's opposition to the re...,s which the political support,0.7964110970497131,0.039999999999999994,0.15928221940994264,1.0
+cnn_dailymail,7,Walmart's opposition to the re...,s republican which the company political support,0.8207576870918274,0.07692307692307693,0.11725109815597534,1.0
+cnn_dailymail,9,Walmart's opposition to the re...,s religious republican which the company s political support,0.8185579180717468,0.1111111111111111,0.09095087978574964,0.8888888888888888
+cnn_dailymail,1,"Last year, we recorded executi...",we,0.7960980534553528,0.0,0.7960980534553528,1.0
+cnn_dailymail,3,"Last year, we recorded executi...",we down half,0.8052402138710022,0.0,0.2684134046236674,1.0
+cnn_dailymail,5,"Last year, we recorded executi...",we 22 down half 20,0.7800322771072388,0.0,0.15600645542144775,1.0
+cnn_dailymail,1,"Another source, a law enforcem...",his,0.7836949229240417,0.039999999999999994,0.7836949229240417,1.0
+cnn_dailymail,3,"Another source, a law enforcem...",authorities primary his,0.7816808819770813,0.03846153846153846,0.2605602939923604,1.0
+cnn_dailymail,5,"Another source, a law enforcem...",a authorities primary bring his,0.7972731590270996,0.03703703703703703,0.1594546318054199,1.0
+cnn_dailymail,7,"Another source, a law enforcem...",a law also authorities primary bring his,0.7974114418029785,0.03571428571428571,0.11391592025756836,1.0
+cnn_dailymail,1,"During the 1980s and 1990s, Sc...",sc,0.8024126887321472,0.0,0.8024126887321472,0.0
+cnn_dailymail,3,"During the 1980s and 1990s, Sc...",sc with often,0.8019630908966064,0.06666666666666667,0.26732103029886883,0.6666666666666666
+cnn_dailymail,5,"During the 1980s and 1990s, Sc...",sc with - often it,0.8071707487106323,0.06451612903225806,0.16143414974212647,0.75
+cnn_dailymail,7,"During the 1980s and 1990s, Sc...",sc with - often it - and,0.792468786239624,0.125,0.11320982660566058,0.8
+cnn_dailymail,1,Bachmann is no stranger to voi...,vo,0.7928911447525024,0.0,0.7928911447525024,0.0
+cnn_dailymail,3,Bachmann is no stranger to voi...,vo personally 2014,0.8017670512199402,0.0,0.26725568373998004,0.6666666666666666
+cnn_dailymail,5,Bachmann is no stranger to voi...,vo s personally during 2014,0.7992321848869324,0.0,0.15984643697738649,0.8
+cnn_dailymail,1,"""I had tried to collect (rain)...","""",0.809657096862793,0.0,0.809657096862793,0.0
+cnn_dailymail,3,"""I had tried to collect (rain)...",". but """,0.7993249893188477,0.0,0.26644166310628253,1.0
+cnn_dailymail,5,"""I had tried to collect (rain)...","collect . . but """,0.7867675423622131,0.0,0.15735350847244262,1.0
+cnn_dailymail,1,"Rather, the objective has alwa...",iran,0.7775934338569641,0.046511627906976744,0.7775934338569641,1.0
+cnn_dailymail,3,"Rather, the objective has alwa...",the agreement iran,0.8241962790489197,0.13333333333333333,0.2747320930163066,1.0
+cnn_dailymail,5,"Rather, the objective has alwa...",the agreement agreements iran its,0.8092487454414368,0.1702127659574468,0.16184974908828736,1.0
+cnn_dailymail,7,"Rather, the objective has alwa...",the objective agreement agreements iran develop its,0.8120909333229065,0.16326530612244897,0.11601299047470093,1.0
+cnn_dailymail,9,"Rather, the objective has alwa...",the objective agreement series agreements iran develop nuclear its,0.8202109932899475,0.1568627450980392,0.09113455480999416,1.0
+cnn_dailymail,1,Whether the California drought...,thanks,0.7928890585899353,0.0,0.7928890585899353,1.0
+cnn_dailymail,3,Whether the California drought...,california thanks strong,0.8047354221343994,0.044444444444444446,0.2682451407114665,1.0
+cnn_dailymail,1,She was charged with knowingly...,provide,0.7931565046310425,0.0,0.7931565046310425,1.0
+cnn_dailymail,3,She was charged with knowingly...,provide resources designated,0.8071311712265015,0.0,0.2690437237421672,1.0
+cnn_dailymail,1,Iranian authorities imposed th...,s,0.8067637085914612,0.0,0.8067637085914612,1.0
+cnn_dailymail,1,While most bloggers have not b...,targets,0.7929432392120361,0.0,0.7929432392120361,1.0
+cnn_dailymail,1,Focus on the mystery intensifi...,direct,0.7944853901863098,0.0,0.7944853901863098,1.0
+cnn_dailymail,3,Focus on the mystery intensifi...,fan direct saying,0.8000203371047974,0.0,0.2666734457015991,1.0
+cnn_dailymail,1,The video can be seen at the t...,video,0.801445484161377,0.0,0.801445484161377,1.0
+cnn_dailymail,3,The video can be seen at the t...,video seen this,0.8168164491653442,0.0,0.27227214972178143,1.0
+cnn_dailymail,5,The video can be seen at the t...,video seen the top this,0.8034586906433105,0.07692307692307693,0.1606917381286621,1.0
+cnn_dailymail,1,Washington (CNN)Israeli Prime ...,israeli,0.7932794690132141,0.0,0.7932794690132141,1.0
+cnn_dailymail,1,"""What's happening to #Memories...",t,0.7967183589935303,0.0,0.7967183589935303,1.0
+cnn_dailymail,3,"""What's happening to #Memories...",s t s,0.7607791423797607,0.14285714285714285,0.25359304745992023,0.6666666666666666
+cnn_dailymail,5,"""What's happening to #Memories...","s t it s """,0.7857296466827393,0.13793103448275865,0.15714592933654786,0.75
+cnn_dailymail,7,"""What's happening to #Memories...","s t free it s lynch """,0.801379382610321,0.12903225806451613,0.11448276894433158,0.8333333333333334
+cnn_dailymail,1,Police officials believe this ...,solve,0.7885239124298096,0.03508771929824561,0.7885239124298096,1.0
+cnn_dailymail,3,Police officials believe this ...,solve enforce law,0.8314806818962097,0.10169491525423728,0.2771602272987366,1.0
+cnn_dailymail,1,But his boat couldn't be rescu...,mercy,0.7925748825073242,0.0,0.7925748825073242,1.0
+cnn_dailymail,3,But his boat couldn't be rescu...,t leaving mercy,0.7980369925498962,0.0,0.2660123308499654,1.0
+cnn_dailymail,5,But his boat couldn't be rescu...,t leaving mercy the current,0.7997629642486572,0.0,0.15995259284973146,1.0
+cnn_dailymail,1,"""After two years of effort, th...",frederick,0.7730362415313721,0.0,0.7730362415313721,0.0
+cnn_dailymail,3,"""After two years of effort, th...",the technology frederick,0.8002883195877075,0.09523809523809525,0.2667627731959025,0.6666666666666666
+cnn_dailymail,5,"""After two years of effort, th...","effort the "" technology frederick",0.8022895455360413,0.0909090909090909,0.16045790910720825,0.75
+cnn_dailymail,1,"""There were several FBI vehicl...",were,0.8032978773117065,0.0,0.8032978773117065,1.0
+cnn_dailymail,3,"""There were several FBI vehicl...",were rammed flee,0.8235463500022888,0.0,0.27451545000076294,1.0
+cnn_dailymail,5,"""There were several FBI vehicl...",were rammed suspect s flee,0.820282518863678,0.06451612903225806,0.1640565037727356,1.0
+cnn_dailymail,7,"""There were several FBI vehicl...",were rammed hit suspect s vehicle flee,0.8176146745681763,0.060606060606060615,0.11680209636688232,1.0
+cnn_dailymail,1,(CNN)Sky watchers in western N...,sky,0.7803146243095398,0.0,0.7803146243095398,1.0
+cnn_dailymail,3,(CNN)Sky watchers in western N...,sky treat minute,0.7912997007369995,0.0,0.2637665669123332,1.0
+cnn_dailymail,5,(CNN)Sky watchers in western N...,sky treat a nearly minute,0.7897058129310608,0.0,0.15794116258621216,1.0
+cnn_dailymail,1,"To the contrary, Ethiopia's in...",foreign,0.7967292666435242,0.0,0.7967292666435242,1.0
+cnn_dailymail,3,"To the contrary, Ethiopia's in...",in islamist foreign,0.8097406625747681,0.04255319148936171,0.26991355419158936,1.0
+cnn_dailymail,5,"To the contrary, Ethiopia's in...",although in islamist foreign invasion,0.8192566633224487,0.04081632653061225,0.16385133266448976,1.0
+cnn_dailymail,7,"To the contrary, Ethiopia's in...",- although backed in islamist foreign invasion,0.8158217072486877,0.04,0.11654595817838397,1.0
+cnn_dailymail,9,"To the contrary, Ethiopia's in...",- although somali backed enabled in islamist foreign invasion,0.8145753741264343,0.038461538461538464,0.09050837490293714,1.0
+cnn_dailymail,11,"To the contrary, Ethiopia's in...",contrary - although somali backed african enabled in islamist foreign invasion,0.8142613172531128,0.037037037037037035,0.07402375611391934,1.0
+cnn_dailymail,13,"To the contrary, Ethiopia's in...",contrary - although somali backed african - enabled sha in islamist foreign invasion,0.8114205002784729,0.03636363636363636,0.06241696155988253,0.9090909090909091
+cnn_dailymail,15,"To the contrary, Ethiopia's in...",contrary s - although somali backed african - enabled sha in islamist nationalist foreign invasion,0.8073021173477173,0.03508771929824561,0.053820141156514484,0.9230769230769231
+cnn_dailymail,1,Here's a journey from the Vati...,around,0.804140567779541,0.0,0.804140567779541,1.0
+cnn_dailymail,3,Here's a journey from the Vati...,around to explain,0.8056110143661499,0.05405405405405406,0.2685370047887166,1.0
+cnn_dailymail,5,Here's a journey from the Vati...,around the to try explain,0.7851407527923584,0.10256410256410256,0.1570281505584717,1.0
+cnn_dailymail,7,Here's a journey from the Vati...,s around the s to try explain,0.7923452854156494,0.0975609756097561,0.11319218363080706,0.8571428571428571
+cnn_dailymail,9,Here's a journey from the Vati...,s holy around moon the s to try explain,0.7959489226341248,0.13953488372093023,0.08843876918156941,0.8888888888888888
+cnn_dailymail,11,Here's a journey from the Vati...,s holy around moon the earth s to united try explain,0.8091086149215698,0.13333333333333333,0.07355532862923363,0.9090909090909091
+cnn_dailymail,13,Here's a journey from the Vati...,s holy around moon the earth s tilting to united try explain complex,0.8086679577827454,0.12765957446808512,0.062205227521749645,0.9230769230769231
+cnn_dailymail,1,"""There's nothing left the NCAA...",society,0.788040041923523,0.0,0.788040041923523,1.0
+cnn_dailymail,1,Representatives for the depart...,in,0.8007422685623169,0.05405405405405406,0.8007422685623169,1.0
+cnn_dailymail,3,Representatives for the depart...,in expected that,0.8145207166671753,0.05128205128205128,0.2715069055557251,1.0
+cnn_dailymail,5,Representatives for the depart...,in - expected that return,0.8083051443099976,0.049999999999999996,0.1616610288619995,1.0
+cnn_dailymail,7,Representatives for the depart...,in taylor che - expected that return,0.8029047250747681,0.04761904761904762,0.11470067501068115,0.8333333333333334
+cnn_dailymail,9,Representatives for the depart...,in taylor che - expected and that she return,0.8133693933486938,0.0909090909090909,0.09037437703874376,0.875
+cnn_dailymail,11,Representatives for the depart...,in taylor pending che - expected - and that she return,0.8091176152229309,0.08888888888888888,0.07355614683844826,0.8888888888888888
+cnn_dailymail,13,Representatives for the depart...,department in taylor they pending che - expected - and that she return,0.8068802952766418,0.0851063829787234,0.06206771502128014,0.9090909090909091
+cnn_dailymail,1,be the Hot 100's No. 1 Song of...,2015,0.7886025905609131,0.0,0.7886025905609131,1.0
+cnn_dailymail,3,be the Hot 100's No. 1 Song of...,s 1 2015,0.7841047048568726,0.06896551724137931,0.26136823495229083,1.0
+cnn_dailymail,5,be the Hot 100's No. 1 Song of...,hot s no 1 2015,0.7813722491264343,0.06451612903225806,0.15627444982528688,1.0
+cnn_dailymail,1,Researchers who study climate ...,elsewhere,0.8085898756980896,0.0,0.8085898756980896,1.0
+cnn_dailymail,1,The church became alarmed and ...,exception,0.7872216701507568,0.0,0.7872216701507568,1.0
+cnn_dailymail,3,The church became alarmed and ...,exception pe in,0.7790789008140564,0.0,0.2596929669380188,0.6666666666666666
+cnn_dailymail,1,Atlanta (CNN)Robert Lewis Burn...,georgia,0.765570878982544,0.0,0.765570878982544,1.0
+cnn_dailymail,3,Atlanta (CNN)Robert Lewis Burn...,robert a georgia,0.7863693237304688,0.15384615384615383,0.26212310791015625,1.0
+cnn_dailymail,1,Police said Kim stabbed Lipper...,frequently,0.7872403860092163,0.0,0.7872403860092163,1.0
+cnn_dailymail,3,Police said Kim stabbed Lipper...,military which frequently,0.7760010957717896,0.046511627906976744,0.25866703192392987,1.0
+cnn_dailymail,5,Police said Kim stabbed Lipper...,u military which happen frequently,0.800516664981842,0.0888888888888889,0.16010333299636842,1.0
+cnn_dailymail,1,Jutting allegedly lived at the...,inner,0.7957988977432251,0.0,0.7957988977432251,1.0
+cnn_dailymail,3,Jutting allegedly lived at the...,up inner ',0.7964839339256287,0.0,0.2654946446418762,0.5
+cnn_dailymail,5,Jutting allegedly lived at the...,up an inner city ',0.7924264073371887,0.0,0.15848528146743773,0.75
+cnn_dailymail,7,Jutting allegedly lived at the...,up an inner city ' eclectic ass,0.7918287515640259,0.0,0.11311839308057513,0.6666666666666666
+cnn_dailymail,9,Jutting allegedly lived at the...,an up an inner city ' eclectic local ass,0.7893842458724976,0.0,0.08770936065249973,0.625
+cnn_dailymail,11,Jutting allegedly lived at the...,an up an inner city ' eclectic night residential local ass,0.7908572554588318,0.0,0.07189611413262108,0.7
+cnn_dailymail,1,The Adventure Time plane is th...,partnership,0.798994243144989,0.0,0.798994243144989,1.0
+cnn_dailymail,3,The Adventure Time plane is th...,partnership new thai,0.8031052947044373,0.06896551724137931,0.26770176490147907,1.0
+cnn_dailymail,5,The Adventure Time plane is th...,partnership new thai pat appear,0.8100167512893677,0.06451612903225806,0.16200335025787355,0.8
+cnn_dailymail,7,The Adventure Time plane is th...,result partnership a new thai pat appear,0.7976052761077881,0.060606060606060615,0.11394361087254115,0.8571428571428571
+cnn_dailymail,1,"Manning was sentenced in 2013,...",in,0.8098629117012024,0.0,0.8098629117012024,1.0
+cnn_dailymail,3,"Manning was sentenced in 2013,...",and in year,0.8076165914535522,0.06896551724137931,0.2692055304845174,1.0
+cnn_dailymail,5,"Manning was sentenced in 2013,...",and in that year she,0.8035411834716797,0.12903225806451613,0.16070823669433593,1.0
+cnn_dailymail,1,It is also clear that it took ...,a,0.7948517799377441,0.06451612903225806,0.7948517799377441,1.0
+cnn_dailymail,3,It is also clear that it took ...,is a bring,0.7907409071922302,0.1212121212121212,0.2635803023974101,1.0
+cnn_dailymail,5,It is also clear that it took ...,is a collapse bring negotiating,0.8028537034988403,0.1142857142857143,0.16057074069976807,1.0
+cnn_dailymail,7,It is also clear that it took ...,is took a collapse oil bring negotiating,0.7920394539833069,0.10810810810810811,0.1131484934261867,1.0
+cnn_dailymail,1,"(CNN)Universal's ""Furious 7"" c...",$,0.7906805276870728,0.0,0.7906805276870728,0.0
+cnn_dailymail,3,"(CNN)Universal's ""Furious 7"" c...",$ $ the,0.7879537343978882,0.05882352941176471,0.2626512447992961,1.0
+cnn_dailymail,5,"(CNN)Universal's ""Furious 7"" c...",universal weekend $ $ the,0.7971451282501221,0.1111111111111111,0.15942902565002443,1.0
+cnn_dailymail,7,"(CNN)Universal's ""Furious 7"" c...",universal continues weekend $ $ the largest,0.8047404289245605,0.10526315789473685,0.11496291841779437,1.0
+cnn_dailymail,9,"(CNN)Universal's ""Furious 7"" c...",universal continues build friday weekend $ $ the largest,0.809167742729187,0.1,0.08990752696990967,1.0
+cnn_dailymail,1,Sanders Jr. seemed to take the...,take,0.7934945821762085,0.0,0.7934945821762085,1.0
+cnn_dailymail,3,Sanders Jr. seemed to take the...,take re comments,0.7956303358078003,0.16,0.2652101119359334,1.0
+cnn_dailymail,5,Sanders Jr. seemed to take the...,take public re s comments,0.7845253348350525,0.14814814814814814,0.1569050669670105,1.0
+cnn_dailymail,7,Sanders Jr. seemed to take the...,take public in stride re s comments,0.8025805950164795,0.13793103448275862,0.11465437071663993,1.0
+cnn_dailymail,1,"Can UVA, Phi Kappa Psi or any ...",the,0.7875679135322571,0.0,0.7875679135322571,1.0
+cnn_dailymail,1,While Shibuya's decision does ...,hope,0.7880358695983887,0.0392156862745098,0.7880358695983887,1.0
+cnn_dailymail,3,While Shibuya's decision does ...,the hope beginnings,0.8079515099525452,0.07547169811320754,0.2693171699841817,1.0
+cnn_dailymail,5,While Shibuya's decision does ...,the hope move beginnings promoting,0.803836464881897,0.07272727272727272,0.1607672929763794,1.0
+cnn_dailymail,7,While Shibuya's decision does ...,decision the hope the move beginnings promoting,0.8159365653991699,0.14035087719298248,0.1165623664855957,0.8571428571428571
+cnn_dailymail,9,While Shibuya's decision does ...,s decision the hope the move beginnings promoting gay,0.8265603184700012,0.16949152542372883,0.09184003538555569,0.8888888888888888
+cnn_dailymail,1,Five people were infected and ...,the,0.7917507290840149,0.052631578947368425,0.7917507290840149,1.0
+cnn_dailymail,3,Five people were infected and ...,three might the,0.79245924949646,0.1,0.26415308316548664,1.0
+cnn_dailymail,5,Five people were infected and ...,three might according the cdc,0.820744514465332,0.09523809523809523,0.1641489028930664,1.0
+cnn_dailymail,1,Responding to a query from fla...,defense,0.7895638346672058,0.052631578947368425,0.7895638346672058,1.0
+cnn_dailymail,3,Responding to a query from fla...,defense that to,0.7799509763717651,0.15,0.2599836587905884,1.0
+cnn_dailymail,5,Responding to a query from fla...,turned defense japan that to,0.7965349555015564,0.19047619047619047,0.15930699110031127,1.0
+cnn_dailymail,7,Responding to a query from fla...,query turned defense japan that to never,0.8040798306465149,0.22727272727272727,0.11486854723521642,1.0
+cnn_dailymail,9,Responding to a query from fla...,query turned law defense diet japan that to never,0.8013920783996582,0.2173913043478261,0.08904356426662868,0.8888888888888888
+cnn_dailymail,1,Hadi's government had cooperat...,arrangement,0.7915724515914917,0.0,0.7915724515914917,1.0
+cnn_dailymail,3,Hadi's government had cooperat...,ho that arrangement,0.7977806329727173,0.0,0.26592687765757245,0.6666666666666666
+cnn_dailymail,5,Hadi's government had cooperat...,but ho that arrangement the,0.7892410755157471,0.0,0.15784821510314942,0.8
+cnn_dailymail,7,Hadi's government had cooperat...,s but ho that arrangement and the,0.7888820171356201,0.06666666666666667,0.11269743101937431,0.8571428571428571
+cnn_dailymail,9,Hadi's government had cooperat...,s united fight but ho that arrangement and the,0.7954872846603394,0.0625,0.08838747607337104,0.8888888888888888
+cnn_dailymail,1,(CNN)Film director David Lynch...,film,0.7949788570404053,0.0,0.7949788570404053,1.0
+cnn_dailymail,3,(CNN)Film director David Lynch...,film cult return,0.8095856308937073,0.0,0.2698618769645691,1.0
+cnn_dailymail,5,(CNN)Film director David Lynch...,film revival a cult return,0.8226295113563538,0.07142857142857142,0.16452590227127076,1.0
+cnn_dailymail,7,(CNN)Film director David Lynch...,film revival - a cult was return,0.8153087496757507,0.06896551724137931,0.11647267852510725,1.0
+cnn_dailymail,9,(CNN)Film director David Lynch...,film revival - - a cult was return 2016,0.8114575147628784,0.06666666666666667,0.09016194608476427,1.0
+cnn_dailymail,1,"""First I want to apologize for...",words,0.7847222685813904,0.0,0.7847222685813904,1.0
+cnn_dailymail,3,"""First I want to apologize for...","words know """,0.7952959537506104,0.0,0.26509865125020343,1.0
+cnn_dailymail,5,"""First I want to apologize for...","apologize words je know """,0.8024648427963257,0.0,0.16049296855926515,0.75
+cnn_dailymail,7,"""First I want to apologize for...","want apologize words je player know """,0.7930189967155457,0.04,0.11328842810222081,0.8333333333333334
+cnn_dailymail,9,"""First I want to apologize for...","want apologize poor words je player respect know """,0.8095876574516296,0.038461538461538464,0.08995418416129218,0.875
+cnn_dailymail,1,(CNN)The FBI has confirmed tha...,otherwise,0.7823423147201538,0.0,0.7823423147201538,1.0
+cnn_dailymail,3,(CNN)The FBI has confirmed tha...,the malaysian otherwise,0.7885948419570923,0.08163265306122448,0.26286494731903076,1.0
+cnn_dailymail,5,(CNN)The FBI has confirmed tha...,the the malaysian was otherwise,0.7970143556594849,0.1568627450980392,0.15940287113189697,0.8
+cnn_dailymail,1,(CNN)The presence of a harmful...,u,0.792697012424469,0.05,0.792697012424469,1.0
+cnn_dailymail,3,(CNN)The presence of a harmful...,virgin u environmental,0.7918626070022583,0.09523809523809523,0.2639542023340861,1.0
+cnn_dailymail,5,(CNN)The presence of a harmful...,s virgin illness u environmental,0.7909352779388428,0.13636363636363635,0.15818705558776855,1.0
+cnn_dailymail,7,(CNN)The presence of a harmful...,s virgin illness the u s environmental,0.7766757607460022,0.21739130434782608,0.11095368010657174,0.8571428571428571
+cnn_dailymail,9,(CNN)The presence of a harmful...,presence u s virgin illness the u s environmental,0.7729823589324951,0.25,0.08588692877027723,0.7777777777777778
+cnn_dailymail,1,Rock hasn't commented on the t...,t,0.7960308790206909,0.0,0.7960308790206909,1.0
+cnn_dailymail,3,Rock hasn't commented on the t...,t didn t,0.7900387644767761,0.0,0.26334625482559204,0.6666666666666666
+cnn_dailymail,5,Rock hasn't commented on the t...,t t didn t police,0.7802479267120361,0.0,0.15604958534240723,0.6
+cnn_dailymail,1,Hong Kong (CNN)Six people were...,controversial,0.7869110703468323,0.0,0.7869110703468323,1.0
+cnn_dailymail,3,Hong Kong (CNN)Six people were...,six controversial huge,0.804861307144165,0.04,0.26828710238138836,1.0
+cnn_dailymail,5,Hong Kong (CNN)Six people were...,six controversial southeastern huge provincial,0.8062626719474792,0.07692307692307691,0.16125253438949586,1.0
+cnn_dailymail,1,"That is the idea behind the ""c...","""",0.805546224117279,0.0,0.805546224117279,0.0
+cnn_dailymail,3,"That is the idea behind the ""c...",""" exception large",0.8107755780220032,0.0,0.2702585260073344,1.0
+cnn_dailymail,5,"That is the idea behind the ""c...","idea "" exception a large",0.7937952280044556,0.07407407407407408,0.1587590456008911,1.0
+cnn_dailymail,1,"Wahlberg's film, to be titled ...",linked,0.7868504524230957,0.0,0.7868504524230957,1.0
+cnn_dailymail,3,"Wahlberg's film, to be titled ...",to is linked,0.8010528683662415,0.1212121212121212,0.26701762278874713,1.0
+cnn_dailymail,5,"Wahlberg's film, to be titled ...","to "" is linked website",0.7876388430595398,0.11764705882352941,0.15752776861190795,1.0
+cnn_dailymail,7,"Wahlberg's film, to be titled ...","to "" is linked the deadline website",0.7941157221794128,0.16666666666666669,0.11344510316848755,1.0
+cnn_dailymail,9,"Wahlberg's film, to be titled ...","s to "" is which linked the deadline website",0.793782114982605,0.15789473684210528,0.08819801277584499,1.0
+cnn_dailymail,11,"Wahlberg's film, to be titled ...","s to be "" is which linked the deadline its website",0.7950082421302795,0.2,0.07227347655729814,1.0
+cnn_dailymail,1,(CNN)What do we have for the c...,what,0.7931879162788391,0.0,0.7931879162788391,1.0
+cnn_dailymail,1,"""Detectives are continuing to ...",analyze,0.780368983745575,0.0,0.780368983745575,1.0
+cnn_dailymail,3,"""Detectives are continuing to ...",analyze awaiting we,0.7841092944145203,0.0,0.2613697648048401,1.0
+cnn_dailymail,5,"""Detectives are continuing to ...",analyze awaiting the we may,0.773216187953949,0.03703703703703703,0.1546432375907898,1.0
+cnn_dailymail,1,The fourth season was streamed...,after,0.7890816330909729,0.0,0.7890816330909729,1.0
+cnn_dailymail,1,"Anything's possible, but given...",mor,0.7972041964530945,0.0,0.7972041964530945,0.0
+cnn_dailymail,3,"Anything's possible, but given...",mor it bit,0.800213634967804,0.047619047619047616,0.2667378783226013,0.6666666666666666
+cnn_dailymail,5,"Anything's possible, but given...",s office mor it bit,0.806506872177124,0.09090909090909091,0.1613013744354248,0.8
+cnn_dailymail,7,"Anything's possible, but given...",s office mor night - it bit,0.8178925514221191,0.08888888888888889,0.11684179306030273,0.8333333333333334
+cnn_dailymail,9,"Anything's possible, but given...",s but divorce office mor night - it bit,0.8160147070884705,0.12765957446808512,0.09066830078760783,0.75
+cnn_dailymail,11,"Anything's possible, but given...",s but - divorce office mor night - it s bit,0.815542459487915,0.16666666666666666,0.07414022358981046,0.6666666666666666
+cnn_dailymail,13,"Anything's possible, but given...",s but - divorce affairs office mor night - it s bit t,0.8112253546714783,0.16,0.06240195035934448,0.7272727272727273
+cnn_dailymail,15,"Anything's possible, but given...",s but the - divorce affairs office mor night - it s bit nose t,0.7965089678764343,0.19230769230769232,0.05310059785842895,0.7692307692307693
+cnn_dailymail,1,That was the sentiment of many...,this,0.7971739172935486,0.0,0.7971739172935486,1.0
+cnn_dailymail,3,That was the sentiment of many...,fans this season,0.8152151107788086,0.09090909090909091,0.27173837025960285,1.0
+cnn_dailymail,5,That was the sentiment of many...,sentiment fans end this season,0.8434761166572571,0.08333333333333333,0.16869522333145143,1.0
+cnn_dailymail,1,"New Delhi, India (CNN)Police h...",changing,0.7885839343070984,0.04878048780487806,0.7885839343070984,1.0
+cnn_dailymail,3,"New Delhi, India (CNN)Police h...",police wear changing,0.8012810349464417,0.046511627906976744,0.26709367831548053,1.0
+cnn_dailymail,5,"New Delhi, India (CNN)Police h...",police popular wear minister changing,0.8098466396331787,0.0888888888888889,0.16196932792663574,1.0
+cnn_dailymail,7,"New Delhi, India (CNN)Police h...",police popular wear minister security changing stores,0.8060545325279236,0.0851063829787234,0.11515064750398908,1.0
+cnn_dailymail,1,(CNN)A nuclear submarine being...,a,0.7814098000526428,0.0,0.7814098000526428,1.0
+cnn_dailymail,3,(CNN)A nuclear submarine being...,a law state,0.790595293045044,0.0,0.26353176434834796,1.0
+cnn_dailymail,5,(CNN)A nuclear submarine being...,a according a law state,0.786279559135437,0.0,0.1572559118270874,0.8
+cnn_dailymail,7,(CNN)A nuclear submarine being...,a russian according a law state run,0.7870080471038818,0.0,0.11242972101484026,0.8571428571428571
+cnn_dailymail,1,"The performer, who was also an...",was,0.7889593839645386,0.07142857142857142,0.7889593839645386,1.0
+cnn_dailymail,3,"The performer, who was also an...",accomplished was the,0.7949467301368713,0.13333333333333333,0.2649822433789571,1.0
+cnn_dailymail,5,"The performer, who was also an...",accomplished was the year year,0.783653199672699,0.125,0.15673063993453978,0.8
+cnn_dailymail,7,"The performer, who was also an...",accomplished was the year the year ignited,0.7956563234329224,0.11764705882352941,0.11366518906184606,0.7142857142857143
+cnn_dailymail,9,"The performer, who was also an...",accomplished was the year eurovision the year album ignited,0.7979260683059692,0.1111111111111111,0.08865845203399658,0.7777777777777778
+cnn_dailymail,1,"At the height of his power, Zh...",unrest,0.7873160243034363,0.0,0.7873160243034363,1.0
+cnn_dailymail,3,"At the height of his power, Zh...",zhou court unrest,0.8068167567253113,0.05405405405405406,0.2689389189084371,1.0
+cnn_dailymail,5,"At the height of his power, Zh...",height zhou court prosecution unrest,0.8079440593719482,0.05128205128205128,0.16158881187438964,1.0
+cnn_dailymail,7,"At the height of his power, Zh...",height zhou court prosecution wasn crush unrest,0.8114584684371948,0.04878048780487805,0.1159226383481707,1.0
+cnn_dailymail,9,"At the height of his power, Zh...",height zhou court prosecution wasn crush unrest the name,0.7995569109916687,0.09302325581395347,0.08883965677685207,1.0
+cnn_dailymail,1,With her on that morning is Ma...,also,0.7944256067276001,0.0,0.7944256067276001,1.0
+cnn_dailymail,3,With her on that morning is Ma...,also among a,0.7957319617271423,0.0,0.2652439872423808,1.0
+cnn_dailymail,1,"Kabul, Afghanistan (CNN)Three ...",office,0.7887277603149414,0.07142857142857142,0.7887277603149414,1.0
+cnn_dailymail,3,"Kabul, Afghanistan (CNN)Three ...",a press office,0.801108717918396,0.06666666666666667,0.267036239306132,1.0
+cnn_dailymail,5,"Kabul, Afghanistan (CNN)Three ...",group northern a press office,0.8151611089706421,0.0625,0.1630322217941284,1.0
+cnn_dailymail,7,"Kabul, Afghanistan (CNN)Three ...",five group office northern a press office,0.812184751033783,0.11764705882352941,0.11602639300482613,0.8571428571428571
+cnn_dailymail,9,"Kabul, Afghanistan (CNN)Three ...",three five group office northern according a press office,0.812244176864624,0.16666666666666666,0.09024935298495823,0.8888888888888888
+cnn_dailymail,1,In addition to its 11 channels...,its,0.790469229221344,0.06451612903225806,0.790469229221344,1.0
+cnn_dailymail,3,In addition to its 11 channels...,its director video,0.7956679463386536,0.0606060606060606,0.2652226487795512,1.0
+cnn_dailymail,1,American Jennifer Stewart says...,year,0.7953557372093201,0.0,0.7953557372093201,1.0
+cnn_dailymail,3,American Jennifer Stewart says...,recent year old,0.7958014607429504,0.0,0.26526715358098346,1.0
+cnn_dailymail,1,"And in Ferguson, Missouri, the...",protests,0.7811653017997742,0.0,0.7811653017997742,1.0
+cnn_dailymail,3,"And in Ferguson, Missouri, the...",protests city elections,0.8005381226539612,0.0,0.26684604088465375,1.0
+cnn_dailymail,5,"And in Ferguson, Missouri, the...",shadow protests city s elections,0.8008624911308289,0.0,0.16017249822616578,1.0
+cnn_dailymail,1,The blaze began shortly before...,at,0.7876877188682556,0.08695652173913045,0.7876877188682556,1.0
+cnn_dailymail,3,The blaze began shortly before...,at mike emergency,0.7950633764266968,0.08,0.2650211254755656,1.0
+cnn_dailymail,5,The blaze began shortly before...,m at according mike emergency,0.8107771873474121,0.07407407407407407,0.1621554374694824,1.0
+cnn_dailymail,1,It was one of the many moments...,as,0.8060838580131531,0.042553191489361694,0.8060838580131531,1.0
+cnn_dailymail,3,It was one of the many moments...,many as first,0.7945995926856995,0.08163265306122448,0.26486653089523315,1.0
+cnn_dailymail,5,It was one of the many moments...,many religious as first presidential,0.8118625283241272,0.0784313725490196,0.16237250566482545,1.0
+cnn_dailymail,7,It was one of the many moments...,many religious as senator trail first presidential,0.8121541738510132,0.07547169811320756,0.11602202483585902,1.0
+cnn_dailymail,1,The attack in Kenya killed 142...,was,0.7957823872566223,0.0,0.7957823872566223,1.0
+cnn_dailymail,3,The attack in Kenya killed 142...,and was nation,0.8089001774787903,0.07407407407407407,0.2696333924929301,1.0
+cnn_dailymail,5,The attack in Kenya killed 142...,two and was nation bombing,0.8009827733039856,0.13793103448275862,0.16019655466079713,1.0
+cnn_dailymail,1,"On September 9, 2010, a sectio...",injuring,0.7955815196037292,0.0,0.7955815196037292,1.0
+cnn_dailymail,3,"On September 9, 2010, a sectio...",2010 a injuring,0.794443666934967,0.04347826086956522,0.264814555644989,1.0
+cnn_dailymail,1,"""He was there,"" Tsarnaev's def...",spare,0.7794915437698364,0.0,0.7794915437698364,1.0
+cnn_dailymail,3,"""He was there,"" Tsarnaev's def...",s defense spare,0.7881136536598206,0.0,0.2627045512199402,1.0
+cnn_dailymail,5,"""He was there,"" Tsarnaev's def...",s defense focus spare life,0.79396653175354,0.0,0.158793306350708,1.0
+cnn_dailymail,7,"""He was there,"" Tsarnaev's def...",s defense defense focus jury spare life,0.7967160940170288,0.0,0.11381658485957555,0.8571428571428571
+cnn_dailymail,9,"""He was there,"" Tsarnaev's def...",""" s defense but defense focus jury spare life",0.7947431802749634,0.0,0.08830479780832927,0.875
+cnn_dailymail,1,Mexican state oil company Peme...,began,0.7931376099586487,0.0,0.7931376099586487,1.0
+cnn_dailymail,1,But the ritual enactment of th...,perhaps,0.8090687394142151,0.0,0.8090687394142151,1.0
+cnn_dailymail,3,But the ritual enactment of th...,- and perhaps,0.7864711284637451,0.04347826086956522,0.26215704282124835,1.0
+cnn_dailymail,5,But the ritual enactment of th...,- and perhaps that move,0.8011530041694641,0.08333333333333334,0.16023060083389282,1.0
+cnn_dailymail,7,But the ritual enactment of th...,these - and perhaps - that move,0.7862408757209778,0.1224489795918367,0.11232012510299683,1.0
+cnn_dailymail,9,But the ritual enactment of th...,these the - and perhaps - that we move,0.7954121232032776,0.1568627450980392,0.08837912480036418,1.0
+cnn_dailymail,11,But the ritual enactment of th...,these the easter - and perhaps t - that we move,0.7972980737686157,0.18867924528301888,0.07248164306987416,1.0
+cnn_dailymail,1,(CNN)Police in India are putti...,un,0.7955616116523743,0.0,0.7955616116523743,0.0
+cnn_dailymail,3,(CNN)Police in India are putti...,an overhead un,0.8059533834457397,0.0,0.2686511278152466,0.6666666666666666
+cnn_dailymail,5,(CNN)Police in India are putti...,police an overhead angry un,0.8006178140640259,0.0851063829787234,0.16012356281280518,0.8
+cnn_dailymail,1,This incident was first report...,afternoon,0.8037431240081787,0.0,0.8037431240081787,1.0
+cnn_dailymail,3,This incident was first report...,first and afternoon,0.8077431917190552,0.0,0.2692477305730184,1.0
+cnn_dailymail,1,"Marseille, France (CNN)Investi...",investigators,0.7861596345901489,0.046511627906976744,0.7861596345901489,1.0
+cnn_dailymail,3,"Marseille, France (CNN)Investi...",investigators a french,0.79367995262146,0.08888888888888889,0.2645599842071533,1.0
+cnn_dailymail,1,"Thanks to the 2000 film ""Miss ...",perfect,0.7885809540748596,0.0,0.7885809540748596,1.0
+cnn_dailymail,3,"Thanks to the 2000 film ""Miss ...",we april perfect,0.8099383115768433,0.08,0.26997943719228107,1.0
+cnn_dailymail,5,"Thanks to the 2000 film ""Miss ...","miss "" we april perfect",0.7963166236877441,0.07692307692307693,0.15926332473754884,1.0
+cnn_dailymail,7,"Thanks to the 2000 film ""Miss ...","the miss "" we april the perfect",0.791102409362793,0.07142857142857144,0.11301462990897042,0.8333333333333334
+cnn_dailymail,1,Twisted Sister says that its 2...,a,0.7949991822242737,0.07692307692307693,0.7949991822242737,1.0
+cnn_dailymail,3,Twisted Sister says that its 2...,its a press,0.7818369269371033,0.14285714285714285,0.2606123089790344,1.0
+cnn_dailymail,1,"The film, which was directed b...",return,0.7952750325202942,0.0,0.7952750325202942,1.0
+cnn_dailymail,3,"The film, which was directed b...",period a return,0.7993283867835999,0.08,0.26644279559453327,1.0
+cnn_dailymail,5,"The film, which was directed b...",period 60s involved a return,0.8092835545539856,0.07407407407407407,0.16185671091079712,1.0
+cnn_dailymail,7,"The film, which was directed b...",focuses period 60s involved a stand return,0.8002894520759583,0.06896551724137931,0.11432706458227974,1.0
+cnn_dailymail,9,"The film, which was directed b...",focuses period early 60s involved a stand return was,0.7880822420120239,0.1290322580645161,0.08756469355689155,1.0
+cnn_dailymail,1,It was the first tornado the s...,first,0.793086588382721,0.0,0.793086588382721,1.0
+cnn_dailymail,3,It was the first tornado the s...,first sheriff his,0.8054095506668091,0.0,0.2684698502222697,1.0
+cnn_dailymail,1,The officer initially said tha...,who,0.801933765411377,0.0,0.801933765411377,1.0
+cnn_dailymail,3,The officer initially said tha...,who sl tried,0.7942855358123779,0.0,0.26476184527079266,0.6666666666666666
+cnn_dailymail,1,"The photographer, Daniel Ramos...",wrestle,0.8015690445899963,0.0,0.8015690445899963,1.0
+cnn_dailymail,3,"The photographer, Daniel Ramos...",civil tried wrestle,0.8121564388275146,0.0,0.2707188129425049,1.0
+cnn_dailymail,5,"The photographer, Daniel Ramos...",photographer daniel civil tried wrestle,0.7910569906234741,0.06896551724137931,0.1582113981246948,1.0
+cnn_dailymail,7,"The photographer, Daniel Ramos...",photographer daniel civil hip hop tried wrestle,0.8084709048271179,0.06451612903225806,0.11549584354673113,1.0
+cnn_dailymail,1,"By cathartically writing ""Amer...",memory,0.7886413335800171,0.0,0.7886413335800171,1.0
+cnn_dailymail,3,"By cathartically writing ""Amer...",""" mclean memory",0.7982329726219177,0.0,0.2660776575406392,1.0
+cnn_dailymail,1,(CNN)Their relationship led to...,but,0.7892203330993652,0.0,0.7892203330993652,1.0
+cnn_dailymail,3,(CNN)Their relationship led to...,their but are,0.7802372574806213,0.06451612903225806,0.2600790858268738,1.0
+cnn_dailymail,5,(CNN)Their relationship led to...,their jail but vi are,0.7964513897895813,0.06060606060606061,0.15929027795791625,0.8
+cnn_dailymail,1,"""Don McLean's manuscript of 'A...",s,0.7882161140441895,0.05555555555555556,0.7882161140441895,1.0
+cnn_dailymail,3,"""Don McLean's manuscript of 'A...",s fitting statement,0.8031522035598755,0.05263157894736842,0.2677174011866252,1.0
+cnn_dailymail,5,"""Don McLean's manuscript of 'A...",s a fitting songwriters statement,0.8195911645889282,0.049999999999999996,0.16391823291778565,1.0
+cnn_dailymail,7,"""Don McLean's manuscript of 'A...","s achieved a fitting songwriters "" statement",0.8065287470817566,0.048780487804878044,0.11521839244025094,1.0
+cnn_dailymail,9,"""Don McLean's manuscript of 'A...","s achieved american a fitting songwriters "" s statement",0.8043365478515625,0.1395348837209302,0.0893707275390625,0.875
+cnn_dailymail,11,"""Don McLean's manuscript of 'A...","s achieved 3rd american a fitting foremost songwriters "" s statement",0.8017603754997253,0.13333333333333333,0.07288730686361139,0.9
+cnn_dailymail,1,"You see, Chokalingam revealed ...",pretty,0.7860671877861023,0.0,0.7860671877861023,1.0
+cnn_dailymail,3,"You see, Chokalingam revealed ...",as he pretty,0.8022559285163879,0.0,0.26741864283879596,1.0
+cnn_dailymail,5,"You see, Chokalingam revealed ...",as he daring pretty he,0.7853595018386841,0.0,0.15707190036773683,0.8
+cnn_dailymail,7,"You see, Chokalingam revealed ...",cho as he daring pretty he be,0.7690290808677673,0.05714285714285715,0.1098612972668239,0.7142857142857143
+cnn_dailymail,9,"You see, Chokalingam revealed ...",cho as undergraduate he daring offensive pretty he be,0.7836934328079224,0.10810810810810811,0.08707704808976915,0.7777777777777778
+cnn_dailymail,11,"You see, Chokalingam revealed ...",cho as undergraduate he daring his offensive pretty he be american,0.7988526821136475,0.10256410256410255,0.07262297110124068,0.8181818181818182
+cnn_dailymail,13,"You see, Chokalingam revealed ...",cho as undergraduate he daring his or offensive pretty sc he be american,0.7952847480773926,0.0975609756097561,0.06117574985210712,0.7692307692307693
+cnn_dailymail,15,"You see, Chokalingam revealed ...",cho as undergraduate university chicago he daring his or offensive pretty sc he be american,0.7925843596458435,0.09302325581395349,0.0528389573097229,0.8
+cnn_dailymail,1,"""I've been so happy with my (S...",i,0.7918320894241333,0.0,0.7918320894241333,1.0
+cnn_dailymail,3,"""I've been so happy with my (S...","i a """,0.7833404541015625,0.0,0.2611134847005208,1.0
+cnn_dailymail,5,"""I've been so happy with my (S...","experience i say a """,0.793495237827301,0.0,0.15869904756546022,1.0
+cnn_dailymail,1,"""Race, poverty, inadequate leg...",executive,0.7875234484672546,0.0,0.7875234484672546,1.0
+cnn_dailymail,3,"""Race, poverty, inadequate leg...",and executive lead,0.7958296537399292,0.0,0.26527655124664307,1.0
+cnn_dailymail,5,"""Race, poverty, inadequate leg...","and "" executive hint lead",0.7800313830375671,0.0,0.15600627660751343,0.75
+cnn_dailymail,7,"""Race, poverty, inadequate leg...","and "" executive hint lead said american",0.7879200577735901,0.0,0.11256000825337001,0.8333333333333334
+cnn_dailymail,9,"""Race, poverty, inadequate leg...","and create "" the executive hint lead said american",0.7890509963035583,0.0,0.0876723329226176,0.875
+cnn_dailymail,11,"""Race, poverty, inadequate leg...","and create "" the s executive hint lead said his american",0.7836428880691528,0.04651162790697675,0.07124026255174117,0.9
+cnn_dailymail,13,"""Race, poverty, inadequate leg...","and create textbook "" the s executive hint s lead said his american",0.7790598273277283,0.04444444444444444,0.059927679025209867,0.8333333333333334
+cnn_dailymail,15,"""Race, poverty, inadequate leg...","and prosecutor innocence create textbook "" the s executive hint s lead said his american",0.7822721600532532,0.0425531914893617,0.052151477336883544,0.7857142857142857
+cnn_dailymail,1,(CNN)Blues legend B.B. King wa...,though,0.7952863574028015,0.0,0.7952863574028015,1.0
+cnn_dailymail,3,(CNN)Blues legend B.B. King wa...,blues though ai,0.80463045835495,0.04347826086956522,0.26821015278498334,0.6666666666666666
+cnn_dailymail,1,"Luckily, Katie -- a giraffe at...",-,0.7806166410446167,0.0,0.7806166410446167,0.0
+cnn_dailymail,3,"Luckily, Katie -- a giraffe at...",- is champ,0.8117527365684509,0.0,0.27058424552281696,1.0
+cnn_dailymail,5,"Luckily, Katie -- a giraffe at...",katie dallas - is champ,0.7777633666992188,0.07407407407407408,0.15555267333984374,1.0
+cnn_dailymail,1,(CNN)Do you remember the talk ...,try,0.8005408644676208,0.0,0.8005408644676208,1.0
+cnn_dailymail,3,(CNN)Do you remember the talk ...,led try take,0.7796928286552429,0.0,0.2598976095517476,1.0
+cnn_dailymail,1,"The fourth season of ""Game of ...",the,0.7993739247322083,0.08695652173913045,0.7993739247322083,1.0
+cnn_dailymail,3,"The fourth season of ""Game of ...",ty the hbo,0.8126274347305298,0.08,0.27087581157684326,0.6666666666666666
+cnn_dailymail,1,(CNN)A popular Chinese televis...,subject,0.7970411777496338,0.0,0.7970411777496338,1.0
+cnn_dailymail,3,(CNN)A popular Chinese televis...,a subject controversy,0.8017515540122986,0.0,0.26725051800409955,1.0
+cnn_dailymail,5,(CNN)A popular Chinese televis...,a impromptu subject controversy late,0.8000290989875793,0.048780487804878044,0.16000581979751588,1.0
+cnn_dailymail,1,For Gregory and others who liv...,move,0.790502667427063,0.0,0.790502667427063,1.0
+cnn_dailymail,3,For Gregory and others who liv...,mix move debate,0.810758650302887,0.0,0.27025288343429565,1.0
+cnn_dailymail,5,For Gregory and others who liv...,mix from move to debate,0.806749165058136,0.0,0.1613498330116272,1.0
+cnn_dailymail,7,For Gregory and others who liv...,wednesday mix from move to expressions debate,0.8012441992759705,0.0,0.11446345703942436,1.0
+cnn_dailymail,9,For Gregory and others who liv...,lived wednesday mix from move to expressions gratitude debate,0.8025521636009216,0.0,0.08917246262232463,1.0
+cnn_dailymail,11,For Gregory and others who liv...,lived wednesday s mix from move to expressions gratitude to debate,0.7975080609321594,0.0,0.0725007328120145,0.9090909090909091
+cnn_dailymail,1,(The Hollywood Reporter)Richar...,winning,0.7960313558578491,0.0,0.7960313558578491,1.0
+cnn_dailymail,3,(The Hollywood Reporter)Richar...,richard winning long,0.7700082659721375,0.048780487804878044,0.25666942199071247,1.0
+cnn_dailymail,5,(The Hollywood Reporter)Richar...,richard emmy winning long running,0.7924254536628723,0.046511627906976744,0.15848509073257447,1.0
+cnn_dailymail,7,(The Hollywood Reporter)Richar...,richard the emmy winning crank long running,0.7927356958389282,0.08888888888888889,0.11324795654841832,0.8571428571428571
+cnn_dailymail,1,(CNN)The outlines of a nuclear...,outlines,0.7998095154762268,0.0,0.7998095154762268,1.0
+cnn_dailymail,3,(CNN)The outlines of a nuclear...,the outlines nuclear,0.8133642077445984,0.06896551724137931,0.2711214025815328,1.0
+cnn_dailymail,1,But perhaps most damning for t...,at,0.8014006614685059,0.0,0.8014006614685059,1.0
+cnn_dailymail,3,But perhaps most damning for t...,- at -,0.7765204906463623,0.0,0.2588401635487874,1.0
+cnn_dailymail,5,But perhaps most damning for t...,- and at - cuban,0.8059431314468384,0.06451612903225806,0.16118862628936767,1.0
+cnn_dailymail,7,But perhaps most damning for t...,"- and "" at summit - cuban",0.829291045665741,0.0625,0.11847014938082014,1.0
+cnn_dailymail,1,The speaking portion of the ni...,speaking,0.7981844544410706,0.0,0.7981844544410706,1.0
+cnn_dailymail,3,The speaking portion of the ni...,speaking night s,0.8032373189926147,0.0,0.26774577299753827,1.0
+cnn_dailymail,1,Several Afghan observers say t...,omar,0.7929747104644775,0.05882352941176471,0.7929747104644775,1.0
+cnn_dailymail,1,That's the trending question o...,photo,0.7914756536483765,0.07142857142857142,0.7914756536483765,1.0
+cnn_dailymail,1,Other reports of tornadoes cam...,the,0.7862086892127991,0.0689655172413793,0.7862086892127991,1.0
+cnn_dailymail,3,Other reports of tornadoes cam...,tornadoes according the,0.8204648494720459,0.12903225806451613,0.27348828315734863,1.0
+cnn_dailymail,1,"A year later, she got married ...",without,0.7887893915176392,0.0,0.7887893915176392,1.0
+cnn_dailymail,3,"A year later, she got married ...",year different without,0.793883204460144,0.0,0.26462773482004803,1.0
+cnn_dailymail,5,"A year later, she got married ...",year she but different without,0.7806458473205566,0.052631578947368425,0.15612916946411132,1.0
+cnn_dailymail,1,An officer and the suspect wer...,according,0.7908286452293396,0.0,0.7908286452293396,1.0
+cnn_dailymail,1,"On Wednesday, E. Royster Harpe...",social,0.8111439347267151,0.0,0.8111439347267151,1.0
+cnn_dailymail,3,"On Wednesday, E. Royster Harpe...",statement social and,0.8089388608932495,0.0,0.2696462869644165,1.0
+cnn_dailymail,5,"On Wednesday, E. Royster Harpe...",e statement social and that,0.8042789697647095,0.0,0.1608557939529419,1.0
+cnn_dailymail,7,"On Wednesday, E. Royster Harpe...",e statement was showing social and that,0.8217213749885559,0.0,0.11738876785550799,1.0
+cnn_dailymail,9,"On Wednesday, E. Royster Harpe...",e said statement was mistake showing social and that,0.8361532092094421,0.0,0.09290591213438246,1.0
+cnn_dailymail,11,"On Wednesday, E. Royster Harpe...",e said statement was mistake showing social and that the show,0.8451223373413086,0.1176470588235294,0.07682930339466441,1.0
+cnn_dailymail,1,"In 2009, Satyam Computers Serv...",massive,0.7879090309143066,0.05128205128205127,0.7879090309143066,1.0
+cnn_dailymail,3,"In 2009, Satyam Computers Serv...",massive then fictitious,0.7863628268241882,0.048780487804878044,0.26212094227472943,1.0
+cnn_dailymail,5,"In 2009, Satyam Computers Serv...",sat massive then fictitious none,0.8041632175445557,0.046511627906976744,0.16083264350891113,0.6
+cnn_dailymail,1,The victim in that case is dif...,found,0.8057895302772522,0.044444444444444446,0.8057895302772522,1.0
+cnn_dailymail,3,The victim in that case is dif...,one found recent,0.7923423647880554,0.04255319148936171,0.2641141215960185,1.0
+cnn_dailymail,5,The victim in that case is dif...,victim one remains found recent,0.8138123750686646,0.04081632653061225,0.16276247501373292,1.0
+cnn_dailymail,1,The collection of the first si...,which,0.7956200242042542,0.0,0.7956200242042542,1.0
+cnn_dailymail,3,The collection of the first si...,collection which give,0.8025060296058655,0.06896551724137931,0.2675020098686218,1.0
+cnn_dailymail,5,The collection of the first si...,collection first movies which give,0.8333162069320679,0.06451612903225806,0.16666324138641359,1.0
+cnn_dailymail,1,Washington (CNN)An Iranian mil...,spark,0.8005619645118713,0.0,0.8005619645118713,0.0
+cnn_dailymail,3,Washington (CNN)An Iranian mil...,navy spark cnn,0.7878639698028564,0.05263157894736842,0.26262132326761883,0.6666666666666666
+cnn_dailymail,5,Washington (CNN)An Iranian mil...,s navy persian spark cnn,0.7951061725616455,0.09999999999999999,0.1590212345123291,0.8
+cnn_dailymail,1,He used his photography to doc...,take,0.7948037981987,0.07999999999999999,0.7948037981987,1.0
+cnn_dailymail,3,He used his photography to doc...,real allows take,0.8005369305610657,0.07407407407407407,0.2668456435203552,1.0
+cnn_dailymail,5,He used his photography to doc...,real life extraordinary allows take,0.8005366325378418,0.06896551724137931,0.16010732650756837,1.0
+cnn_dailymail,7,He used his photography to doc...,real life s extraordinary allows take long,0.7982999682426453,0.12903225806451613,0.11404285260609218,1.0
+cnn_dailymail,9,He used his photography to doc...,real life s extraordinary which allows take long they,0.8004022836685181,0.18181818181818182,0.08893358707427979,1.0
+cnn_dailymail,11,He used his photography to doc...,real life other s extraordinary which allows take long they newborn,0.8019612431526184,0.17142857142857143,0.07290556755932895,0.9090909090909091
+cnn_dailymail,13,He used his photography to doc...,real life other s extraordinary which allows take long their they can newborn,0.8019927740097046,0.16216216216216217,0.06169175184690035,0.9230769230769231
+cnn_dailymail,15,He used his photography to doc...,real life other s extraordinary which allows take long their careers they can care newborn,0.7969645857810974,0.15384615384615385,0.0531309723854065,0.9333333333333333
+cnn_dailymail,1,"Hicks, who was the victims' ne...",night,0.7879359722137451,0.0,0.7879359722137451,1.0
+cnn_dailymail,3,"Hicks, who was the victims' ne...",victims neighbor night,0.8073320984840393,0.0588235294117647,0.26911069949467975,1.0
+cnn_dailymail,1,Rachel McAdams is Ani Bezzerid...,triggers,0.8041836023330688,0.0,0.8041836023330688,1.0
+cnn_dailymail,3,Rachel McAdams is Ani Bezzerid...,while triggers billions,0.8326956629753113,0.0,0.27756522099177044,1.0
+cnn_dailymail,5,Rachel McAdams is Ani Bezzerid...,while discovers triggers investigation billions,0.8135558366775513,0.0,0.16271116733551025,1.0
+cnn_dailymail,7,Rachel McAdams is Ani Bezzerid...,detective while discovers triggers investigation multiple billions,0.8130927085876465,0.0,0.11615610122680664,1.0
+cnn_dailymail,9,Rachel McAdams is Ani Bezzerid...,detective while war motorcycle discovers triggers investigation multiple billions,0.8031355142593384,0.0,0.0892372793621487,1.0
+cnn_dailymail,11,Rachel McAdams is Ani Bezzerid...,detective while a war motorcycle discovers crime triggers investigation multiple billions,0.8065040111541748,0.06451612903225806,0.07331854646856134,1.0
+cnn_dailymail,13,Rachel McAdams is Ani Bezzerid...,ventura s detective while a war motorcycle discovers crime triggers investigation multiple billions,0.7990899085998535,0.060606060606060615,0.06146845450768104,1.0
+cnn_dailymail,1,"""But today we celebrate a vict...",through,0.78934645652771,0.0,0.78934645652771,1.0
+cnn_dailymail,1,"The suspect, who the spokesper...",the,0.775119423866272,0.0,0.775119423866272,1.0
+cnn_dailymail,3,"The suspect, who the spokesper...","the "" det",0.7635080218315125,0.0,0.25450267394383747,1.0
+cnn_dailymail,5,"The suspect, who the spokesper...","the statement "" det that",0.7722306847572327,0.0,0.15444613695144654,1.0
+cnn_dailymail,7,"The suspect, who the spokesper...","who the statement "" det that individual",0.7730500102043152,0.0,0.11043571574347359,1.0
+cnn_dailymail,9,"The suspect, who the spokesper...","who and according the statement "" det that individual",0.7755959033966064,0.0,0.08617732259962294,1.0
+cnn_dailymail,1,While he wouldn't say much abo...,"""",0.8109099268913269,0.0,0.8109099268913269,0.0
+cnn_dailymail,3,While he wouldn't say much abo...,"when o """,0.7908900380134583,0.07407407407407407,0.26363001267115277,1.0
+cnn_dailymail,5,While he wouldn't say much abo...,"when o "" the they",0.8054710030555725,0.13793103448275865,0.1610942006111145,1.0
+cnn_dailymail,1,The state trooper stopped the ...,tennessee,0.7713451385498047,0.0,0.7713451385498047,1.0
+cnn_dailymail,3,The state trooper stopped the ...,transportation international tennessee,0.8054407238960266,0.0,0.26848024129867554,1.0
+cnn_dailymail,5,The state trooper stopped the ...,department transportation international according tennessee,0.813722550868988,0.0,0.1627445101737976,1.0
+cnn_dailymail,7,The state trooper stopped the ...,bus s department transportation international according tennessee,0.7965419888496399,0.0625,0.1137917126928057,1.0
+cnn_dailymail,9,The state trooper stopped the ...,bus t s department transportation international according to tennessee,0.8124033808708191,0.058823529411764705,0.0902670423189799,1.0
+EdinburghNLP/xsum,1,"""There's a desperate need for ...",finding,0.8109558820724487,0.0,0.8109558820724487,1.0
+EdinburghNLP/xsum,3,"""There's a desperate need for ...",desperate finding lack,0.8241916298866272,0.0,0.2747305432955424,1.0
+EdinburghNLP/xsum,5,"""There's a desperate need for ...",s desperate finding those lack,0.8211115002632141,0.0,0.16422230005264282,1.0
+EdinburghNLP/xsum,1,Officers searched properties i...,waterfront,0.8062819242477417,0.0,0.8062819242477417,1.0
+EdinburghNLP/xsum,1,Denying the four suspects bail...,who,0.7992190718650818,0.0,0.7992190718650818,1.0
+EdinburghNLP/xsum,3,Denying the four suspects bail...,continued year who,0.7978190183639526,0.0,0.2659396727879842,1.0
+EdinburghNLP/xsum,5,Denying the four suspects bail...,continued where year who to,0.783696711063385,0.0,0.156739342212677,1.0
+EdinburghNLP/xsum,7,Denying the four suspects bail...,court continued where suspects year who to,0.8110141158103943,0.0,0.1158591594014849,1.0
+EdinburghNLP/xsum,9,Denying the four suspects bail...,court continued house where suspects year who attention to,0.8101669549942017,0.0,0.0900185505549113,1.0
+EdinburghNLP/xsum,11,Denying the four suspects bail...,prosecutors court continued house where suspects year who attention to kiss,0.8154770731925964,0.0,0.07413427938114513,1.0
+EdinburghNLP/xsum,13,Denying the four suspects bail...,prosecutors court van continued house where suspects year old who attention to kiss,0.8098446130752563,0.0,0.06229573946732741,1.0
+EdinburghNLP/xsum,15,Denying the four suspects bail...,judge prosecutors court van continued house where suspects year old who attention to kiss floor,0.8096344470977783,0.0,0.05397562980651856,1.0
+EdinburghNLP/xsum,17,Denying the four suspects bail...,judge prosecutors court van continued house where suspects 18 year old who suffers attention to kiss floor,0.8082876205444336,0.0,0.0475463306202608,1.0
+EdinburghNLP/xsum,1,The 48-year-old former Arsenal...,year,0.8064789175987244,0.11764705882352941,0.8064789175987244,1.0
+EdinburghNLP/xsum,1,"Dr Longo said: ""Medically, the...",these,0.8083507418632507,0.0,0.8083507418632507,1.0
+EdinburghNLP/xsum,3,"Dr Longo said: ""Medically, the...",these be you,0.8174103498458862,0.1,0.2724701166152954,1.0
+EdinburghNLP/xsum,5,"Dr Longo said: ""Medically, the...",""" these potential be you",0.822981059551239,0.09523809523809523,0.1645962119102478,1.0
+EdinburghNLP/xsum,7,"Dr Longo said: ""Medically, the...",""" these potential be at that you",0.8085502982139587,0.08695652173913045,0.11550718545913696,1.0
+EdinburghNLP/xsum,9,"Dr Longo said: ""Medically, the...",""" these potential be at that you reverse symptoms",0.8320246338844299,0.07999999999999999,0.09244718154271443,1.0
+EdinburghNLP/xsum,1,"""If those two companies merged...",g,0.8064117431640625,0.0,0.8064117431640625,0.0
+EdinburghNLP/xsum,3,"""If those two companies merged...",g suit even,0.8060116767883301,0.0,0.26867055892944336,0.6666666666666666
+EdinburghNLP/xsum,5,"""If those two companies merged...",branded also g suit even,0.8069003820419312,0.0,0.16138007640838622,0.8
+EdinburghNLP/xsum,7,"""If those two companies merged...",would branded also g suit to even,0.8063616752624512,0.06451612903225806,0.11519452503749303,0.8571428571428571
+EdinburghNLP/xsum,9,"""If those two companies merged...",would branded end also g to suit to even,0.8105676174163818,0.06060606060606061,0.0900630686018202,0.7777777777777778
+EdinburghNLP/xsum,1,British Cycling subsequently a...,in,0.7999409437179565,0.0,0.7999409437179565,1.0
+EdinburghNLP/xsum,3,British Cycling subsequently a...,winning approach in,0.8285743594169617,0.09090909090909091,0.27619145313898724,1.0
+EdinburghNLP/xsum,5,British Cycling subsequently a...,to well winning approach in,0.8209905028343201,0.08333333333333333,0.164198100566864,0.8
+EdinburghNLP/xsum,1,"""The one single thing that an ...",write,0.7994275689125061,0.0,0.7994275689125061,1.0
+EdinburghNLP/xsum,3,"""The one single thing that an ...",an write write,0.7916290760040283,0.0,0.26387635866800946,0.6666666666666666
+EdinburghNLP/xsum,1,If they prove too much at odds...,a,0.8123548626899719,0.0,0.8123548626899719,1.0
+EdinburghNLP/xsum,3,If they prove too much at odds...,perhaps eventually a,0.812920868396759,0.0,0.2709736227989197,1.0
+EdinburghNLP/xsum,5,If they prove too much at odds...,control court perhaps eventually a,0.8091831207275391,0.0,0.1618366241455078,1.0
+EdinburghNLP/xsum,7,If they prove too much at odds...,control get court perhaps eventually a up,0.820248007774353,0.0,0.11717828682490758,1.0
+EdinburghNLP/xsum,9,If they prove too much at odds...,own control which get court perhaps eventually a up,0.8215697407722473,0.0,0.09128552675247192,1.0
+EdinburghNLP/xsum,11,If they prove too much at odds...,bt own control which get court perhaps eventually a full up,0.8161299228668213,0.046511627906976744,0.0741936293515292,1.0
+EdinburghNLP/xsum,1,"""
+Rodgers lost two semi-finals...",make,0.803352952003479,0.0,0.803352952003479,1.0
+EdinburghNLP/xsum,3,"""
+Rodgers lost two semi-finals...",finals make summer,0.8154788613319397,0.0,0.27182628711064655,1.0
+EdinburghNLP/xsum,5,"""
+Rodgers lost two semi-finals...",finals is make club summer,0.8150060772895813,0.06666666666666667,0.16300121545791627,1.0
+EdinburghNLP/xsum,7,"""
+Rodgers lost two semi-finals...",finals is make third club the summer,0.8121932744979858,0.125,0.1160276106425694,1.0
+EdinburghNLP/xsum,1,"""If we're not competitive we w...",income,0.8109159469604492,0.0,0.8109159469604492,1.0
+EdinburghNLP/xsum,3,"""If we're not competitive we w...",third income comes,0.8165619373321533,0.0,0.2721873124440511,1.0
+EdinburghNLP/xsum,5,"""If we're not competitive we w...",best third s income comes,0.8020050525665283,0.0909090909090909,0.16040101051330566,1.0
+EdinburghNLP/xsum,7,"""If we're not competitive we w...",best third the s income comes northern,0.8152945041656494,0.08333333333333333,0.11647064345223564,1.0
+EdinburghNLP/xsum,9,"""If we're not competitive we w...",re best a third the s income comes northern,0.814134418964386,0.15384615384615383,0.09045937988493177,1.0
+EdinburghNLP/xsum,11,"""If we're not competitive we w...",re best and best a third the s income comes northern,0.8032532930374146,0.21428571428571427,0.07302302663976495,0.9090909090909091
+EdinburghNLP/xsum,1,It said the wrong patient info...,hospital,0.8062595725059509,0.09523809523809523,0.8062595725059509,1.0
+EdinburghNLP/xsum,3,It said the wrong patient info...,said wrong hospital,0.8311065435409546,0.08695652173913045,0.27703551451365155,1.0
+EdinburghNLP/xsum,1,"""We are speaking to government...",get,0.8079952001571655,0.0,0.8079952001571655,1.0
+EdinburghNLP/xsum,3,"""We are speaking to government...",are we get,0.8172475099563599,0.0,0.27241583665211994,1.0
+EdinburghNLP/xsum,5,"""We are speaking to government...",we are we get compromise,0.8333534002304077,0.0,0.16667068004608154,0.8
+EdinburghNLP/xsum,1,O'Kane moved for an undisclose...,undisclosed,0.7905607223510742,0.0,0.7905607223510742,1.0
+EdinburghNLP/xsum,3,O'Kane moved for an undisclose...,undisclosed but strapped,0.8020393252372742,0.0,0.26734644174575806,1.0
+EdinburghNLP/xsum,1,Mr Lewis was receiving treatme...,cy,0.8118777275085449,0.0,0.8118777275085449,0.0
+EdinburghNLP/xsum,3,Mr Lewis was receiving treatme...,hospital cy officer,0.843669593334198,0.16,0.281223197778066,0.6666666666666666
+EdinburghNLP/xsum,5,Mr Lewis was receiving treatme...,hospital s cy visit officer,0.7994959354400635,0.14814814814814814,0.1598991870880127,0.8
+EdinburghNLP/xsum,1,The 33-year-old has featured o...,year,0.7950636148452759,0.0,0.7950636148452759,1.0
+EdinburghNLP/xsum,3,The 33-year-old has featured o...,year term having,0.7848414778709412,0.0,0.2616138259569804,1.0
+EdinburghNLP/xsum,5,The 33-year-old has featured o...,year term having new year,0.8075792789459229,0.0,0.16151585578918456,0.8
+EdinburghNLP/xsum,1,"""If history repeats itself wit...",do,0.8026513457298279,0.08695652173913045,0.8026513457298279,1.0
+EdinburghNLP/xsum,3,"""If history repeats itself wit...",is climate do,0.8092711567878723,0.08,0.2697570522626241,1.0
+EdinburghNLP/xsum,5,"""If history repeats itself wit...",is nay climate i do,0.8140442967414856,0.07407407407407407,0.1628088593482971,0.8
+EdinburghNLP/xsum,7,"""If history repeats itself wit...",is nay climate i do keep they,0.8164125680923462,0.06896551724137931,0.11663036687033516,0.8571428571428571
+EdinburghNLP/xsum,9,"""If history repeats itself wit...",is nay climate i would do keep they can,0.8114655613899231,0.1290322580645161,0.0901628401544359,0.8888888888888888
+EdinburghNLP/xsum,11,"""If history repeats itself wit...",another is basically nay climate i would do keep they can,0.8147469758987427,0.12121212121212123,0.0740679068998857,0.9090909090909091
+EdinburghNLP/xsum,1,The ska group tweeted the news...,our,0.7961599230766296,0.0,0.7961599230766296,1.0
+EdinburghNLP/xsum,3,The ska group tweeted the news...,news the our,0.7955226302146912,0.11764705882352941,0.2651742100715637,1.0
+EdinburghNLP/xsum,5,The ska group tweeted the news...,news the world our rip,0.7963898777961731,0.10526315789473682,0.15927797555923462,1.0
+EdinburghNLP/xsum,7,The ska group tweeted the news...,news is great the world our rip,0.7924187183380127,0.09523809523809523,0.11320267404828753,1.0
+EdinburghNLP/xsum,9,The ska group tweeted the news...,news is great the world s our beloved rip,0.7865322232246399,0.08695652173913043,0.0873924692471822,1.0
+EdinburghNLP/xsum,1,"The 14-time major champion, pl...",level,0.804902970790863,0.0,0.804902970790863,1.0
+EdinburghNLP/xsum,3,"The 14-time major champion, pl...",time level cut,0.8162529468536377,0.08695652173913045,0.2720843156178792,1.0
+EdinburghNLP/xsum,5,"The 14-time major champion, pl...",time level par cut round,0.8149027824401855,0.08000000000000002,0.1629805564880371,1.0
+EdinburghNLP/xsum,7,"The 14-time major champion, pl...",time playing card level par cut round,0.8122009634971619,0.07407407407407408,0.11602870907102313,0.8571428571428571
+EdinburghNLP/xsum,9,"The 14-time major champion, pl...",time playing card level par 72 but cut round,0.8241478204727173,0.06896551724137932,0.09157198005252415,0.8888888888888888
+EdinburghNLP/xsum,1,"Cole said: ""It is a long road ...",long,0.8128917813301086,0.09523809523809523,0.8128917813301086,1.0
+EdinburghNLP/xsum,1,"""Google/YouTube will according...",the,0.8016397953033447,0.07999999999999999,0.8016397953033447,1.0
+EdinburghNLP/xsum,3,"""Google/YouTube will according...",the said users,0.8091527223587036,0.07407407407407407,0.26971757411956787,1.0
+EdinburghNLP/xsum,1,He also sustained a knee injur...,knee,0.7951409220695496,0.07692307692307693,0.7951409220695496,1.0
+EdinburghNLP/xsum,3,He also sustained a knee injur...,knee ruled four,0.821296215057373,0.07142857142857142,0.27376540501912433,1.0
+EdinburghNLP/xsum,1,"""
+Swimmer Jazz Carlin, rower V...",seventh,0.7890783548355103,0.0,0.7890783548355103,1.0
+EdinburghNLP/xsum,3,"""
+Swimmer Jazz Carlin, rower V...",rugby james seventh,0.7837503552436829,0.0,0.261250118414561,1.0
+EdinburghNLP/xsum,1,The north-eastern state of Ass...,hundreds,0.8106169700622559,0.0,0.8106169700622559,1.0
+EdinburghNLP/xsum,3,The north-eastern state of Ass...,eastern hundreds thousands,0.8081416487693787,0.0,0.2693805495897929,1.0
+EdinburghNLP/xsum,1,"""He was totally up for marryin...",did,0.8269851207733154,0.0,0.8269851207733154,1.0
+EdinburghNLP/xsum,1,"""
+But the regulator said the f...",alert,0.7873549461364746,0.0,0.7873549461364746,0.0
+EdinburghNLP/xsum,3,"""
+But the regulator said the f...",regulator speedy alert,0.7954040169715881,0.0,0.26513467232386273,0.6666666666666666
+EdinburghNLP/xsum,5,"""
+But the regulator said the f...",regulator speedy alert took 2011,0.7953053116798401,0.0,0.159061062335968,0.8
+EdinburghNLP/xsum,1,"""I don't always say some of th...",should,0.819923460483551,0.0,0.819923460483551,1.0
+EdinburghNLP/xsum,3,"""I don't always say some of th...","should "" few",0.8051646947860718,0.0,0.26838823159535724,1.0
+EdinburghNLP/xsum,5,"""I don't always say some of th...","say should very "" few",0.8137063980102539,0.0,0.1627412796020508,1.0
+EdinburghNLP/xsum,7,"""I don't always say some of th...","say say if should very "" few",0.8152771592140198,0.0,0.11646816560200282,0.8333333333333334
+EdinburghNLP/xsum,1,"So, assuming Murray's hip does...",assuming,0.8046600222587585,0.0,0.8046600222587585,1.0
+EdinburghNLP/xsum,3,"So, assuming Murray's hip does...",assuming the how,0.7901583313941956,0.0,0.26338611046473187,1.0
+EdinburghNLP/xsum,1,Mandla Hlatshwayo and his frie...,group,0.8065797686576843,0.0,0.8065797686576843,1.0
+EdinburghNLP/xsum,3,Mandla Hlatshwayo and his frie...,group had pub,0.8227102756500244,0.0,0.2742367585500081,1.0
+EdinburghNLP/xsum,1,"The Olympic champion, 29, was ...",score,0.7912877798080444,0.0,0.7912877798080444,1.0
+EdinburghNLP/xsum,3,"The Olympic champion, 29, was ...",was traditionally score,0.8048056960105896,0.0,0.2682685653368632,1.0
+EdinburghNLP/xsum,5,"The Olympic champion, 29, was ...",was promising traditionally score 92,0.8056344389915466,0.0,0.16112688779830933,0.8
+EdinburghNLP/xsum,7,"The Olympic champion, 29, was ...",was promising traditionally with score 3 92,0.8090515732765198,0.0,0.11557879618235997,0.8571428571428571
+EdinburghNLP/xsum,9,"The Olympic champion, 29, was ...",29 was a promising traditionally with score 3 92,0.8099508285522461,0.0,0.08999453650580512,0.8888888888888888
+EdinburghNLP/xsum,11,"The Olympic champion, 29, was ...",29 was end a promising traditionally with a score 3 92,0.8113196492195129,0.0,0.07375633174722845,0.8181818181818182
+EdinburghNLP/xsum,1,Just Racing ceased trading on ...,effectively,0.8169358968734741,0.0,0.8169358968734741,1.0
+EdinburghNLP/xsum,1,The Ulster Unionist Party has ...,while,0.8023236393928528,0.0,0.8023236393928528,1.0
+EdinburghNLP/xsum,1,The outcome of that could make...,exchange,0.7995046973228455,0.0,0.7995046973228455,1.0
+EdinburghNLP/xsum,3,The outcome of that could make...,considerable the exchange,0.8175029158592224,0.0392156862745098,0.27250097195307416,1.0
+EdinburghNLP/xsum,1,"""
+She said she now plans to pu...",pursue,0.8174559473991394,0.0,0.8174559473991394,1.0
+EdinburghNLP/xsum,3,"""
+She said she now plans to pu...",pursue career modelling,0.8412370085716248,0.0,0.28041233619054157,1.0
+EdinburghNLP/xsum,1,"Its motion stated: ""The Yomper...",serving,0.8080453276634216,0.0,0.8080453276634216,1.0
+EdinburghNLP/xsum,3,"Its motion stated: ""The Yomper...","serving "" 40",0.7978009581565857,0.0,0.2659336527188619,1.0
+EdinburghNLP/xsum,5,"Its motion stated: ""The Yomper...","serving of "" year 40",0.807819128036499,0.0,0.16156382560729982,1.0
+EdinburghNLP/xsum,7,"Its motion stated: ""The Yomper...","serving reminder of "" year 40 000",0.8132280707359314,0.0,0.11617543867656163,1.0
+EdinburghNLP/xsum,1,The BBC is not aware of anyone...,breach,0.8169816136360168,0.0,0.8169816136360168,1.0
+EdinburghNLP/xsum,3,The BBC is not aware of anyone...,court a breach,0.8323934674263,0.08695652173913045,0.27746448914210003,1.0
+EdinburghNLP/xsum,5,The BBC is not aware of anyone...,anyone court a breach a,0.8232073187828064,0.08000000000000002,0.16464146375656127,0.8
+EdinburghNLP/xsum,7,The BBC is not aware of anyone...,bbc anyone court a breach a t,0.8142751455307007,0.07407407407407408,0.1163250207901001,0.7142857142857143
+EdinburghNLP/xsum,1,"""The women's game is fast-grow...",bringing,0.8122592568397522,0.0,0.8122592568397522,1.0
+EdinburghNLP/xsum,3,"""The women's game is fast-grow...",bringing using capped,0.8191379308700562,0.0,0.27304597695668537,1.0
+EdinburghNLP/xsum,5,"""The women's game is fast-grow...",growing bringing using s capped,0.8093547224998474,0.1,0.16187094449996947,1.0
+EdinburghNLP/xsum,7,"""The women's game is fast-grow...",growing bringing using s capped under 21,0.8135513663291931,0.09090909090909091,0.1162216237613133,1.0
+EdinburghNLP/xsum,9,"""The women's game is fast-grow...",growing i bringing using s capped 17 under 21,0.8031139969825745,0.08333333333333334,0.08923488855361938,1.0
+EdinburghNLP/xsum,11,"""The women's game is fast-grow...",s growing i bringing using s capped 17 will under 21,0.7962554097175598,0.07692307692307691,0.07238685542886908,0.9090909090909091
+EdinburghNLP/xsum,13,"""The women's game is fast-grow...",s growing i bringing using s capped s 17 will under 21 19,0.7842944860458374,0.07142857142857144,0.06033034508044903,0.8461538461538461
+EdinburghNLP/xsum,15,"""The women's game is fast-grow...",s growing i bringing using s capped s 17 will senior under 21 under 19,0.7837737798690796,0.06666666666666667,0.052251585324605304,0.8
+EdinburghNLP/xsum,17,"""The women's game is fast-grow...",s growing i am bringing using girls s capped s 17 will senior under 21 under 19,0.8023076057434082,0.0625,0.047194565043729896,0.8235294117647058
+EdinburghNLP/xsum,19,"""The women's game is fast-grow...",s growing i am bringing own using help girls s capped s 17 will senior under 21 under 19,0.7974866032600403,0.058823529411764705,0.04197297911894949,0.8421052631578947
+EdinburghNLP/xsum,21,"""The women's game is fast-grow...",s growing i am bringing own using help girls s capped s coach under 17 will senior under 21 under 19,0.7985146045684814,0.1111111111111111,0.0380245049794515,0.8095238095238095
+EdinburghNLP/xsum,1,Brown has also had spells at B...,ipswich,0.7674635648727417,0.0,0.7674635648727417,1.0
+EdinburghNLP/xsum,3,Brown has also had spells at B...,coventry ipswich watford,0.7948624491691589,0.0,0.264954149723053,1.0
+EdinburghNLP/xsum,5,Brown has also had spells at B...,oldham coventry ipswich watford carlisle,0.7762570977210999,0.0,0.15525141954421998,1.0
+EdinburghNLP/xsum,7,Brown has also had spells at B...,doncaster oldham coventry ipswich watford carlisle making,0.7824652194976807,0.0,0.11178074564252581,1.0
+EdinburghNLP/xsum,1,"""And regardless of what happen...",what,0.7946324944496155,0.0,0.7946324944496155,1.0
+EdinburghNLP/xsum,3,"""And regardless of what happen...",what believe tale,0.8156846165657043,0.0,0.2718948721885681,1.0
+EdinburghNLP/xsum,5,"""And regardless of what happen...",what this i believe tale,0.8045924305915833,0.0,0.16091848611831666,1.0
+EdinburghNLP/xsum,1,Now Russia seems determined to...,make,0.801849365234375,0.0,0.801849365234375,1.0
+EdinburghNLP/xsum,1,At the Cavern for those first ...,other,0.8024419546127319,0.0,0.8024419546127319,1.0
+EdinburghNLP/xsum,3,At the Cavern for those first ...,they audience other,0.8023544549942017,0.0,0.2674514849980672,1.0
+EdinburghNLP/xsum,1,About 47% of working South Afr...,is,0.7894189357757568,0.0,0.7894189357757568,1.0
+EdinburghNLP/xsum,3,About 47% of working South Afr...,which is inequality,0.8021746277809143,0.0,0.2673915425936381,1.0
+EdinburghNLP/xsum,1,Not in contention though is th...,almost,0.7953909635543823,0.0,0.7953909635543823,1.0
+EdinburghNLP/xsum,3,Not in contention though is th...,almost war military,0.7989689707756042,0.0,0.26632299025853473,1.0
+EdinburghNLP/xsum,5,Not in contention though is th...,almost deeply war supreme military,0.8147410154342651,0.0,0.16294820308685304,0.8
+EdinburghNLP/xsum,7,Not in contention though is th...,almost transformed deeply war supreme assured military,0.8092067241668701,0.0,0.11560096059526716,0.8571428571428571
+EdinburghNLP/xsum,9,Not in contention though is th...,fact almost transformed deeply war wr supreme assured military,0.80511474609375,0.0,0.08945719401041667,0.7777777777777778
+EdinburghNLP/xsum,11,Not in contention though is th...,fact almost handed - transformed deeply war wr supreme assured military,0.8021821975708008,0.0,0.07292565432461826,0.7
+EdinburghNLP/xsum,1,Misbah-ul-Haq scored 11 off 13...,four,0.7944544553756714,0.0,0.7944544553756714,1.0
+EdinburghNLP/xsum,3,Misbah-ul-Haq scored 11 off 13...,four a six,0.7994891405105591,0.06896551724137931,0.26649638017018634,1.0
+EdinburghNLP/xsum,1,The by-election was called aft...,elected,0.8168835043907166,0.125,0.8168835043907166,1.0
+EdinburghNLP/xsum,3,The by-election was called aft...,elected edinburgh may,0.8352388143539429,0.2222222222222222,0.27841293811798096,1.0
+EdinburghNLP/xsum,1,Despite growing tensions betwe...,resolve,0.8059377670288086,0.0,0.8059377670288086,1.0
+EdinburghNLP/xsum,3,Despite growing tensions betwe...,mr effort resolve,0.8032165169715881,0.0,0.26773883899052936,1.0
+EdinburghNLP/xsum,1,Both players have been include...,squad,0.7962953448295593,0.0,0.7962953448295593,1.0
+EdinburghNLP/xsum,3,Both players have been include...,squad s junior,0.7856411933898926,0.0,0.26188039779663086,1.0
+EdinburghNLP/xsum,5,Both players have been include...,wales squad june s junior,0.8020836710929871,0.08333333333333333,0.16041673421859742,1.0
+EdinburghNLP/xsum,1,And what we are saying today i...,an,0.8030586242675781,0.0,0.8030586242675781,1.0
+EdinburghNLP/xsum,3,And what we are saying today i...,"in , an",0.8120360374450684,0.06451612903225806,0.27067867914835614,1.0
+EdinburghNLP/xsum,5,And what we are saying today i...,"in impose , their an",0.8074953556060791,0.0606060606060606,0.1614990711212158,1.0
+EdinburghNLP/xsum,7,And what we are saying today i...,"in in impose aggression , their an",0.8116798400878906,0.05714285714285715,0.11595426286969866,0.8333333333333334
+EdinburghNLP/xsum,9,And what we are saying today i...,"in in impose aggression , of their interfering an",0.8014536499977112,0.1081081081081081,0.08905040555530125,0.875
+EdinburghNLP/xsum,11,And what we are saying today i...,"in in impose aggression , of their interfering an interfere we",0.8124628663063049,0.10256410256410257,0.07386026057330045,0.9
+EdinburghNLP/xsum,13,And what we are saying today i...,"in in impose increasing aggression , of their activities interfering an interfere we",0.8053930401802063,0.0975609756097561,0.06195331078309279,0.9166666666666666
+EdinburghNLP/xsum,15,And what we are saying today i...,"in in impose increasing aggression , of their activities interfering an effort interfere we """,0.7995738983154297,0.09523809523809525,0.05330492655436198,0.9230769230769231
+EdinburghNLP/xsum,1,"Under Labour's plans, this who...",being,0.8121325969696045,0.0,0.8121325969696045,1.0
+EdinburghNLP/xsum,3,"Under Labour's plans, this who...",being universities such,0.8166883587837219,0.0,0.2722294529279073,1.0
+EdinburghNLP/xsum,5,"Under Labour's plans, this who...",this being universities such a,0.8042248487472534,0.0,0.16084496974945067,1.0
+EdinburghNLP/xsum,7,"Under Labour's plans, this who...",this being any universities such dependent a,0.7900829911231995,0.0,0.11286899873188563,1.0
+EdinburghNLP/xsum,9,"Under Labour's plans, this who...",plans this universities being any universities such dependent a,0.7717503905296326,0.0,0.0857500433921814,0.8888888888888888
+EdinburghNLP/xsum,11,"Under Labour's plans, this who...",plans this universities being any universities such direct dependent government a,0.8035150170326233,0.0,0.07304681973023848,0.9090909090909091
+EdinburghNLP/xsum,13,"Under Labour's plans, this who...",plans this whole universities being any including universities such direct dependent government a,0.79794842004776,0.0,0.06138064769598154,0.9230769230769231
+EdinburghNLP/xsum,15,"Under Labour's plans, this who...",plans this whole universities being any getting including universities such direct dependent government a brake,0.8089718222618103,0.0,0.05393145481745402,0.9333333333333333
+EdinburghNLP/xsum,17,"Under Labour's plans, this who...",plans this whole universities being any getting including universities such switch direct dependent government a brake expansion,0.805952787399292,0.0,0.047408987494076,0.9411764705882353
+EdinburghNLP/xsum,1,"Det Chief Insp Carwyn Hughes, ...",said,0.8116428256034851,0.0,0.8116428256034851,1.0
+EdinburghNLP/xsum,3,"Det Chief Insp Carwyn Hughes, ...","said "" have",0.8088840842247009,0.0,0.2696280280749003,1.0
+EdinburghNLP/xsum,5,"Det Chief Insp Carwyn Hughes, ...","of said "" have find",0.8170509338378906,0.06896551724137932,0.16341018676757812,1.0
+EdinburghNLP/xsum,7,"Det Chief Insp Carwyn Hughes, ...","of sussex said "" have find families",0.823604941368103,0.06451612903225806,0.11765784876687187,1.0
+EdinburghNLP/xsum,1,Spokesman Josh Earnest confirm...,private,0.8007807731628418,0.0,0.8007807731628418,1.0
+EdinburghNLP/xsum,1,"Causanagh Road, Loughgall
+Tann...",derry,0.7916394472122192,0.0,0.7916394472122192,0.0
+EdinburghNLP/xsum,3,"Causanagh Road, Loughgall
+Tann...",dun rat derry,0.8172053694725037,0.0,0.2724017898241679,0.0
+EdinburghNLP/xsum,5,"Causanagh Road, Loughgall
+Tann...",po dun hillsborough rat derry,0.8130793571472168,0.0,0.16261587142944336,0.2
+EdinburghNLP/xsum,1,There can be many other import...,consider,0.8140420913696289,0.0,0.8140420913696289,1.0
+EdinburghNLP/xsum,3,There can be many other import...,can consider such,0.8247124552726746,0.0,0.27490415175755817,1.0
+EdinburghNLP/xsum,5,There can be many other import...,can consider such stress improve,0.8272902369499207,0.0,0.16545804738998413,1.0
+EdinburghNLP/xsum,7,There can be many other import...,can consider such stress we changing improve,0.8407687544822693,0.0,0.12010982206889562,1.0
+EdinburghNLP/xsum,1,The surprise move prompted som...,discovered,0.8016328811645508,0.0,0.8016328811645508,1.0
+EdinburghNLP/xsum,3,The surprise move prompted som...,was discovered possessions,0.8126083612442017,0.08333333333333333,0.2708694537480672,1.0
+EdinburghNLP/xsum,5,The surprise move prompted som...,surprise old was discovered possessions,0.8111743330955505,0.07692307692307693,0.1622348666191101,1.0
+EdinburghNLP/xsum,7,The surprise move prompted som...,surprise old which was discovered the possessions,0.8051285147666931,0.07142857142857142,0.11501835925238472,1.0
+EdinburghNLP/xsum,9,The surprise move prompted som...,surprise manipulated old which was discovered her the possessions,0.8108547329902649,0.06666666666666667,0.09009497033225165,1.0
+EdinburghNLP/xsum,1,He said Moscow and Syrian Pres...,preventing,0.8063504099845886,0.0,0.8063504099845886,1.0
+EdinburghNLP/xsum,3,He said Moscow and Syrian Pres...,troops preventing 19,0.8005409240722656,0.0,0.2668469746907552,1.0
+EdinburghNLP/xsum,5,He said Moscow and Syrian Pres...,troops and preventing including 19,0.8065689206123352,0.0,0.16131378412246705,1.0
+EdinburghNLP/xsum,1,The New York Times describes M...,and,0.8114351630210876,0.0,0.8114351630210876,1.0
+EdinburghNLP/xsum,3,The New York Times describes M...,and leads fact,0.7925167679786682,0.0,0.2641722559928894,1.0
+EdinburghNLP/xsum,1,"The song, written by the child...",listed,0.8077640533447266,0.0,0.8077640533447266,1.0
+EdinburghNLP/xsum,1,"""I would like to apologise to ...",year,0.7894488573074341,0.0,0.7894488573074341,1.0
+EdinburghNLP/xsum,3,"""I would like to apologise to ...","ap "" year",0.7877736687660217,0.0,0.26259122292200726,0.5
+EdinburghNLP/xsum,5,"""I would like to apologise to ...","would ap "" year old",0.7817506194114685,0.0,0.1563501238822937,0.75
+EdinburghNLP/xsum,1,Six people - including the att...,were,0.7986248135566711,0.0,0.7986248135566711,1.0
+EdinburghNLP/xsum,1,A spokesperson for the UK Civi...,whether,0.8021746277809143,0.0,0.8021746277809143,1.0
+EdinburghNLP/xsum,3,A spokesperson for the UK Civi...,whether a establish,0.8092665672302246,0.08695652173913045,0.2697555224100749,1.0
+EdinburghNLP/xsum,5,A spokesperson for the UK Civi...,whether or a be establish,0.8009494543075562,0.08000000000000002,0.16018989086151122,1.0
+EdinburghNLP/xsum,7,A spokesperson for the UK Civi...,""" whether or a need be establish",0.7909361720085144,0.07692307692307691,0.11299088171550206,1.0
+EdinburghNLP/xsum,9,A spokesperson for the UK Civi...,"uk "" whether or a need be establish level",0.7948793768882751,0.07142857142857144,0.0883199307653639,1.0
+EdinburghNLP/xsum,1,It was a lovely moment watchin...,lovely,0.8009663820266724,0.0,0.8009663820266724,1.0
+EdinburghNLP/xsum,3,It was a lovely moment watchin...,was lovely water,0.8215484023094177,0.0,0.2738494674364726,1.0
+EdinburghNLP/xsum,1,"The archive of travel writer, ...",war,0.7981857657432556,0.0,0.7981857657432556,1.0
+EdinburghNLP/xsum,3,"The archive of travel writer, ...",archive war national,0.7942803502082825,0.0,0.2647601167360942,1.0
+EdinburghNLP/xsum,1,"""
+Mr Roache also paid tribute ...",mr,0.7742851376533508,0.0,0.7742851376533508,1.0
+EdinburghNLP/xsum,3,"""
+Mr Roache also paid tribute ...",mr has envy,0.8083829879760742,0.1,0.2694609959920247,1.0
+EdinburghNLP/xsum,5,"""
+Mr Roache also paid tribute ...",mr that has envy .,0.8108072876930237,0.09523809523809523,0.16216145753860473,1.0
+EdinburghNLP/xsum,7,"""
+Mr Roache also paid tribute ...",mr that has envy the union .,0.8237737417221069,0.2608695652173913,0.11768196310315814,1.0
+EdinburghNLP/xsum,1,"""
+Still in her fur-lined boots...",lined,0.7950122356414795,0.0,0.7950122356414795,1.0
+EdinburghNLP/xsum,3,"""
+Still in her fur-lined boots...",lined band camera,0.7972076535224915,0.0,0.26573588450749713,1.0
+EdinburghNLP/xsum,5,"""
+Still in her fur-lined boots...",lined denim laura band camera,0.8009378910064697,0.06060606060606061,0.16018757820129395,1.0
+EdinburghNLP/xsum,1,"""It was really emotional to be...","""",0.8051502704620361,0.0,0.8051502704620361,0.0
+EdinburghNLP/xsum,1,The club's accounts also show ...,a,0.809563159942627,0.09523809523809523,0.809563159942627,1.0
+EdinburghNLP/xsum,3,The club's accounts also show ...,funds 000 a,0.8112732172012329,0.08695652173913045,0.2704244057337443,1.0
+EdinburghNLP/xsum,5,The club's accounts also show ...,surplus funds 000 a £,0.8153155446052551,0.08333333333333334,0.16306310892105103,1.0
+EdinburghNLP/xsum,7,The club's accounts also show ...,surplus funds 000 a deficit £ 000,0.8200637698173523,0.07692307692307691,0.11715196711676461,0.8333333333333334
+EdinburghNLP/xsum,9,The club's accounts also show ...,surplus funds 000 compared a deficit £ 000 reduced,0.8140115141868591,0.07142857142857144,0.0904457237985399,0.875
+EdinburghNLP/xsum,11,The club's accounts also show ...,s exeter surplus funds 000 compared a deficit £ 000 reduced,0.8326777219772339,0.2,0.07569797472520308,0.9
+EdinburghNLP/xsum,13,The club's accounts also show ...,s accounts exeter surplus funds 000 compared a deficit £ 000 previous reduced,0.8265537023544312,0.25,0.06358105402726394,0.9166666666666666
+EdinburghNLP/xsum,15,The club's accounts also show ...,s accounts exeter surplus shareholders funds £ 000 compared a deficit £ 000 previous reduced,0.8270295262336731,0.24242424242424246,0.05513530174891154,0.9230769230769231
+EdinburghNLP/xsum,1,"""
+IPC president Sir Philip Cra...",finishing,0.8002558350563049,0.0,0.8002558350563049,1.0
+EdinburghNLP/xsum,3,"""
+IPC president Sir Philip Cra...",""" hay finishing",0.8261527419090271,0.0,0.27538424730300903,0.5
+EdinburghNLP/xsum,5,"""
+IPC president Sir Philip Cra...","passing "" hay finishing seventh",0.81132972240448,0.0,0.16226594448089598,0.75
+EdinburghNLP/xsum,7,"""
+IPC president Sir Philip Cra...","tragic passing "" hay finishing javelin seventh",0.8279311060905457,0.0,0.11827587229864937,0.8333333333333334
+EdinburghNLP/xsum,1,"""The overall business mood rem...",tightening,0.8116379976272583,0.0,0.8116379976272583,1.0
+EdinburghNLP/xsum,3,"""The overall business mood rem...",tightening a inflation,0.8121393322944641,0.0,0.27071311076482135,1.0
+EdinburghNLP/xsum,5,"""The overall business mood rem...",tightening cash higher a inflation,0.814810037612915,0.0,0.162962007522583,1.0
+EdinburghNLP/xsum,7,"""The overall business mood rem...",be tightening cash profit higher a inflation,0.8160013556480408,0.0,0.1165716222354344,0.8571428571428571
+EdinburghNLP/xsum,9,"""The overall business mood rem...",be rising tightening cash profit higher exchange a inflation,0.8147166967391968,0.0,0.09052407741546631,0.8888888888888888
+EdinburghNLP/xsum,11,"""The overall business mood rem...",overall be rising tightening cash profit higher exchange a inflation .,0.8063998818397522,0.0,0.0733090801672502,0.9
+EdinburghNLP/xsum,13,"""The overall business mood rem...",overall be rising tightening cash profit higher exchange a likely inflation the .,0.8050475120544434,0.07142857142857144,0.061926731696495645,0.9166666666666666
+EdinburghNLP/xsum,15,"""The overall business mood rem...",overall firms be challenged rising tightening cash profit higher exchange a likely inflation the .,0.815911591053009,0.06666666666666667,0.0543941060702006,0.9285714285714286
+EdinburghNLP/xsum,1,"""At the conclusion of its inve...",make,0.7979462742805481,0.0,0.7979462742805481,1.0
+EdinburghNLP/xsum,3,"""At the conclusion of its inve...",make the future,0.799001157283783,0.09090909090909091,0.2663337190945943,1.0
+EdinburghNLP/xsum,5,"""At the conclusion of its inve...",conclusion the make the future,0.802204430103302,0.08333333333333333,0.1604408860206604,0.8
+EdinburghNLP/xsum,7,"""At the conclusion of its inve...",conclusion the home make the undercover future,0.8090952634811401,0.15384615384615385,0.11558503764016288,0.8571428571428571
+EdinburghNLP/xsum,9,"""At the conclusion of its inve...",conclusion the inquiry home make the deployment undercover future,0.8226014375686646,0.21428571428571427,0.09140015972985162,0.8888888888888888
+EdinburghNLP/xsum,11,"""At the conclusion of its inve...",conclusion its the inquiry home make to the deployment undercover future,0.8121461868286133,0.19999999999999998,0.07383147152987393,0.9090909090909091
+EdinburghNLP/xsum,1,"After Pollard's early penalty,...",two,0.7989493608474731,0.0,0.7989493608474731,1.0
+EdinburghNLP/xsum,3,"After Pollard's early penalty,...",early touched two,0.8139119148254395,0.0,0.2713039716084798,1.0
+EdinburghNLP/xsum,5,"After Pollard's early penalty,...",early the right touched two,0.8010665774345398,0.0,0.16021331548690795,1.0
+EdinburghNLP/xsum,7,"After Pollard's early penalty,...",s early the right touched corner two,0.8055840134620667,0.0,0.11508343049458095,1.0
+EdinburghNLP/xsum,9,"After Pollard's early penalty,...",s early the right touched corner but point two,0.8081690669059753,0.0,0.08979656298955281,1.0
+EdinburghNLP/xsum,11,"After Pollard's early penalty,...",s early the right touched handed corner but point two 20,0.8011547923088074,0.0,0.07283225384625522,1.0
+EdinburghNLP/xsum,13,"After Pollard's early penalty,...",s early the right touched handed the corner but point two point 20,0.8063622713088989,0.0,0.06202786702376146,0.8461538461538461
+EdinburghNLP/xsum,1,"Mr Evans, the trust's building...","""",0.8069130778312683,0.0,0.8069130778312683,0.0
+EdinburghNLP/xsum,1,"""
+The company also said it had...",fifth,0.8093037605285645,0.0,0.8093037605285645,1.0
+EdinburghNLP/xsum,1,She was at the end of a triump...,revealing,0.804996907711029,0.0,0.804996907711029,1.0
+EdinburghNLP/xsum,3,She was at the end of a triump...,triumphant front revealing,0.8124276995658875,0.0,0.27080923318862915,1.0
+EdinburghNLP/xsum,5,She was at the end of a triump...,triumphant laden front revealing heavily,0.8051084280014038,0.0,0.16102168560028077,1.0
+EdinburghNLP/xsum,7,She was at the end of a triump...,end triumphant hit laden front revealing heavily,0.806962251663208,0.0,0.11528032166617257,1.0
+EdinburghNLP/xsum,1,"""
+He also said some victims of...",police,0.8011109828948975,0.0,0.8011109828948975,1.0
+EdinburghNLP/xsum,3,"""
+He also said some victims of...",historical police too,0.8164706826210022,0.0,0.27215689420700073,1.0
+EdinburghNLP/xsum,1,Torrents of water brought down...,damaged,0.8023645877838135,0.0,0.8023645877838135,1.0
+EdinburghNLP/xsum,1,This followed a television app...,he,0.8092183470726013,0.0,0.8092183470726013,1.0
+EdinburghNLP/xsum,3,This followed a television app...,he post website,0.8205673098564148,0.08333333333333333,0.27352243661880493,1.0
+EdinburghNLP/xsum,5,This followed a television app...,television which he post website,0.8245280981063843,0.07692307692307693,0.16490561962127687,1.0
+EdinburghNLP/xsum,1,"""We'll be working very closely...",make,0.8181821703910828,0.0,0.8181821703910828,1.0
+EdinburghNLP/xsum,3,"""We'll be working very closely...",ll make ambition,0.8342400193214417,0.0,0.27808000644048053,1.0
+EdinburghNLP/xsum,5,"""We'll be working very closely...",ll make ambition we all,0.8200613856315613,0.0,0.16401227712631225,1.0
+EdinburghNLP/xsum,7,"""We'll be working very closely...",ll make ambition we all if went,0.8144790530204773,0.0,0.11635415043149676,1.0
+EdinburghNLP/xsum,9,"""We'll be working very closely...",ll make ambition we all if went ' d,0.8051097989082336,0.0,0.08945664432313707,1.0
+EdinburghNLP/xsum,1,The film about a princess's my...,estimated,0.806867241859436,0.0,0.806867241859436,1.0
+EdinburghNLP/xsum,3,The film about a princess's my...,estimated 1 3,0.7789762616157532,0.0,0.2596587538719177,0.6666666666666666
+EdinburghNLP/xsum,1,"Konta, the world number 18, hi...",comfortable,0.7902191877365112,0.0,0.7902191877365112,1.0
+EdinburghNLP/xsum,3,"Konta, the world number 18, hi...",world hit comfortable,0.8046838045120239,0.0,0.2682279348373413,1.0
+EdinburghNLP/xsum,1,Police have appealed for anyon...,contact,0.802837610244751,0.0,0.802837610244751,1.0
+EdinburghNLP/xsum,3,Police have appealed for anyon...,information contact .,0.7963852286338806,0.0,0.2654617428779602,1.0
+EdinburghNLP/xsum,1,"""If more bats carried the viru...",we,0.792375385761261,0.0,0.792375385761261,1.0
+EdinburghNLP/xsum,3,"""If more bats carried the viru...",we all time,0.7849085330963135,0.0,0.2616361776987712,1.0
+EdinburghNLP/xsum,1,The report said because of the...,the,0.8116552233695984,0.1,0.8116552233695984,1.0
+EdinburghNLP/xsum,3,The report said because of the...,further the case,0.8138121366500854,0.09090909090909091,0.27127071221669513,1.0
+EdinburghNLP/xsum,5,The report said because of the...,risk further the begin case,0.8120503425598145,0.08333333333333333,0.16241006851196288,1.0
+EdinburghNLP/xsum,7,The report said because of the...,risk further the begin as case listed,0.8117676973342896,0.07692307692307693,0.1159668139048985,1.0
+EdinburghNLP/xsum,1,"""And the mitigation proposals ...",counter,0.8138512969017029,0.0,0.8138512969017029,0.0
+EdinburghNLP/xsum,3,"""And the mitigation proposals ...",mit counter devastating,0.8221848011016846,0.0,0.2740616003672282,0.3333333333333333
+EdinburghNLP/xsum,5,"""And the mitigation proposals ...",mit counter devastating the buildings,0.8364736437797546,0.0625,0.16729472875595092,0.6
+EdinburghNLP/xsum,7,"""And the mitigation proposals ...",mit counter devastating the buildings oxford historic,0.8255188465118408,0.058823529411764705,0.11793126378740583,0.7142857142857143
+EdinburghNLP/xsum,1,"""This cash they talk about doe...",spending,0.8047183752059937,0.0,0.8047183752059937,1.0
+EdinburghNLP/xsum,3,"""This cash they talk about doe...",t spending schools,0.8332570195198059,0.08,0.2777523398399353,1.0
+EdinburghNLP/xsum,1,"""Where indigenous peoples righ...",",",0.8028275370597839,0.0,0.8028275370597839,0.0
+EdinburghNLP/xsum,3,"""Where indigenous peoples righ...","use own ,",0.8178362250328064,0.0,0.2726120750109355,1.0
+EdinburghNLP/xsum,5,"""Where indigenous peoples righ...","and use forests own ,",0.8334600925445557,0.0,0.16669201850891113,1.0
+EdinburghNLP/xsum,1,"""
+He said further forensic exa...",neighbouring,0.7976054549217224,0.0,0.7976054549217224,1.0
+EdinburghNLP/xsum,3,"""
+He said further forensic exa...",neighbouring information reported,0.8155105710029602,0.0,0.27183685700098675,1.0
+EdinburghNLP/xsum,5,"""
+He said further forensic exa...",excavations neighbouring information been reported,0.8015208840370178,0.09523809523809523,0.16030417680740355,1.0
+EdinburghNLP/xsum,7,"""
+He said further forensic exa...",excavations in contact neighbouring information been reported,0.8063830137252808,0.17391304347826086,0.11519757338932582,1.0
+EdinburghNLP/xsum,9,"""
+He said further forensic exa...",excavations being police in contact neighbouring information been reported,0.8127699494361877,0.24000000000000005,0.09030777215957642,1.0
+EdinburghNLP/xsum,11,"""
+He said further forensic exa...",excavations being carried police been in contact neighbouring information been reported,0.8019070029258728,0.2222222222222222,0.0729006366296248,0.9090909090909091
+EdinburghNLP/xsum,13,"""
+He said further forensic exa...",excavations being carried police been in contact neighbouring information people had been reported,0.8133564591407776,0.20689655172413793,0.06256588147236751,0.9230769230769231
+EdinburghNLP/xsum,1,"Martinez, 24, is the first Oly...",first,0.775529146194458,0.0,0.775529146194458,1.0
+EdinburghNLP/xsum,1,They maintain the weighting of...,more,0.8078975677490234,0.0,0.8078975677490234,1.0
+EdinburghNLP/xsum,3,They maintain the weighting of...,weight rise more,0.8037354946136475,0.0,0.2679118315378825,0.6666666666666666
+EdinburghNLP/xsum,5,They maintain the weighting of...,weight worst rise more 5,0.8031820058822632,0.0,0.16063640117645264,0.8
+EdinburghNLP/xsum,1,"""
+Meanwhile, the council's pla...",replace,0.8080537915229797,0.0,0.8080537915229797,1.0
+EdinburghNLP/xsum,3,"""
+Meanwhile, the council's pla...",s new replace,0.8180007338523865,0.0,0.27266691128412884,1.0
+EdinburghNLP/xsum,5,"""
+Meanwhile, the council's pla...",the s establish new replace,0.8120949864387512,0.08695652173913045,0.16241899728775025,1.0
+EdinburghNLP/xsum,7,"""
+Meanwhile, the council's pla...",the s close establish new replace go,0.8124303817749023,0.08,0.11606148311070033,1.0
+EdinburghNLP/xsum,1,"Perhaps unsurprisingly, Miura ...",winner,0.802125871181488,0.0,0.802125871181488,1.0
+EdinburghNLP/xsum,3,"Perhaps unsurprisingly, Miura ...",oldest a winner,0.8039795160293579,0.09090909090909091,0.26799317200978595,1.0
+EdinburghNLP/xsum,5,"Perhaps unsurprisingly, Miura ...",mi record oldest a winner,0.8103283047676086,0.08333333333333333,0.16206566095352173,0.8
+EdinburghNLP/xsum,7,"Perhaps unsurprisingly, Miura ...",mi record oldest japanese a winner a,0.8209292888641357,0.15384615384615385,0.11727561269487653,0.7142857142857143
+EdinburghNLP/xsum,1,Separately seven people are re...,divides,0.8129750490188599,0.0,0.8129750490188599,1.0
+EdinburghNLP/xsum,3,Separately seven people are re...,have divides administered,0.8187674283981323,0.1904761904761905,0.27292247613271076,1.0
+EdinburghNLP/xsum,1,There are two potential issues...,swings,0.8219077587127686,0.0,0.8219077587127686,1.0
+EdinburghNLP/xsum,3,There are two potential issues...,are stability swings,0.8359795212745667,0.0,0.27865984042485553,1.0
+EdinburghNLP/xsum,5,There are two potential issues...,are respond short stability swings,0.8366789221763611,0.08000000000000002,0.16733578443527222,1.0
+EdinburghNLP/xsum,7,There are two potential issues...,are respond short stability banks swings exchange,0.8279358744621277,0.07407407407407408,0.11827655349458967,1.0
+EdinburghNLP/xsum,1,"""The opportunity just came up ...",right,0.8065009713172913,0.0,0.8065009713172913,1.0
+EdinburghNLP/xsum,1,A Betsi Cadwaladr health board...,"""",0.8091075420379639,0.0,0.8091075420379639,0.0
+EdinburghNLP/xsum,3,A Betsi Cadwaladr health board...,""" the contributor",0.8039764165878296,0.07692307692307693,0.26799213886260986,0.5
+EdinburghNLP/xsum,5,A Betsi Cadwaladr health board...,"bets "" the contributor the",0.793312668800354,0.07142857142857142,0.1586625337600708,0.25
+EdinburghNLP/xsum,1,The judge told Butcher he had ...,completely,0.802778422832489,0.0,0.802778422832489,1.0
+EdinburghNLP/xsum,3,The judge told Butcher he had ...,on completely members,0.8134899735450745,0.08,0.27116332451502484,1.0
+EdinburghNLP/xsum,1,Media reports claimed Solo was...,the,0.8020167946815491,0.07692307692307693,0.8020167946815491,1.0
+EdinburghNLP/xsum,3,Media reports claimed Solo was...,the incident manhattan,0.827608585357666,0.14285714285714285,0.27586952845255536,1.0
+EdinburghNLP/xsum,1,"""
+Khan appeared at the court v...",supply,0.8009865880012512,0.0,0.8009865880012512,1.0
+EdinburghNLP/xsum,3,"""
+Khan appeared at the court v...",court admit supply,0.8245542645454407,0.0,0.2748514215151469,1.0
+EdinburghNLP/xsum,1,"He said: ""In our assessment, t...",consider,0.8110629320144653,0.0,0.8110629320144653,1.0
+EdinburghNLP/xsum,3,"He said: ""In our assessment, t...",the provides consider,0.8163323998451233,0.08333333333333333,0.27211079994837445,1.0
+EdinburghNLP/xsum,5,"He said: ""In our assessment, t...",the proportion provides additional consider,0.8129875063896179,0.07692307692307693,0.16259750127792358,0.8
+EdinburghNLP/xsum,7,"He said: ""In our assessment, t...",the proportion provides additional consider a genuine,0.8067732453346252,0.14285714285714285,0.11525332076208931,0.8571428571428571
+EdinburghNLP/xsum,9,"He said: ""In our assessment, t...",the introduction proportion provides additional consider a genuine the,0.8093855977058411,0.13333333333333333,0.08993173307842678,0.7777777777777778
+EdinburghNLP/xsum,1,ID Systems finance director St...,more,0.7994706630706787,0.0,0.7994706630706787,1.0
+EdinburghNLP/xsum,3,ID Systems finance director St...,more this make,0.7857381701469421,0.0,0.261912723382314,1.0
+EdinburghNLP/xsum,1,The other crew member who surv...,was,0.8114548921585083,0.0,0.8114548921585083,1.0
+EdinburghNLP/xsum,3,The other crew member who surv...,xi was be,0.8055819869041443,0.06896551724137931,0.2685273289680481,0.6666666666666666
+EdinburghNLP/xsum,5,The other crew member who surv...,other survived xi was be,0.8250673413276672,0.12903225806451613,0.16501346826553345,0.8
+EdinburghNLP/xsum,1,"""Both of Highways England's op...",options,0.8033483028411865,0.0,0.8033483028411865,1.0
+EdinburghNLP/xsum,3,"""Both of Highways England's op...",s options damaging,0.8046157360076904,0.0,0.2682052453358968,1.0
+EdinburghNLP/xsum,1,Everton duly attempted to deli...,their,0.8145709037780762,0.11764705882352941,0.8145709037780762,1.0
+EdinburghNLP/xsum,3,Everton duly attempted to deli...,backs their time,0.8113548159599304,0.10526315789473684,0.2704516053199768,1.0
+EdinburghNLP/xsum,5,Everton duly attempted to deli...,with backs their stroke time,0.8333123326301575,0.19047619047619047,0.1666624665260315,1.0
+EdinburghNLP/xsum,7,Everton duly attempted to deli...,with backs and their home stroke time,0.8268585801124573,0.17391304347826086,0.11812265430177961,1.0
+EdinburghNLP/xsum,9,Everton duly attempted to deli...,with backs and their home s second stroke time,0.8109973073005676,0.16,0.09011081192228529,1.0
+EdinburghNLP/xsum,1,He helped them to a third-plac...,finals,0.7885662913322449,0.0,0.7885662913322449,1.0
+EdinburghNLP/xsum,3,He helped them to a third-plac...,third placed finals,0.7917925715446472,0.0,0.2639308571815491,1.0
+EdinburghNLP/xsum,5,He helped them to a third-plac...,third placed play off finals,0.7885762453079224,0.0,0.15771524906158446,1.0
+EdinburghNLP/xsum,1,"Pawel Sroka, 33, of Meadvale R...",year,0.8080857992172241,0.0,0.8080857992172241,1.0
+EdinburghNLP/xsum,3,"Pawel Sroka, 33, of Meadvale R...",of year of,0.8002257347106934,0.1,0.26674191157023114,0.6666666666666666
+EdinburghNLP/xsum,1,Wasps director of rugby Dai Yo...,"""",0.7977600693702698,0.0,0.7977600693702698,0.0
+EdinburghNLP/xsum,1,"The attack, claimed by Islamic...",led,0.7996010780334473,0.0,0.7996010780334473,1.0
+EdinburghNLP/xsum,3,"The attack, claimed by Islamic...",uprising led long,0.8114305138587952,0.0,0.2704768379529317,1.0
+EdinburghNLP/xsum,5,"The attack, claimed by Islamic...",was uprising led the long,0.811724066734314,0.0625,0.1623448133468628,1.0
+EdinburghNLP/xsum,7,"The attack, claimed by Islamic...",", was uprising led the long serving",0.7890887260437012,0.06060606060606061,0.11272696086338588,1.0
+EdinburghNLP/xsum,1,"The imagery, released by US ge...",have,0.803791344165802,0.0625,0.803791344165802,1.0
+EdinburghNLP/xsum,3,"The imagery, released by US ge...",shows on have,0.7937352657318115,0.0588235294117647,0.2645784219106038,1.0
+EdinburghNLP/xsum,1,A number of projects will take...,the,0.8051088452339172,0.07142857142857142,0.8051088452339172,1.0
+EdinburghNLP/xsum,3,A number of projects will take...,closure the did,0.8058186173439026,0.06666666666666667,0.26860620578130084,0.6666666666666666
+EdinburghNLP/xsum,5,A number of projects will take...,closure the did oxfordshire carried,0.8083937764167786,0.0625,0.1616787552833557,0.8
+EdinburghNLP/xsum,7,A number of projects will take...,closure the line did oxfordshire carried cross,0.8015817999839783,0.058823529411764705,0.1145116857119969,0.8571428571428571
+EdinburghNLP/xsum,9,A number of projects will take...,number including closure the line did oxfordshire carried cross,0.8159869313240051,0.05555555555555555,0.09066521459155613,0.8888888888888888
+EdinburghNLP/xsum,1,The permit for exploratory dri...,responsibility,0.8068402409553528,0.0,0.8068402409553528,1.0
+EdinburghNLP/xsum,3,The permit for exploratory dri...,mora responsibility such,0.8088550567626953,0.0,0.26961835225423175,0.6666666666666666
+EdinburghNLP/xsum,1,Transactions carried out in Eu...,european,0.7760374546051025,0.0,0.7760374546051025,1.0
+EdinburghNLP/xsum,3,Transactions carried out in Eu...,european amazon low,0.8029398322105408,0.08,0.2676466107368469,1.0
+EdinburghNLP/xsum,1,"""
+The planned strikes are set ...",talks,0.8077208995819092,0.08333333333333333,0.8077208995819092,1.0
+EdinburghNLP/xsum,3,"""
+The planned strikes are set ...",take talks nhs,0.8321770429611206,0.07692307692307691,0.27739234765370685,1.0
+EdinburghNLP/xsum,5,"""
+The planned strikes are set ...",planned take confirmed talks nhs,0.8220972418785095,0.07142857142857142,0.1644194483757019,1.0
+EdinburghNLP/xsum,1,"""He has done really well for u...",is,0.7969806790351868,0.0,0.7969806790351868,1.0
+EdinburghNLP/xsum,1,The money for Kingston Maurwar...,includes,0.8066980242729187,0.0,0.8066980242729187,1.0
+EdinburghNLP/xsum,1,Astle's family have campaigned...,risks,0.8058348298072815,0.0,0.8058348298072815,1.0
+EdinburghNLP/xsum,3,Astle's family have campaigned...,fa carry risks,0.8171297907829285,0.06451612903225806,0.2723765969276428,1.0
+EdinburghNLP/xsum,5,Astle's family have campaigned...,s fa carry risks players,0.8272524476051331,0.06060606060606061,0.16545048952102662,1.0
+EdinburghNLP/xsum,1,"""
+When you consider how much t...",that,0.7878491282463074,0.0,0.7878491282463074,1.0
+EdinburghNLP/xsum,3,"""
+When you consider how much t...",consider that growth,0.7969570755958557,0.0,0.2656523585319519,1.0
+EdinburghNLP/xsum,1,The 18-year-old identical twin...,year,0.8135191798210144,0.14285714285714288,0.8135191798210144,1.0
+EdinburghNLP/xsum,3,The 18-year-old identical twin...,year old s,0.8152541518211365,0.125,0.27175138394037884,1.0
+EdinburghNLP/xsum,1,He is about 5ft 9in and was we...,dark,0.8093134760856628,0.0,0.8093134760856628,1.0
+EdinburghNLP/xsum,3,He is about 5ft 9in and was we...,about was dark,0.813976526260376,0.1111111111111111,0.2713255087534587,1.0
+EdinburghNLP/xsum,1,The Egypt-backed plan had envi...,reveal,0.8094226121902466,0.0,0.8094226121902466,1.0
+EdinburghNLP/xsum,3,The Egypt-backed plan had envi...,analysts reveal not,0.8132352828979492,0.0,0.2710784276326497,1.0
+EdinburghNLP/xsum,5,The Egypt-backed plan had envi...,backed regional analysts reveal not,0.821023166179657,0.0,0.1642046332359314,1.0
+EdinburghNLP/xsum,1,"""The UK government's general s...",other,0.8086821436882019,0.0,0.8086821436882019,1.0
+EdinburghNLP/xsum,3,"""The UK government's general s...",promoting low other,0.8171360492706299,0.0,0.27237868309020996,1.0
+EdinburghNLP/xsum,5,"""The UK government's general s...",uk the promoting low other,0.8028457164764404,0.06896551724137931,0.1605691432952881,1.0
+EdinburghNLP/xsum,7,"""The UK government's general s...",uk s the welsh promoting low other,0.803508460521698,0.12903225806451613,0.11478692293167114,1.0
+EdinburghNLP/xsum,9,"""The UK government's general s...",uk s approach the welsh promoting low energy other,0.8117035031318665,0.12121212121212122,0.09018927812576294,1.0
+EdinburghNLP/xsum,1,There was also Fury's alleged ...,a,0.8093177676200867,0.1,0.8093177676200867,1.0
+EdinburghNLP/xsum,3,There was also Fury's alleged ...,consider a a,0.7798539996147156,0.09090909090909091,0.2599513332049052,0.6666666666666666
+EdinburghNLP/xsum,5,There was also Fury's alleged ...,a consider a mis a,0.8133755922317505,0.08333333333333333,0.1626751184463501,0.4
+EdinburghNLP/xsum,7,There was also Fury's alleged ...,a consider drugs a mis can a,0.8122491240501404,0.07692307692307693,0.11603558915002006,0.5714285714285714
+EdinburghNLP/xsum,9,There was also Fury's alleged ...,a subsequent consider drugs a mis can a the,0.8114112615585327,0.07142857142857142,0.09015680683983697,0.6666666666666666
+EdinburghNLP/xsum,11,There was also Fury's alleged ...,enhancing a subsequent consider appeal drugs a mis can a the,0.8105466961860657,0.06666666666666667,0.07368606328964233,0.7272727272727273
+EdinburghNLP/xsum,13,There was also Fury's alleged ...,enhancing a subsequent consider appeal drugs a mis can a year the argument,0.8064110279083252,0.0625,0.06203161753140963,0.7692307692307693
+EdinburghNLP/xsum,15,There was also Fury's alleged ...,enhancing a subsequent consider fury appeal drugs a mis can a four year the argument,0.8030622005462646,0.11764705882352941,0.053537480036417645,0.8
+EdinburghNLP/xsum,17,There was also Fury's alleged ...,enhancing a subsequent consider fury appeal as all drugs a mis can a four year the argument,0.8026654720306396,0.16666666666666669,0.04721561600180233,0.8235294117647058
+EdinburghNLP/xsum,19,There was also Fury's alleged ...,s enhancing a subsequent consider fury appeal as all he drugs a mis can a four year the argument,0.8045262098312378,0.21052631578947367,0.04234348472795988,0.8421052631578947
+EdinburghNLP/xsum,1,"[for Test rugby].""
+However, Co...",cock,0.7986207008361816,0.0,0.7986207008361816,0.0
+EdinburghNLP/xsum,3,"[for Test rugby].""
+However, Co...",cock born could,0.7977638840675354,0.0,0.26592129468917847,0.6666666666666666
+EdinburghNLP/xsum,5,"[for Test rugby].""
+However, Co...",cock born who plans could,0.7996020913124084,0.0,0.15992041826248168,0.8
+EdinburghNLP/xsum,7,"[for Test rugby].""
+However, Co...",cock born who firm plans and could,0.8009296655654907,0.0,0.11441852365221296,0.8571428571428571
+EdinburghNLP/xsum,1,"""Victor Noble Rainbird's paint...",fascinating,0.8178831338882446,0.0,0.8178831338882446,1.0
+EdinburghNLP/xsum,3,"""Victor Noble Rainbird's paint...",s fascinating after,0.8206892609596252,0.0,0.27356308698654175,1.0
+EdinburghNLP/xsum,5,"""Victor Noble Rainbird's paint...",s fascinating life after while,0.8441569209098816,0.08000000000000002,0.16883138418197632,1.0
+EdinburghNLP/xsum,1,"""
+Lennon does not envisage any...",game,0.7999215126037598,0.0,0.7999215126037598,1.0
+EdinburghNLP/xsum,3,"""
+Lennon does not envisage any...",squad a game,0.812125027179718,0.0,0.2707083423932393,1.0
+EdinburghNLP/xsum,1,The bird's head and wings beca...,wire,0.8083907961845398,0.0,0.8083907961845398,1.0
+EdinburghNLP/xsum,3,The bird's head and wings beca...,s wire wood,0.8013689517974854,0.0,0.2671229839324951,1.0
+EdinburghNLP/xsum,1,The Post Office said despite t...,97,0.8077623248100281,0.0,0.8077623248100281,1.0
+EdinburghNLP/xsum,3,The Post Office said despite t...,with at 97,0.8176397085189819,0.0,0.27254656950632733,1.0
+EdinburghNLP/xsum,5,The Post Office said despite t...,with at 97 its 600,0.8113784790039062,0.0,0.16227569580078124,1.0
+EdinburghNLP/xsum,7,The Post Office said despite t...,would with at 97 its 11 600,0.8002952337265015,0.0,0.11432789053235735,1.0
+EdinburghNLP/xsum,1,"""
+Mr Nesbitt went on to say th...",say,0.8036718964576721,0.0,0.8036718964576721,1.0
+EdinburghNLP/xsum,3,"""
+Mr Nesbitt went on to say th...","say he """,0.7899817824363708,0.07407407407407407,0.2633272608121236,1.0
+EdinburghNLP/xsum,5,"""
+Mr Nesbitt went on to say th...","say on he "" a",0.8013607263565063,0.13793103448275865,0.16027214527130126,1.0
+EdinburghNLP/xsum,7,"""
+Mr Nesbitt went on to say th...","say on he lot "" a .",0.8016645908355713,0.13333333333333333,0.11452351297651019,1.0
+EdinburghNLP/xsum,9,"""
+Mr Nesbitt went on to say th...","say on he lot time "" a was .",0.8017807006835938,0.125,0.0890867445203993,1.0
+EdinburghNLP/xsum,11,"""
+Mr Nesbitt went on to say th...","say on he lot time "" a lot support was .",0.7979423403739929,0.11764705882352941,0.07254021276127208,0.8888888888888888
+Awesome075/multi_news_parquet,1,"i Jim Cole / AP 
+ 
+ Voters in ...",top,0.7821803092956543,0.012578616352201257,0.7821803092956543,1.0
+Awesome075/multi_news_parquet,3,"i Jim Cole / AP 
+ 
+ Voters in ...",with extend top,0.7815227508544922,0.02484472049689441,0.26050758361816406,1.0
+Awesome075/multi_news_parquet,5,"i Jim Cole / AP 
+ 
+ Voters in ...",and increase with extend top,0.7911238670349121,0.03680981595092025,0.15822477340698243,1.0
+Awesome075/multi_news_parquet,7,"i Jim Cole / AP 
+ 
+ Voters in ...",and increase with extend more the top,0.7869042754173279,0.06060606060606061,0.1124148964881897,1.0
+Awesome075/multi_news_parquet,9,"i Jim Cole / AP 
+ 
+ Voters in ...",and increase and with extend hold more the top,0.7872586250305176,0.07185628742514971,0.0874731805589464,0.8888888888888888
+Awesome075/multi_news_parquet,11,"i Jim Cole / AP 
+ 
+ Voters in ...",governors and increase and with extend hold more thirds the top,0.787575364112854,0.09467455621301775,0.07159776037389581,0.9090909090909091
+Awesome075/multi_news_parquet,1,Now if Facebook will only repl...,the,0.7831053137779236,0.011494252873563216,0.7831053137779236,1.0
+Awesome075/multi_news_parquet,3,Now if Facebook will only repl...,has is the,0.7829657793045044,0.03409090909090909,0.26098859310150146,1.0
+Awesome075/multi_news_parquet,5,Now if Facebook will only repl...,has who is also the,0.7486798167228699,0.0449438202247191,0.14973596334457398,1.0
+Awesome075/multi_news_parquet,7,Now if Facebook will only repl...,it has who event is also the,0.7935535907745361,0.06666666666666667,0.11336479868207659,1.0
+Awesome075/multi_news_parquet,9,Now if Facebook will only repl...,it has who organized event which is also the,0.7895866632461548,0.06593406593406592,0.08773185147179498,1.0
+Awesome075/multi_news_parquet,11,Now if Facebook will only repl...,s photo it has who organized event which is also the,0.8038923740386963,0.08695652173913043,0.07308112491260875,1.0
+Awesome075/multi_news_parquet,1,“We need our own state so we c...,fit,0.7805595993995667,0.0,0.7805595993995667,1.0
+Awesome075/multi_news_parquet,3,“We need our own state so we c...,can fit way,0.7805825471878052,0.0,0.26019418239593506,1.0
+Awesome075/multi_news_parquet,5,“We need our own state so we c...,can fit way life ”,0.7793858647346497,0.0,0.15587717294692993,1.0
+Awesome075/multi_news_parquet,1,It felt like a radical about-f...,save,0.7703965306282043,0.0,0.7703965306282043,1.0
+Awesome075/multi_news_parquet,3,It felt like a radical about-f...,radical face save,0.7644036412239075,0.0060790273556231,0.2548012137413025,1.0
+Awesome075/multi_news_parquet,5,It felt like a radical about-f...,radical face but nokia save,0.7889144420623779,0.01812688821752266,0.1577828884124756,1.0
+Awesome075/multi_news_parquet,1,The cases on unions and affirm...,for,0.7682307362556458,0.006472491909385114,0.7682307362556458,1.0
+Awesome075/multi_news_parquet,3,The cases on unions and affirm...,for were more,0.7642382383346558,0.019292604501607715,0.25474607944488525,1.0
+Awesome075/multi_news_parquet,5,The cases on unions and affirm...,for were more confidence move,0.7837952971458435,0.019169329073482427,0.1567590594291687,1.0
+Awesome075/multi_news_parquet,7,The cases on unions and affirm...,for were dock more confidence they move,0.7838740944862366,0.01904761904761905,0.1119820134980338,0.8571428571428571
+Awesome075/multi_news_parquet,9,The cases on unions and affirm...,cases for were dock more confidence they move right,0.7788335084915161,0.03154574132492113,0.08653705649905735,0.8888888888888888
+Awesome075/multi_news_parquet,1,"If True, Building Set For Demo...",2013,0.7779225707054138,0.0,0.7779225707054138,1.0
+Awesome075/multi_news_parquet,3,"If True, Building Set For Demo...",building 2013 he,0.8281350135803223,0.01687763713080169,0.2760450045267741,1.0
+Awesome075/multi_news_parquet,5,"If True, Building Set For Demo...",building 2013 cellar he foundation,0.7973668575286865,0.03347280334728033,0.15947337150573732,1.0
+Awesome075/multi_news_parquet,7,"If True, Building Set For Demo...",building s 2013 cellar he foundation era,0.7875057458877563,0.04979253112033195,0.11250082084110805,1.0
+Awesome075/multi_news_parquet,1,The Israeli army said it had t...,terrorist,0.7814366817474365,0.0,0.7814366817474365,1.0
+Awesome075/multi_news_parquet,1,||||| A stolen Picasso worth m...,described,0.7739695310592651,0.0,0.7739695310592651,1.0
+Awesome075/multi_news_parquet,3,||||| A stolen Picasso worth m...,package described $,0.7674589157104492,0.008620689655172414,0.2558196385701497,1.0
+Awesome075/multi_news_parquet,5,||||| A stolen Picasso worth m...,package described as $ —,0.774030327796936,0.01716738197424893,0.1548060655593872,1.0
+Awesome075/multi_news_parquet,7,||||| A stolen Picasso worth m...,package described as $ — but will,0.7830203771591187,0.03404255319148936,0.11186005387987409,1.0
+Awesome075/multi_news_parquet,9,||||| A stolen Picasso worth m...,u package described as $ — but will way,0.7887914180755615,0.03375527426160338,0.08764349089728461,1.0
+Awesome075/multi_news_parquet,1,We've rounded up three artsy d...,ve,0.7703992128372192,0.0,0.7703992128372192,1.0
+Awesome075/multi_news_parquet,1,All of the police officers met...,loss,0.7740375995635986,0.010989010989010988,0.7740375995635986,1.0
+Awesome075/multi_news_parquet,3,All of the police officers met...,loss squad confirm,0.7930582165718079,0.010869565217391304,0.2643527388572693,1.0
+Awesome075/multi_news_parquet,5,All of the police officers met...,loss then squad look confirm,0.7791549563407898,0.010752688172043012,0.15583099126815797,1.0
+Awesome075/multi_news_parquet,7,All of the police officers met...,s loss then s squad look confirm,0.7778916358947754,0.010638297872340425,0.11112737655639648,0.8571428571428571
+Awesome075/multi_news_parquet,9,All of the police officers met...,store s loss prevention then s squad look confirm,0.7756329774856567,0.031578947368421054,0.08618144194285075,0.8888888888888888
+Awesome075/multi_news_parquet,1,The caller made 28 false distr...,beginning,0.7814738154411316,0.0,0.7814738154411316,1.0
+Awesome075/multi_news_parquet,3,The caller made 28 false distr...,beginning according the,0.7781741619110107,0.01234567901234568,0.25939138730367023,1.0
+Awesome075/multi_news_parquet,5,The caller made 28 false distr...,maryland beginning according the coast,0.8079097270965576,0.036585365853658534,0.16158194541931153,1.0
+Awesome075/multi_news_parquet,1,“The Obama campaign sent me th...,”,0.7448182106018066,0.0,0.7448182106018066,0.0
+Awesome075/multi_news_parquet,3,“The Obama campaign sent me th...,obama they ”,0.761223554611206,0.006600660066006601,0.25374118487040204,1.0
+Awesome075/multi_news_parquet,1,||||| HUNTINGTON BEACH (CBSLA)...,possible,0.7743319272994995,0.0,0.7743319272994995,1.0
+Awesome075/multi_news_parquet,3,||||| HUNTINGTON BEACH (CBSLA)...,– the possible,0.7886516451835632,0.00970873786407767,0.26288388172785443,1.0
+Awesome075/multi_news_parquet,5,||||| HUNTINGTON BEACH (CBSLA)...,– the possible suicide authorities,0.7857614755630493,0.019230769230769232,0.15715229511260986,1.0
+Awesome075/multi_news_parquet,7,||||| HUNTINGTON BEACH (CBSLA)...,– the huntington result possible suicide authorities,0.7835371494293213,0.028571428571428574,0.11193387848990304,1.0
+Awesome075/multi_news_parquet,1,The 94-word intelligence summa...,they,0.7769957184791565,0.0071428571428571435,0.7769957184791565,1.0
+Awesome075/multi_news_parquet,3,The 94-word intelligence summa...,day they no,0.7817692160606384,0.014184397163120569,0.26058973868687946,0.6666666666666666
+Awesome075/multi_news_parquet,5,The 94-word intelligence summa...,day they bland no assessment,0.7955898642539978,0.02112676056338028,0.15911797285079957,0.8
+Awesome075/multi_news_parquet,7,The 94-word intelligence summa...,word day they w bland no assessment,0.7835733294487,0.02097902097902098,0.11193904706409999,0.7142857142857143
+Awesome075/multi_news_parquet,9,The 94-word intelligence summa...,94 word day they w available bland no assessment,0.7885425686836243,0.027777777777777776,0.08761584096484715,0.7777777777777778
+Awesome075/multi_news_parquet,11,The 94-word intelligence summa...,94 word day in they w available bland no an assessment,0.7795732617378235,0.04137931034482759,0.07087029652162032,0.8181818181818182
+Awesome075/multi_news_parquet,13,The 94-word intelligence summa...,94 word day in which they w available bland no an assessment mark,0.7840815782546997,0.04794520547945205,0.06031396755805382,0.8461538461538461
+Awesome075/multi_news_parquet,1,"""During our observations the v...",.,0.7620776295661926,0.0,0.7620776295661926,0.0
+Awesome075/multi_news_parquet,3,"""During our observations the v...",. most building,0.7803512811660767,0.0,0.26011709372202557,1.0
+Awesome075/multi_news_parquet,5,"""During our observations the v...",height . . most building,0.7691940665245056,0.0,0.15383881330490112,1.0
+Awesome075/multi_news_parquet,7,"""During our observations the v...",height . . . most vent building,0.7754050493240356,0.0,0.11077214990343366,1.0
+Awesome075/multi_news_parquet,9,"""During our observations the v...",height . . accompanied . as most vent building,0.7580767273902893,0.008510638297872339,0.08423074748780993,1.0
+Awesome075/multi_news_parquet,11,"""During our observations the v...",height about . . accompanied . . as most vent building,0.7568509578704834,0.016949152542372878,0.06880463253368031,1.0
+Awesome075/multi_news_parquet,13,"""During our observations the v...","height about . . accompanied . . as most vent building new """,0.7595902681350708,0.02531645569620253,0.058430020625774674,1.0
+Awesome075/multi_news_parquet,15,"""During our observations the v...","volcano height about . . accompanied . . as ash most vent building new """,0.7723828554153442,0.04184100418410041,0.05149219036102295,1.0
+Awesome075/multi_news_parquet,1,The roughly one in five childr...,the,0.7675160765647888,0.0076045627376425855,0.7675160765647888,1.0
+Awesome075/multi_news_parquet,3,The roughly one in five childr...,recession the balance,0.7760382890701294,0.015094339622641508,0.25867942969004315,1.0
+Awesome075/multi_news_parquet,5,The roughly one in five childr...,recession the american a balance,0.7796667218208313,0.022471910112359553,0.15593334436416625,1.0
+Awesome075/multi_news_parquet,7,The roughly one in five childr...,recession when the u american a balance,0.7757077217102051,0.029739776951672858,0.11081538881574358,1.0
+Awesome075/multi_news_parquet,9,The roughly one in five childr...,recession when the u s american a larger balance,0.7723821401596069,0.036900369003690044,0.08582023779551189,1.0
+Awesome075/multi_news_parquet,11,The roughly one in five childr...,recession when the u s american food a larger balance budget,0.7762957215309143,0.04395604395604395,0.0705723383209922,1.0
+Awesome075/multi_news_parquet,13,The roughly one in five childr...,2014 recession when the u s american congress food a larger balance budget,0.7818095088005066,0.04363636363636364,0.06013919298465435,1.0
+Awesome075/multi_news_parquet,15,The roughly one in five childr...,2014 recession when according the u s census american congress food a larger balance budget,0.784835934638977,0.057761732851985555,0.05232239564259847,1.0
+Awesome075/multi_news_parquet,17,The roughly one in five childr...,2014 recession when 9 according the u s census american congress supplemental food a larger balance budget,0.779186487197876,0.07168458781362008,0.045834499246933884,1.0
+Awesome075/multi_news_parquet,19,The roughly one in five childr...,roughly 2014 recession when 9 according the u s census american wednesday congress supplemental food a larger balance budget,0.7761723399162292,0.07829181494661921,0.0408511757850647,1.0
+Awesome075/multi_news_parquet,1,A video posted on Facebook sho...,and,0.777580201625824,0.007092198581560283,0.777580201625824,1.0
+Awesome075/multi_news_parquet,3,A video posted on Facebook sho...,order - and,0.7630637288093567,0.014134275618374558,0.2543545762697856,1.0
+Awesome075/multi_news_parquet,5,A video posted on Facebook sho...,customer order - and quickly,0.782537043094635,0.02105263157894737,0.156507408618927,1.0
+Awesome075/multi_news_parquet,1,Eight years after his severely...,their,0.7783645391464233,0.008368200836820083,0.7783645391464233,1.0
+Awesome075/multi_news_parquet,3,Eight years after his severely...,their custody completely,0.7895436882972717,0.016597510373443983,0.2631812294324239,1.0
+Awesome075/multi_news_parquet,5,Eight years after his severely...,their custody sources suzanne completely,0.7878767251968384,0.02469135802469136,0.15757534503936768,1.0
+Awesome075/multi_news_parquet,7,Eight years after his severely...,their custody the and sources suzanne completely,0.7821291089057922,0.04081632653061225,0.11173272984368461,1.0
+Awesome075/multi_news_parquet,9,Eight years after his severely...,their custody the un has and sources suzanne completely,0.7825592756271362,0.048582995951417005,0.08695103062523736,0.8888888888888888
+Awesome075/multi_news_parquet,11,Eight years after his severely...,their custody the un has and sources photos suzanne through completely,0.784294605255127,0.04819277108433735,0.0712995095686479,0.9090909090909091
+Awesome075/multi_news_parquet,13,Eight years after his severely...,their custody the un has and sources new photos suzanne through her completely,0.784431517124176,0.06374501992031872,0.06034088593262892,0.9230769230769231
+Awesome075/multi_news_parquet,1,The CNBC debate – the ninth of...,sixth,0.777710497379303,0.0,0.777710497379303,1.0
+Awesome075/multi_news_parquet,3,The CNBC debate – the ninth of...,ninth sixth turn,0.7813013792037964,0.0,0.26043379306793213,1.0
+Awesome075/multi_news_parquet,5,The CNBC debate – the ninth of...,ninth year sixth will turn,0.7800487875938416,0.008771929824561403,0.1560097575187683,1.0
+Awesome075/multi_news_parquet,7,The CNBC debate – the ninth of...,ninth year the sixth full will turn,0.7808147072792053,0.017391304347826084,0.11154495818274361,1.0
+Awesome075/multi_news_parquet,9,The CNBC debate – the ninth of...,the ninth year and the sixth full will turn,0.7979155778884888,0.034482758620689655,0.08865728643205431,0.8888888888888888
+Awesome075/multi_news_parquet,11,The CNBC debate – the ninth of...,the ninth year and the sixth full will hold turn worst,0.794991135597229,0.034188034188034185,0.07227192141792992,0.9090909090909091
+Awesome075/multi_news_parquet,1,Related: 'Duck Dynasty' Suspen...,he,0.7836981415748596,0.009708737864077669,0.7836981415748596,1.0
+Awesome075/multi_news_parquet,3,Related: 'Duck Dynasty' Suspen...,suspend robertson he,0.7490966320037842,0.019230769230769232,0.24969887733459473,0.6666666666666666
+Awesome075/multi_news_parquet,5,Related: 'Duck Dynasty' Suspen...,"' suspend robertson "" he",0.7472550868988037,0.019230769230769232,0.14945101737976074,0.6666666666666666
+Awesome075/multi_news_parquet,7,Related: 'Duck Dynasty' Suspen...,"' suspend robertson la "" "" he",0.7502831220626831,0.019138755980861243,0.10718330315181188,0.75
+Awesome075/multi_news_parquet,9,Related: 'Duck Dynasty' Suspen...,"' suspend robertson blacks small la "" "" he",0.7607401013374329,0.018957345971563982,0.08452667792638142,0.8333333333333334
+Awesome075/multi_news_parquet,1,Relocation of endangered anima...,14,0.7732338905334473,0.0,0.7732338905334473,1.0
+Awesome075/multi_news_parquet,3,Relocation of endangered anima...,half them 14,0.7835636138916016,0.0,0.2611878712972005,1.0
+Awesome075/multi_news_parquet,5,Relocation of endangered anima...,loss half them 14 what,0.7821472883224487,0.008658008658008656,0.15642945766448973,1.0
+Awesome075/multi_news_parquet,7,Relocation of endangered anima...,loss half them 14 wildlife what complete,0.785741925239563,0.025751072961373387,0.11224884646279472,1.0
+Awesome075/multi_news_parquet,9,Relocation of endangered anima...,loss half them 14 reserve wildlife what complete .,0.8007332682609558,0.02564102564102564,0.0889703631401062,1.0
+Awesome075/multi_news_parquet,11,Relocation of endangered anima...,loss half them 14 moved reserve wildlife in what complete .,0.795592725276947,0.0423728813559322,0.07232661138881337,1.0
+Awesome075/multi_news_parquet,13,Relocation of endangered anima...,loss half them 14 moved reserve southern wildlife revealed in what complete .,0.794948399066925,0.04201680672268907,0.061149876851301924,1.0
+Awesome075/multi_news_parquet,1,Image copyright AP Image capti...,south,0.7781522274017334,0.013605442176870748,0.7781522274017334,1.0
+Awesome075/multi_news_parquet,3,Image copyright AP Image capti...,north south south,0.7646657824516296,0.040268456375838924,0.2548885941505432,0.6666666666666666
+Awesome075/multi_news_parquet,5,Image copyright AP Image capti...,north south two heavily south,0.7784193158149719,0.052980132450331126,0.15568386316299437,0.8
+Awesome075/multi_news_parquet,1,The homeowners’ funds essentia...,executive,0.7701680660247803,0.0,0.7701680660247803,1.0
+Awesome075/multi_news_parquet,3,The homeowners’ funds essentia...,’ the executive,0.7650033235549927,0.006734006734006735,0.25500110785166424,1.0
+Awesome075/multi_news_parquet,5,The homeowners’ funds essentia...,funds ’ s the executive,0.7620280385017395,0.020066889632107024,0.1524056077003479,1.0
+Awesome075/multi_news_parquet,1,"Weier's co-defendant, Morgan G...",hearing,0.7766060829162598,0.0,0.7766060829162598,1.0
+Awesome075/multi_news_parquet,3,"Weier's co-defendant, Morgan G...",often at hearing,0.8026674389839172,0.0,0.2675558129946391,1.0
+Awesome075/multi_news_parquet,5,"Weier's co-defendant, Morgan G...",had plea often at hearing,0.8124345541000366,0.01081081081081081,0.16248691082000732,1.0
+Awesome075/multi_news_parquet,1,Aiello was read his Miranda ri...,he,0.7754074931144714,0.007936507936507936,0.7754074931144714,1.0
+Awesome075/multi_news_parquet,3,Aiello was read his Miranda ri...,interviewed he the,0.7707393169403076,0.015748031496062992,0.2569131056467692,1.0
+Awesome075/multi_news_parquet,5,Aiello was read his Miranda ri...,interviewed during he the document,0.7749936580657959,0.0234375,0.1549987316131592,1.0
+Awesome075/multi_news_parquet,7,Aiello was read his Miranda ri...,"interviewed during he home , the document",0.7683281898498535,0.0311284046692607,0.1097611699785505,1.0
+Awesome075/multi_news_parquet,9,Aiello was read his Miranda ri...,"interviewed during he s home m , the document",0.7641707062721252,0.03861003861003861,0.08490785625245836,1.0
+Awesome075/multi_news_parquet,1,The suit also claims that the ...,hear,0.7739319801330566,0.0,0.7739319801330566,1.0
+Awesome075/multi_news_parquet,3,The suit also claims that the ...,“ treated hear,0.7683919668197632,0.0,0.2561306556065877,1.0
+Awesome075/multi_news_parquet,5,The suit also claims that the ...,public “ had treated hear,0.75673907995224,0.01486988847583643,0.151347815990448,1.0
+Awesome075/multi_news_parquet,7,The suit also claims that the ...,public “ had treated agreeing hear title,0.7662172317504883,0.02214022140221402,0.10945960453578404,1.0
+Awesome075/multi_news_parquet,9,The suit also claims that the ...,respond public “ had treated agreeing hear s title,0.7646124362945557,0.029304029304029304,0.08495693736606175,1.0
+Awesome075/multi_news_parquet,1,"""If Mitt Romney is the nominee...",then,0.773057222366333,0.008547008547008546,0.773057222366333,1.0
+Awesome075/multi_news_parquet,1,Gold’s family told News4Jax.co...,expressed,0.7737383842468262,0.0,0.7737383842468262,1.0
+Awesome075/multi_news_parquet,3,Gold’s family told News4Jax.co...,family com expressed,0.7717998623847961,0.0,0.25726662079493207,1.0
+Awesome075/multi_news_parquet,1,Naked ambition: The shot of th...,launched,0.7756243348121643,0.0,0.7756243348121643,1.0
+Awesome075/multi_news_parquet,3,Naked ambition: The shot of th...,article launched foul,0.7861340641975403,0.0,0.26204468806584674,1.0
+Awesome075/multi_news_parquet,5,Naked ambition: The shot of th...,rebel see article launched foul,0.7715314030647278,0.0078125,0.15430628061294555,1.0
+Awesome075/multi_news_parquet,7,Naked ambition: The shot of th...,rebel imagination see through article launched foul,0.7819682955741882,0.015503875968992246,0.11170975651059832,1.0
+Awesome075/multi_news_parquet,9,Naked ambition: The shot of th...,rebel imagination see through article sun launched foul newspaper,0.7859106659889221,0.023076923076923078,0.08732340733210246,1.0
+Awesome075/multi_news_parquet,11,Naked ambition: The shot of th...,shot rebel rihanna imagination see through article sun launched foul newspaper,0.7979967594146729,0.03053435114503817,0.07254515994678844,1.0
+Awesome075/multi_news_parquet,1,A second source close to the N...,nfl,0.7646557688713074,0.014184397163120567,0.7646557688713074,1.0
+Awesome075/multi_news_parquet,3,A second source close to the N...,the nfl halftime,0.7862364053726196,0.04195804195804196,0.26207880179087323,1.0
+Awesome075/multi_news_parquet,1,Provided by FBI Rocky Mountain...,cab,0.7839254140853882,0.015151515151515152,0.7839254140853882,1.0
+Awesome075/multi_news_parquet,3,Provided by FBI Rocky Mountain...,accused cab bank,0.8118578195571899,0.029850746268656712,0.27061927318573,1.0
+Awesome075/multi_news_parquet,1,"There isn’t enough time, money...",for,0.7722755670547485,0.007575757575757576,0.7722755670547485,1.0
+Awesome075/multi_news_parquet,3,"There isn’t enough time, money...",and holidays for,0.7739015221595764,0.015037593984962407,0.25796717405319214,1.0
+Awesome075/multi_news_parquet,5,"There isn’t enough time, money...",and holidays and for country,0.7824283242225647,0.02238805970149254,0.15648566484451293,0.8
+Awesome075/multi_news_parquet,7,"There isn’t enough time, money...",t and holidays and for and country,0.7631619572639465,0.037037037037037035,0.10902313675199236,0.7142857142857143
+Awesome075/multi_news_parquet,9,"There isn’t enough time, money...",t replace and holidays and for s and country,0.767323911190033,0.04411764705882353,0.08525821235444811,0.7777777777777778
+Awesome075/multi_news_parquet,1,Their comments were echoed by ...,who,0.7747302055358887,0.006711409395973153,0.7747302055358887,1.0
+Awesome075/multi_news_parquet,3,Their comments were echoed by ...,who a former,0.7565769553184509,0.013333333333333332,0.25219231843948364,1.0
+Awesome075/multi_news_parquet,5,Their comments were echoed by ...,sc who “ a former,0.7301418781280518,0.013289036544850499,0.14602837562561036,0.75
+Awesome075/multi_news_parquet,1,Cartman sees this as his chanc...,get,0.7813813090324402,0.0,0.7813813090324402,1.0
+Awesome075/multi_news_parquet,3,Cartman sees this as his chanc...,get off air,0.7915019989013672,0.0,0.26383399963378906,1.0
+Awesome075/multi_news_parquet,1,While still keeping ties to hi...,anthony,0.7585737705230713,0.0,0.7585737705230713,1.0
+Awesome075/multi_news_parquet,3,While still keeping ties to hi...,his finance anthony,0.7917608022689819,0.018181818181818184,0.26392026742299396,1.0
+Awesome075/multi_news_parquet,5,While still keeping ties to hi...,his finance is anthony a,0.7832205891609192,0.036036036036036036,0.15664411783218385,1.0
+Awesome075/multi_news_parquet,7,While still keeping ties to hi...,his obama finance is anthony a campaign,0.8017463088035583,0.053571428571428575,0.1145351869719369,1.0
+Awesome075/multi_news_parquet,9,While still keeping ties to hi...,his obama finance campaign is break anthony a campaign,0.7945719361305237,0.06194690265486726,0.0882857706811693,0.8888888888888888
+Awesome075/multi_news_parquet,1,||||| WHITTIER >> The Whittier...,seven,0.7745562195777893,0.0,0.7745562195777893,1.0
+Awesome075/multi_news_parquet,3,||||| WHITTIER >> The Whittier...,seven 4 was,0.777837336063385,0.021621621621621623,0.25927911202112836,1.0
+Awesome075/multi_news_parquet,5,||||| WHITTIER >> The Whittier...,wedding seven 4 year was,0.7833020091056824,0.04278074866310161,0.15666040182113647,1.0
+Awesome075/multi_news_parquet,7,||||| WHITTIER >> The Whittier...,wedding leaving seven 4 year was critical,0.7969076633453369,0.04232804232804233,0.1138439519064767,1.0
+Awesome075/multi_news_parquet,1,"Causey, 46, has now escaped fr...",a,0.7739010453224182,0.00900900900900901,0.7739010453224182,1.0
+Awesome075/multi_news_parquet,3,"Causey, 46, has now escaped fr...",has a dozen,0.7692904472351074,0.01785714285714286,0.25643014907836914,1.0
+Awesome075/multi_news_parquet,5,"Causey, 46, has now escaped fr...",46 has two a dozen,0.7841272950172424,0.035398230088495575,0.1568254590034485,1.0
+Awesome075/multi_news_parquet,1,"Lerner, who heads an IRS divis...",extra,0.7838418483734131,0.0,0.7838418483734131,1.0
+Awesome075/multi_news_parquet,3,"Lerner, who heads an IRS divis...",oversees extra washington,0.794970691204071,0.0,0.264990230401357,1.0
+Awesome075/multi_news_parquet,5,"Lerner, who heads an IRS divis...",irs oversees extra planted washington,0.7978195548057556,0.025157232704402517,0.15956391096115113,1.0
+Awesome075/multi_news_parquet,7,"Lerner, who heads an IRS divis...",irs oversees first extra agency planted washington,0.7976019978523254,0.037267080745341616,0.11394314255033221,1.0
+Awesome075/multi_news_parquet,9,"Lerner, who heads an IRS divis...",irs oversees exempt first extra agency tea planted washington,0.7951509356498718,0.049079754601226995,0.08835010396109687,1.0
+Awesome075/multi_news_parquet,1,First lady Hillary Rodham Clin...,a,0.7686399221420288,0.006578947368421053,0.7686399221420288,1.0
+Awesome075/multi_news_parquet,3,First lady Hillary Rodham Clin...,a says times,0.7802305817604065,0.013071895424836602,0.2600768605868022,1.0
+Awesome075/multi_news_parquet,5,First lady Hillary Rodham Clin...,a new says report times,0.7852063179016113,0.012987012987012986,0.15704126358032228,1.0
+Awesome075/multi_news_parquet,7,First lady Hillary Rodham Clin...,according a new says report chicago times,0.7655200362205505,0.012903225806451613,0.10936000517436437,1.0
+Awesome075/multi_news_parquet,1,But penis transplants have gen...,re,0.7725847959518433,0.0,0.7725847959518433,0.0
+Awesome075/multi_news_parquet,3,But penis transplants have gen...,a re perform,0.7619538307189941,0.00784313725490196,0.25398461023966473,0.6666666666666666
+Awesome075/multi_news_parquet,5,But penis transplants have gen...,and a few re perform,0.8071046471595764,0.01556420233463035,0.16142092943191527,0.8
+Awesome075/multi_news_parquet,1,Although the family is grievin...,coaches,0.7690922021865845,0.0,0.7690922021865845,1.0
+Awesome075/multi_news_parquet,3,Although the family is grievin...,family teammates coaches,0.7830161452293396,0.007407407407407408,0.2610053817431132,1.0
+Awesome075/multi_news_parquet,1,"""People now can look at Hawaii...","""",0.7830449938774109,0.0,0.7830449938774109,0.0
+Awesome075/multi_news_parquet,3,"""People now can look at Hawaii...","destination "" no",0.7739603519439697,0.008658008658008658,0.25798678398132324,1.0
+Awesome075/multi_news_parquet,5,"""People now can look at Hawaii...","destination "" be federal no",0.7849104404449463,0.017167381974248927,0.15698208808898925,1.0
+Awesome075/multi_news_parquet,7,"""People now can look at Hawaii...","destination "" "" be federal no """,0.7797982096672058,0.017167381974248927,0.11139974423817225,1.0
+Awesome075/multi_news_parquet,1,[Updated with NYSE development...,listed,0.7839195728302002,0.0,0.7839195728302002,1.0
+Awesome075/multi_news_parquet,1,The hand-grip constrains the u...,lifting,0.7741115093231201,0.0,0.7741115093231201,1.0
+Awesome075/multi_news_parquet,3,The hand-grip constrains the u...,user specific lifting,0.7860425114631653,0.0,0.26201417048772174,1.0
+Awesome075/multi_news_parquet,1,"""Idina Menzel and Taye Diggs h...",separate,0.7782661318778992,0.0,0.7782661318778992,1.0
+Awesome075/multi_news_parquet,3,"""Idina Menzel and Taye Diggs h...","separate "" couple",0.7714450359344482,0.0,0.25714834531148273,1.0
+Awesome075/multi_news_parquet,1,Now the results of scientific ...,national,0.7713665962219238,0.007874015748031496,0.7713665962219238,1.0
+Awesome075/multi_news_parquet,3,Now the results of scientific ...,national confirm the,0.7874040007591248,0.015625,0.26246800025304157,1.0
+Awesome075/multi_news_parquet,5,Now the results of scientific ...,results scientific national confirm the,0.7967877984046936,0.02325581395348837,0.15935755968093873,1.0
+Awesome075/multi_news_parquet,1,THIS ARTICLE Facebook Twitter ...,the,0.7925238013267517,0.010752688172043012,0.7925238013267517,1.0
+Awesome075/multi_news_parquet,3,THIS ARTICLE Facebook Twitter ...,the a dozen,0.7813295722007751,0.021276595744680854,0.26044319073359173,1.0
+Awesome075/multi_news_parquet,5,THIS ARTICLE Facebook Twitter ...,pair the a dozen er,0.7796929478645325,0.021052631578947368,0.1559385895729065,0.8
+Awesome075/multi_news_parquet,7,THIS ARTICLE Facebook Twitter ...,pair high the - a dozen er,0.7822850942611694,0.020942408376963352,0.11175501346588135,0.8333333333333334
+Awesome075/multi_news_parquet,9,THIS ARTICLE Facebook Twitter ...,s plan pair high the - a dozen er,0.7844730019569397,0.031088082901554407,0.08716366688410442,0.875
+Awesome075/multi_news_parquet,11,THIS ARTICLE Facebook Twitter ...,s plan pair high $ the - a dozen billionaire er,0.7839094400405884,0.030927835051546396,0.0712644945491444,0.8888888888888888
+Awesome075/multi_news_parquet,1,"||||| Brewery Name 
+ 
+ 10 Barr...",3,0.772435188293457,0.0,0.772435188293457,1.0
+Awesome075/multi_news_parquet,3,"||||| Brewery Name 
+ 
+ 10 Barr...",2 3 un,0.7665802836418152,0.0,0.2555267612139384,0.6666666666666666
+Awesome075/multi_news_parquet,5,"||||| Brewery Name 
+ 
+ 10 Barr...",2 3 un un brewery,0.7751084566116333,0.007117437722419929,0.15502169132232665,0.6
+Awesome075/multi_news_parquet,7,"||||| Brewery Name 
+ 
+ 10 Barr...",2 3 un un site brewery 163,0.7705081105232239,0.007067137809187279,0.11007258721760341,0.5714285714285714
+Awesome075/multi_news_parquet,9,"||||| Brewery Name 
+ 
+ 10 Barr...",2 3 s un 163 un site brewery 163,0.7681945562362671,0.014035087719298246,0.08535495069291857,0.5555555555555556
+Awesome075/multi_news_parquet,11,"||||| Brewery Name 
+ 
+ 10 Barr...",2 3 / s / un 163 un site brewery 163,0.7677507400512695,0.014035087719298246,0.06979552182284268,0.5555555555555556
+Awesome075/multi_news_parquet,13,"||||| Brewery Name 
+ 
+ 10 Barr...",2 3 / s / un 163 un site brewery 163 jp |,0.7567440271377563,0.013986013986013986,0.05821107901059664,0.5
+Awesome075/multi_news_parquet,1,"""It hit my family hard, and it...",their,0.7737259268760681,0.0,0.7737259268760681,1.0
+Awesome075/multi_news_parquet,3,"""It hit my family hard, and it...",their tar they,0.7749437689781189,0.0,0.258314589659373,0.6666666666666666
+Awesome075/multi_news_parquet,5,"""It hit my family hard, and it...",and really their tar they,0.782154381275177,0.013422818791946308,0.1564308762550354,0.8
+Awesome075/multi_news_parquet,7,"""It hit my family hard, and it...",and it really their tar s they,0.779914140701294,0.02666666666666667,0.11141630581447057,0.8571428571428571
+Awesome075/multi_news_parquet,9,"""It hit my family hard, and it...",and it really couple their tar s they what,0.7830293774604797,0.03311258278145695,0.08700326416227552,0.8888888888888888
+Awesome075/multi_news_parquet,11,"""It hit my family hard, and it...",and it really couple their two tar s re they what,0.7756083011627197,0.03947368421052632,0.07050984556024725,0.9090909090909091
+Awesome075/multi_news_parquet,1,"Andrew Weissmann, one of the l...",appearance,0.7656331062316895,0.0,0.7656331062316895,1.0
+Awesome075/multi_news_parquet,3,"Andrew Weissmann, one of the l...",lead appearance russian,0.7781001925468445,0.014545454545454547,0.2593667308489482,1.0
+Awesome075/multi_news_parquet,5,"Andrew Weissmann, one of the l...",lead was appearance russian political,0.7784239053726196,0.02888086642599278,0.15568478107452394,1.0
+Awesome075/multi_news_parquet,7,"Andrew Weissmann, one of the l...",lead was pat appearance t russian political,0.7710703015327454,0.035842293906810034,0.11015290021896362,0.8571428571428571
+Awesome075/multi_news_parquet,1,Image copyright AFP Image capt...,via,0.7770200371742249,0.0,0.7770200371742249,0.0
+Awesome075/multi_news_parquet,3,Image copyright AFP Image capt...,scandal unexpected via,0.7602249383926392,0.00892857142857143,0.2534083127975464,0.6666666666666666
+Awesome075/multi_news_parquet,1,It is unclear whether a sub on...,chart,0.7748605608940125,0.0,0.7748605608940125,1.0
+Awesome075/multi_news_parquet,3,It is unclear whether a sub on...,try chart lo,0.7855159640312195,0.009999999999999998,0.2618386546770732,0.6666666666666666
+Awesome075/multi_news_parquet,5,It is unclear whether a sub on...,is try chart black lo,0.7776300311088562,0.029702970297029705,0.15552600622177123,0.8
+Awesome075/multi_news_parquet,1,"""To say that Palo Alto has bee...",very,0.7711069583892822,0.0,0.7711069583892822,1.0
+Awesome075/multi_news_parquet,3,"""To say that Palo Alto has bee...",palo add very,0.7613349556922913,0.006451612903225807,0.2537783185640971,1.0
+Awesome075/multi_news_parquet,1,||||| Duke and Duchess welcome...,an,0.7828359007835388,0.0,0.7828359007835388,1.0
+Awesome075/multi_news_parquet,3,||||| Duke and Duchess welcome...,new an adorable,0.761725902557373,0.019230769230769232,0.253908634185791,1.0
+Awesome075/multi_news_parquet,5,||||| Duke and Duchess welcome...,kate duke new an adorable,0.7908007502555847,0.056603773584905655,0.15816015005111694,1.0
+Awesome075/multi_news_parquet,7,||||| Duke and Duchess welcome...,kate name three duke new an adorable,0.7900614738464355,0.07407407407407407,0.11286592483520508,1.0
+Awesome075/multi_news_parquet,9,||||| Duke and Duchess welcome...,kate name mystery duke three duke new an adorable,0.7838189005851746,0.07272727272727272,0.08709098895390828,0.8888888888888888
+Awesome075/multi_news_parquet,1,https://t.co/nfqEd2rIAO — Augi...,enhance,0.7835566401481628,0.0,0.7835566401481628,1.0
+Awesome075/multi_news_parquet,3,https://t.co/nfqEd2rIAO — Augi...,go enhance their,0.788895845413208,0.0078125,0.26296528180440265,1.0
+Awesome075/multi_news_parquet,5,https://t.co/nfqEd2rIAO — Augi...,t 2016 go enhance their,0.7807883024215698,0.015503875968992246,0.15615766048431395,1.0
+Awesome075/multi_news_parquet,7,https://t.co/nfqEd2rIAO — Augi...,t jeremy 2016 go enhance their systems,0.7751854062080383,0.015384615384615384,0.11074077231543404,1.0
+Awesome075/multi_news_parquet,9,https://t.co/nfqEd2rIAO — Augi...,2016 t jeremy 2016 go including enhance their systems,0.7718108296394348,0.015267175572519083,0.0857567588488261,0.8888888888888888
+Awesome075/multi_news_parquet,1,"""Unfortunately, they got a get...",",",0.7630812525749207,0.0,0.7630812525749207,0.0
+Awesome075/multi_news_parquet,3,"""Unfortunately, they got a get...","free , '",0.7579027414321899,0.006349206349206349,0.2526342471440633,1.0
+Awesome075/multi_news_parquet,5,"""Unfortunately, they got a get...","out of free , '",0.7677348256111145,0.018927444794952678,0.1535469651222229,1.0
+Awesome075/multi_news_parquet,7,"""Unfortunately, they got a get...","they out of free told , '",0.7688682079315186,0.025078369905956115,0.10983831541878837,1.0
+Awesome075/multi_news_parquet,9,"""Unfortunately, they got a get...","they get out of jail free told , '",0.7817186713218689,0.024922118380062308,0.08685763014687432,1.0
+Awesome075/multi_news_parquet,11,"""Unfortunately, they got a get...","they get out of jail free j told , ' """,0.7652263045310974,0.02484472049689441,0.06956602768464522,1.0
+Awesome075/multi_news_parquet,1,"Mack, who's been equally publi...",him,0.7737498879432678,0.009615384615384614,0.7737498879432678,1.0
+Awesome075/multi_news_parquet,3,"Mack, who's been equally publi...",him made which,0.7678895592689514,0.009523809523809523,0.2559631864229838,1.0
+Awesome075/multi_news_parquet,5,"Mack, who's been equally publi...",him made revealed which women,0.7894487977027893,0.018867924528301886,0.15788975954055787,1.0
+Awesome075/multi_news_parquet,7,"Mack, who's been equally publi...",him archival made revealed many which women,0.7908515930175781,0.018691588785046728,0.11297879900251116,1.0
+Awesome075/multi_news_parquet,9,"Mack, who's been equally publi...",her cursing him archival made revealed many which women,0.7906234860420227,0.027777777777777776,0.08784705400466919,1.0
+Awesome075/multi_news_parquet,11,"Mack, who's been equally publi...",her is cursing him specifically archival made revealed many which women,0.79323810338974,0.03669724770642201,0.07211255485361273,1.0
+Awesome075/multi_news_parquet,13,"Mack, who's been equally publi...","her is "" cursing him specifically archival made surfaced revealed many which women",0.7887791991233826,0.0365296803652968,0.06067532300949097,1.0
+Awesome075/multi_news_parquet,15,"Mack, who's been equally publi...","who s her is "" cursing him specifically archival made surfaced revealed many which women",0.7875160574913025,0.054298642533936646,0.05250107049942017,1.0
+Awesome075/multi_news_parquet,1,"And I said, ‘Not for an hour, ...",if,0.771421492099762,0.006289308176100629,0.771421492099762,1.0
+Awesome075/multi_news_parquet,3,"And I said, ‘Not for an hour, ...",” his if,0.7571019530296326,0.012539184952978056,0.2523673176765442,1.0
+Awesome075/multi_news_parquet,5,"And I said, ‘Not for an hour, ...",‘ ” his and if,0.7474073767662048,0.018750000000000003,0.14948147535324097,1.0
+Awesome075/multi_news_parquet,7,"And I said, ‘Not for an hour, ...",‘ ’ ” his and if head,0.7496930956840515,0.018691588785046728,0.10709901366915021,1.0
+Awesome075/multi_news_parquet,1,"""It was this flip phone, and [...",and,0.7786105871200562,0.00806451612903226,0.7786105871200562,1.0
+Awesome075/multi_news_parquet,3,"""It was this flip phone, and [...","and t """,0.7636977434158325,0.008032128514056224,0.25456591447194415,1.0
+Awesome075/multi_news_parquet,5,"""It was this flip phone, and [...","and texted phone t """,0.7904137969017029,0.02390438247011952,0.15808275938034058,1.0
+Awesome075/multi_news_parquet,1,Some may argue that the unique...,compromise,0.7744952440261841,0.0,0.7744952440261841,1.0
+Awesome075/multi_news_parquet,3,Some may argue that the unique...,unique a compromise,0.7878245711326599,0.006968641114982579,0.2626081903775533,1.0
+Awesome075/multi_news_parquet,1,Erin's latest screen credit is...,s,0.7905961275100708,0.0,0.7905961275100708,1.0
+Awesome075/multi_news_parquet,3,Erin's latest screen credit is...,s - jail,0.7895730137825012,0.0,0.26319100459416706,1.0
+Awesome075/multi_news_parquet,5,Erin's latest screen credit is...,s g - - jail,0.7746597528457642,0.0,0.15493195056915282,0.6666666666666666
+Awesome075/multi_news_parquet,7,Erin's latest screen credit is...,s latest g - - tam jail,0.7848221063613892,0.0,0.11211744376591273,0.6
+Awesome075/multi_news_parquet,1,A recent series of articles on...,is,0.7790161371231079,0.006825938566552901,0.7790161371231079,1.0
+Awesome075/multi_news_parquet,3,A recent series of articles on...,the is regularly,0.7776485681533813,0.02033898305084746,0.25921618938446045,1.0
+Awesome075/multi_news_parquet,5,A recent series of articles on...,the have is assaults regularly,0.8012647032737732,0.03367003367003367,0.16025294065475465,1.0
+Awesome075/multi_news_parquet,7,A recent series of articles on...,more the have is assaults sexual regularly,0.8029518127441406,0.04013377926421405,0.11470740182059151,1.0
+Awesome075/multi_news_parquet,9,A recent series of articles on...,more the have a sober is assaults sexual regularly,0.7966473698616028,0.046511627906976744,0.08851637442906697,1.0
+Awesome075/multi_news_parquet,11,A recent series of articles on...,articles s more the have a sober is assaults sexual regularly,0.7870036959648132,0.052805280528052806,0.07154579054225575,1.0
+Awesome075/multi_news_parquet,13,A recent series of articles on...,recent articles s more the majority have a sober is assaults sexual regularly,0.7843441963195801,0.052459016393442616,0.06033416894766001,1.0
+Awesome075/multi_news_parquet,1,Although North Carolina will t...,"""",0.7769672870635986,0.0,0.7769672870635986,0.0
+Awesome075/multi_news_parquet,3,Although North Carolina will t...,""" path """,0.7650912404060364,0.006944444444444445,0.2550304134686788,1.0
+Awesome075/multi_news_parquet,5,Although North Carolina will t...,""" rest eastern path """,0.7764267325401306,0.006896551724137931,0.1552853465080261,1.0
+Awesome075/multi_news_parquet,1,A new process that ferments li...,fe,0.785932183265686,0.0,0.785932183265686,0.0
+Awesome075/multi_news_parquet,1,The full text of the message i...,twelve,0.7731313109397888,0.0,0.7731313109397888,1.0
+Awesome075/multi_news_parquet,3,The full text of the message i...,full profoundly twelve,0.7802152633666992,0.007220216606498194,0.2600717544555664,1.0
+Awesome075/multi_news_parquet,5,The full text of the message i...,full profoundly killing charity twelve,0.7888180017471313,0.014336917562724014,0.15776360034942627,1.0
+Awesome075/multi_news_parquet,1,"Delia Garcia-Bratcher, 30, of ...",the,0.778465986251831,0.010256410256410256,0.778465986251831,1.0
+Awesome075/multi_news_parquet,3,"Delia Garcia-Bratcher, 30, of ...",who the statement,0.7840239405632019,0.020304568527918784,0.2613413135210673,1.0
+Awesome075/multi_news_parquet,5,"Delia Garcia-Bratcher, 30, of ...",of who the office statement,0.7807543277740479,0.02010050251256281,0.15615086555480956,1.0
+Awesome075/multi_news_parquet,7,"Delia Garcia-Bratcher, 30, of ...",of elementary who to the office statement,0.8101204037666321,0.03980099502487562,0.11573148625237602,1.0
+Awesome075/multi_news_parquet,9,"Delia Garcia-Bratcher, 30, of ...",of elementary who to s the son office statement,0.7824509739875793,0.05911330049261084,0.08693899710973103,1.0
+Awesome075/multi_news_parquet,11,"Delia Garcia-Bratcher, 30, of ...",of elementary asked who to s the son s office statement,0.7903956174850464,0.07804878048780488,0.07185414704409512,0.9090909090909091
+Awesome075/multi_news_parquet,1,“It is suggesting that elephan...,wise,0.7831370830535889,0.0,0.7831370830535889,0.0
+Awesome075/multi_news_parquet,1,(Crowe then talks about his po...,that,0.7821504473686218,0.012048192771084336,0.7821504473686218,1.0
+Awesome075/multi_news_parquet,3,(Crowe then talks about his po...,the little that,0.7703444957733154,0.03571428571428572,0.25678149859110516,1.0
+Awesome075/multi_news_parquet,5,(Crowe then talks about his po...,robin the little that s,0.7501621246337891,0.05882352941176471,0.1500324249267578,1.0
+Awesome075/multi_news_parquet,7,(Crowe then talks about his po...,robin the m little that but s,0.7689491510391235,0.08139534883720931,0.1098498787198748,1.0
+Awesome075/multi_news_parquet,9,(Crowe then talks about his po...,robin the accent m little that but s re,0.7807754278182983,0.09195402298850575,0.08675282531314427,1.0
+Awesome075/multi_news_parquet,11,(Crowe then talks about his po...,robin the accent m little that ' s but s re,0.7777289152145386,0.10285714285714284,0.07070262865586714,0.9
+Awesome075/multi_news_parquet,13,(Crowe then talks about his po...,robin the accent m little character that ' s but s re .,0.773496150970459,0.11363636363636363,0.05949970392080454,0.9090909090909091
+Awesome075/multi_news_parquet,1,Police Commissioner Bill Bratt...,and,0.7776967287063599,0.010752688172043012,0.7776967287063599,1.0
+Awesome075/multi_news_parquet,1,"So it was troubling when, on t...",karl,0.763657808303833,0.006779661016949153,0.763657808303833,1.0
+Awesome075/multi_news_parquet,3,"So it was troubling when, on t...",on karl their,0.7617151141166687,0.020202020202020204,0.2539050380388896,1.0
+Awesome075/multi_news_parquet,5,"So it was troubling when, on t...",on karl elderly s their,0.7669347524642944,0.03344481605351171,0.1533869504928589,1.0
+Awesome075/multi_news_parquet,1,Story highlights Pakistani gam...,coming,0.7815969586372375,0.0,0.7815969586372375,1.0
+Awesome075/multi_news_parquet,3,Story highlights Pakistani gam...,publicity win coming,0.782344400882721,0.009049773755656108,0.260781466960907,1.0
+Awesome075/multi_news_parquet,5,Story highlights Pakistani gam...,live publicity win be coming,0.7846224904060364,0.008968609865470852,0.1569244980812073,1.0
+Awesome075/multi_news_parquet,7,Story highlights Pakistani gam...,live ' s publicity win be coming,0.7811872363090515,0.01785714285714286,0.11159817661557879,1.0
+Awesome075/multi_news_parquet,1,"Holcomb, one of eight soldiers...",other,0.7676143050193787,0.005970149253731344,0.7676143050193787,1.0
+Awesome075/multi_news_parquet,3,"Holcomb, one of eight soldiers...",assault reckless other,0.7799057960510254,0.005934718100890207,0.2599685986836751,1.0
+Awesome075/multi_news_parquet,5,"Holcomb, one of eight soldiers...",connection faces assault reckless other,0.7719146013259888,0.011799410029498527,0.15438292026519776,1.0
+Awesome075/multi_news_parquet,1,You also had deep concerns abo...,sell,0.7840524315834045,0.0,0.7840524315834045,1.0
+Awesome075/multi_news_parquet,1,"""The proposed law seeks to sto...",multi,0.7714160680770874,0.0,0.7714160680770874,1.0
+Awesome075/multi_news_parquet,3,"""The proposed law seeks to sto...",multi use eat,0.7833697199821472,0.0,0.2611232399940491,1.0
+Awesome075/multi_news_parquet,5,"""The proposed law seeks to sto...",multi take do use eat,0.7698782086372375,0.0,0.15397564172744752,1.0
+Awesome075/multi_news_parquet,7,"""The proposed law seeks to sto...",multi task take do use eat drink,0.7707929015159607,0.0,0.11011327164513725,1.0
+Awesome075/multi_news_parquet,9,"""The proposed law seeks to sto...",stop multi task take do use eat drink the,0.7752513289451599,0.007067137809187279,0.08613903654946221,1.0
+Awesome075/multi_news_parquet,11,"""The proposed law seeks to sto...",stop multi task take do text use eat drink the road,0.7703937292098999,0.007017543859649123,0.07003579356453636,1.0
+Awesome075/multi_news_parquet,1,When the skaters were asked mi...,compete,0.7709413766860962,0.006920415224913494,0.7709413766860962,1.0
+Awesome075/multi_news_parquet,3,When the skaters were asked mi...,compete their “,0.7535127997398376,0.013793103448275862,0.25117093324661255,1.0
+Awesome075/multi_news_parquet,5,When the skaters were asked mi...,compete their stepped “ decide,0.7692630887031555,0.020547945205479454,0.1538526177406311,1.0
+Awesome075/multi_news_parquet,1,She accomplished that goal les...,2015,0.7901405692100525,0.0,0.7901405692100525,1.0
+Awesome075/multi_news_parquet,3,She accomplished that goal les...,and showcased 2015,0.8094289302825928,0.01652892561983471,0.26980964342753094,1.0
+Awesome075/multi_news_parquet,1,Unqualified U.S. origin claims...,origin,0.775084376335144,0.0,0.775084376335144,1.0
+Awesome075/multi_news_parquet,3,Unqualified U.S. origin claims...,customs of origin,0.7761971950531006,0.007575757575757576,0.2587323983510335,1.0
+Awesome075/multi_news_parquet,5,Unqualified U.S. origin claims...,origin customs foreign of origin,0.778563380241394,0.007518796992481203,0.15571267604827882,0.8
+Awesome075/multi_news_parquet,7,Unqualified U.S. origin claims...,origin other customs foreign of - origin,0.7769951820373535,0.007490636704119849,0.11099931171962193,0.8333333333333334
+Awesome075/multi_news_parquet,9,Unqualified U.S. origin claims...,s origin other customs foreign of - s origin,0.7802449464797974,0.022304832713754646,0.08669388294219971,0.75
+Awesome075/multi_news_parquet,11,Unqualified U.S. origin claims...,s origin other products customs foreign of - confuse s origin,0.7768667936325073,0.02952029520295203,0.07062425396659157,0.8
+Awesome075/multi_news_parquet,13,Unqualified U.S. origin claims...,s origin other products customs foreign of - origin confuse product s origin,0.7793686985969543,0.03663003663003663,0.05995143835361187,0.75
+Awesome075/multi_news_parquet,1,"'His lovely Fiancé, Nancy Mote...",was,0.7734166383743286,0.007462686567164179,0.7734166383743286,1.0
+Awesome075/multi_news_parquet,3,"'His lovely Fiancé, Nancy Mote...",was pure that,0.7683640122413635,0.014814814814814815,0.25612133741378784,1.0
+Awesome075/multi_news_parquet,5,"'His lovely Fiancé, Nancy Mote...",was pure that has turmoil,0.7925176620483398,0.022058823529411763,0.15850353240966797,1.0
+Awesome075/multi_news_parquet,7,"'His lovely Fiancé, Nancy Mote...",was pure that has my all turmoil,0.7800672054290771,0.021897810218978103,0.11143817220415388,1.0
+Awesome075/multi_news_parquet,9,"'His lovely Fiancé, Nancy Mote...",was the pure pretty that has my all turmoil,0.7818841934204102,0.028985507246376812,0.08687602149115668,1.0
+Awesome075/multi_news_parquet,11,"'His lovely Fiancé, Nancy Mote...","was the pure pretty , that has ruin my all turmoil",0.7874044179916382,0.02888086642599278,0.07158221981742165,1.0
+Awesome075/multi_news_parquet,13,"'His lovely Fiancé, Nancy Mote...","was take the pure her pretty , that has ruin my all turmoil",0.7864596843719482,0.03584229390681004,0.060496898797842175,1.0
+Awesome075/multi_news_parquet,15,"'His lovely Fiancé, Nancy Mote...","was take the pure her pretty , that has ruin my ' all turmoil '",0.7827750444412231,0.03584229390681004,0.05218500296274821,1.0
+Awesome075/multi_news_parquet,1,Scaramucci did not specify wha...,reporting,0.764876127243042,0.0,0.764876127243042,1.0
+Awesome075/multi_news_parquet,3,Scaramucci did not specify wha...,required reporting investment,0.7745562791824341,0.0,0.2581854263941447,1.0
+Awesome075/multi_news_parquet,5,Scaramucci did not specify wha...,a required reporting his investment,0.7930920720100403,0.016129032258064516,0.15861841440200805,1.0
+Awesome075/multi_news_parquet,7,Scaramucci did not specify wha...,but a pol required reporting his investment,0.7892288565635681,0.016,0.11274697950908116,0.8571428571428571
+Awesome075/multi_news_parquet,9,Scaramucci did not specify wha...,but a pol incoming required reporting 9 his investment,0.7856519222259521,0.023809523809523808,0.08729465802510579,0.8888888888888888
+Awesome075/multi_news_parquet,1,Hillary Clinton is not conside...,democrat,0.7680004835128784,0.0,0.7680004835128784,1.0
+Awesome075/multi_news_parquet,1,An extensive analysis of recen...,every,0.7748973965644836,0.0,0.7748973965644836,1.0
+Awesome075/multi_news_parquet,3,An extensive analysis of recen...,recent one every,0.7669140100479126,0.006622516556291391,0.2556380033493042,1.0
+Awesome075/multi_news_parquet,5,An extensive analysis of recen...,extensive recent one every 50,0.7772048115730286,0.013157894736842106,0.15544096231460572,1.0
+Awesome075/multi_news_parquet,1,Though frostquake is a geologi...,report,0.7772502303123474,0.0,0.7772502303123474,1.0
+Awesome075/multi_news_parquet,3,Though frostquake is a geologi...,call weather report,0.7975146174430847,0.012422360248447206,0.2658382058143616,1.0
+Awesome075/multi_news_parquet,5,Though frostquake is a geologi...,area call weather report meteor,0.7775452733039856,0.012269938650306747,0.15550905466079712,0.8
+Awesome075/multi_news_parquet,7,Though frostquake is a geologi...,meteorological area johnson call weather report meteor,0.779127299785614,0.012121212121212121,0.11130389996937343,0.8571428571428571
+Awesome075/multi_news_parquet,1,A senior official with the U.N...,the,0.783694326877594,0.010810810810810811,0.783694326877594,1.0
+Awesome075/multi_news_parquet,3,A senior official with the U.N...,nuclear at the,0.7786993980407715,0.03208556149732621,0.2595664660135905,1.0
+Awesome075/multi_news_parquet,1,According to the documents fil...,told,0.772337794303894,0.0,0.772337794303894,1.0
+Awesome075/multi_news_parquet,3,According to the documents fil...,statements new told,0.7688383460044861,0.006734006734006733,0.25627944866816205,1.0
+Awesome075/multi_news_parquet,5,According to the documents fil...,documents statements new provided told,0.7714453339576721,0.006688963210702341,0.15428906679153442,1.0
+Awesome075/multi_news_parquet,7,According to the documents fil...,the documents statements a new provided told,0.7665829658508301,0.019933554817275746,0.1095118522644043,1.0
+Awesome075/multi_news_parquet,9,According to the documents fil...,the documents statements of a former new provided told,0.7635770440101624,0.0264026402640264,0.08484189377890693,1.0
+Awesome075/multi_news_parquet,11,According to the documents fil...,the documents case statements of new a former new provided told,0.7605804800987244,0.03278688524590164,0.06914368000897494,0.9090909090909091
+Awesome075/multi_news_parquet,13,According to the documents fil...,the documents case statements bowen of new a former new provided told cash,0.7604976892471313,0.045602605863192175,0.058499822249779336,0.9230769230769231
+Awesome075/multi_news_parquet,1,And for some people who actual...,dangerous,0.7832359671592712,0.0,0.7832359671592712,1.0
+Awesome075/multi_news_parquet,3,And for some people who actual...,actually can dangerous,0.7890071272850037,0.006993006993006992,0.2630023757616679,1.0
+Awesome075/multi_news_parquet,5,And for some people who actual...,actually real can dangerous problem,0.785153865814209,0.020833333333333336,0.1570307731628418,1.0
+Awesome075/multi_news_parquet,7,And for some people who actual...,"actually real "" can dangerous they problem",0.7797694206237793,0.02768166089965398,0.11139563151768275,1.0
+Awesome075/multi_news_parquet,1,"The “typewriter” was, in fact,...",in,0.7712774276733398,0.00819672131147541,0.7712774276733398,1.0
+Awesome075/multi_news_parquet,3,"The “typewriter” was, in fact,...",in starting 000,0.7674057483673096,0.016260162601626018,0.2558019161224365,1.0
+Awesome075/multi_news_parquet,5,"The “typewriter” was, in fact,...",in a starting 000 $,0.7735971808433533,0.0242914979757085,0.15471943616867065,1.0
+Awesome075/multi_news_parquet,7,"The “typewriter” was, in fact,...",in a a world starting 000 $,0.7736131548881531,0.040160642570281124,0.11051616498402186,0.8333333333333334
+Awesome075/multi_news_parquet,9,"The “typewriter” was, in fact,...",in a a world starting 000 $ 300 www,0.7732033729553223,0.0398406374501992,0.0859114858839247,0.875
+Awesome075/multi_news_parquet,11,"The “typewriter” was, in fact,...",in a a world bucharest a starting 000 $ 300 www,0.7670656442642212,0.05533596837944665,0.06973324038765648,0.8
+Awesome075/multi_news_parquet,13,"The “typewriter” was, in fact,...",was in a a world bucharest a starting 000 $ 300 www art,0.7695623636245728,0.0627450980392157,0.059197104894197904,0.75
+Awesome075/multi_news_parquet,1,"Now, Daley said, scientists mu...",rep,0.7748584747314453,0.0,0.7748584747314453,0.0
+Awesome075/multi_news_parquet,3,"Now, Daley said, scientists mu...",dale rep embryo,0.7838055491447449,0.0,0.2612685163815816,0.3333333333333333
+Awesome075/multi_news_parquet,5,"Now, Daley said, scientists mu...",dale scientists another rep embryo,0.7930489778518677,0.009174311926605505,0.15860979557037352,0.6
+Awesome075/multi_news_parquet,7,"Now, Daley said, scientists mu...",dale scientists cl another rep blood embryo,0.7890767455101013,0.00909090909090909,0.1127252493585859,0.5714285714285714
+Awesome075/multi_news_parquet,9,"Now, Daley said, scientists mu...",dale scientists embryo cl another rep blood skin embryo,0.7865864038467407,0.009009009009009009,0.08739848931630452,0.5555555555555556
+Awesome075/multi_news_parquet,1,||||| Books of significant val...,night,0.7731693387031555,0.0,0.7731693387031555,1.0
+Awesome075/multi_news_parquet,3,||||| Books of significant val...,west night california,0.7700993418693542,0.0,0.2566997806231181,1.0
+Awesome075/multi_news_parquet,5,||||| Books of significant val...,west night transit the california,0.7808473110198975,0.007936507936507936,0.15616946220397948,1.0
+Awesome075/multi_news_parquet,1,Trump: Bezos using 'Washington...,all,0.7772085666656494,0.0,0.7772085666656494,1.0
+Awesome075/multi_news_parquet,3,Trump: Bezos using 'Washington...,to honest all,0.7824714779853821,0.00966183574879227,0.2608238259951274,1.0
+Awesome075/multi_news_parquet,5,Trump: Bezos using 'Washington...,to protect honest all media,0.790110170841217,0.009569377990430622,0.1580220341682434,1.0
+Awesome075/multi_news_parquet,1,According to Reddit administra...,red,0.7721266150474548,0.0,0.7721266150474548,0.0
+Awesome075/multi_news_parquet,3,According to Reddit administra...,red shared 000,0.7740174531936646,0.0,0.2580058177312215,0.6666666666666666
+Awesome075/multi_news_parquet,5,According to Reddit administra...,red photos shared 000 constitute,0.7695691585540771,0.008438818565400843,0.15391383171081544,0.8
+Awesome075/multi_news_parquet,1,Globally the film has now gros...,6,0.7741208076477051,0.012422360248447204,0.7741208076477051,1.0
+Awesome075/multi_news_parquet,3,Globally the film has now gros...,6 fifth all,0.7785030007362366,0.03680981595092024,0.2595010002454122,1.0
+Awesome075/multi_news_parquet,5,Globally the film has now gros...,6 making the fifth all,0.7820067405700684,0.06060606060606061,0.15640134811401368,1.0
+Awesome075/multi_news_parquet,1,And with that case marking at ...,appears,0.7852614521980286,0.0,0.7852614521980286,1.0
+Awesome075/multi_news_parquet,3,And with that case marking at ...,appears be a,0.7897820472717285,0.029850746268656712,0.2632606824239095,1.0
+Awesome075/multi_news_parquet,5,And with that case marking at ...,case phenomenon appears be a,0.8077282905578613,0.044117647058823525,0.16154565811157226,1.0
+Awesome075/multi_news_parquet,7,And with that case marking at ...,case has phenomenon appears be a mental,0.8000524044036865,0.04347826086956522,0.11429320062909808,1.0
+Awesome075/multi_news_parquet,1,While some people haven’t thou...,are,0.7782179117202759,0.0,0.7782179117202759,1.0
+Awesome075/multi_news_parquet,3,While some people haven’t thou...,others are relationship,0.7882571220397949,0.0,0.26275237401326496,1.0
+Awesome075/multi_news_parquet,5,While some people haven’t thou...,others s are s relationship,0.7575988173484802,0.0182648401826484,0.15151976346969603,0.8
+Awesome075/multi_news_parquet,7,While some people haven’t thou...,reaction others s well are s relationship,0.7605976462364197,0.027149321266968323,0.10865680660520281,0.8571428571428571
+Awesome075/multi_news_parquet,9,While some people haven’t thou...,reaction s others s well are two s relationship,0.7670629620552063,0.044843049327354265,0.08522921800613403,0.7777777777777778
+Awesome075/multi_news_parquet,1,"Lawmakers in the UK hope the ""...",will,0.7775297164916992,0.0,0.7775297164916992,1.0
+Awesome075/multi_news_parquet,3,"Lawmakers in the UK hope the ""...",uk will lowering,0.7793165445327759,0.00641025641025641,0.2597721815109253,1.0
+Awesome075/multi_news_parquet,1,It’s all part of the legend of...,legend,0.772433340549469,0.007042253521126761,0.772433340549469,1.0
+Awesome075/multi_news_parquet,3,It’s all part of the legend of...,legend year now,0.781434953212738,0.013986013986013984,0.26047831773757935,1.0
+Awesome075/multi_news_parquet,5,It’s all part of the legend of...,legend year all bats now,0.7858037948608398,0.020833333333333336,0.15716075897216797,1.0
+Awesome075/multi_news_parquet,7,It’s all part of the legend of...,s legend year all bats and now,0.7873839139938354,0.034482758620689655,0.11248341628483363,1.0
+Awesome075/multi_news_parquet,9,It’s all part of the legend of...,s legend year all time bats and now re,0.7811352610588074,0.0410958904109589,0.08679280678431193,1.0
+Awesome075/multi_news_parquet,11,It’s all part of the legend of...,s legend 23 year old all time bats and now re,0.7826067209243774,0.054421768707483,0.07114606553857977,1.0
+Awesome075/multi_news_parquet,13,It’s all part of the legend of...,s legend 23 year old became cubs all time bats and now re,0.7831178307533264,0.06081081081081081,0.06023983313487126,1.0
+Awesome075/multi_news_parquet,1,"She schooled him, and when she...",she,0.7730815410614014,0.006514657980456026,0.7730815410614014,1.0
+Awesome075/multi_news_parquet,3,"She schooled him, and when she...",and she important,0.7959637641906738,0.012944983818770227,0.2653212547302246,1.0
+Awesome075/multi_news_parquet,5,"She schooled him, and when she...",and screens she important your,0.7814182639122009,0.012861736334405146,0.1562836527824402,0.8
+Awesome075/multi_news_parquet,1,||||| The world’s first all-Di...,disney,0.7852002382278442,0.010416666666666668,0.7852002382278442,1.0
+Awesome075/multi_news_parquet,3,||||| The world’s first all-Di...,world s disney,0.7722364664077759,0.010309278350515464,0.2574121554692586,1.0
+Awesome075/multi_news_parquet,1,What the Sixers got in the sum...,player,0.777988076210022,0.0,0.777988076210022,1.0
+Awesome075/multi_news_parquet,3,What the Sixers got in the sum...,summer player promised,0.7921925783157349,0.0,0.2640641927719116,1.0
+Awesome075/multi_news_parquet,5,What the Sixers got in the sum...,six summer player organization promised,0.7995473742485046,0.01282051282051282,0.15990947484970092,1.0
+Awesome075/multi_news_parquet,1,They also say they have been i...,families,0.7695227861404419,0.008130081300813009,0.7695227861404419,1.0
+Awesome075/multi_news_parquet,1,It’s true: Kate Gosselin final...,got,0.7833840250968933,0.0,0.7833840250968933,1.0
+Awesome075/multi_news_parquet,3,It’s true: Kate Gosselin final...,got ( tv,0.7762389779090881,0.018518518518518517,0.25874632596969604,1.0
+Awesome075/multi_news_parquet,5,It’s true: Kate Gosselin final...,s got ( tv job,0.7861772775650024,0.05454545454545455,0.1572354555130005,1.0
+Awesome075/multi_news_parquet,1,Witness testimony appears to c...,confirm,0.7831681966781616,0.0,0.7831681966781616,1.0
+Awesome075/multi_news_parquet,3,Witness testimony appears to c...,confirm brady lowest,0.782101035118103,0.013071895424836602,0.2607003450393677,1.0
+Awesome075/multi_news_parquet,1,Image copyright Debbie Speranz...,and,0.7817174792289734,0.0099009900990099,0.7817174792289734,1.0
+Awesome075/multi_news_parquet,3,Image copyright Debbie Speranz...,and julia turning,0.7776684761047363,0.0196078431372549,0.2592228253682454,1.0
+Awesome075/multi_news_parquet,5,Image copyright Debbie Speranz...,with and julia turning find,0.7783241271972656,0.029126213592233004,0.15566482543945312,1.0
+Awesome075/multi_news_parquet,1,Romney: My views on abortion r...,cbs,0.7600096464157104,0.010810810810810811,0.7600096464157104,1.0
+Awesome075/multi_news_parquet,1,"And this, from the Los Angeles...",esq,0.7604907155036926,0.0,0.7604907155036926,0.0
+Awesome075/multi_news_parquet,3,"And this, from the Los Angeles...",esq former who,0.7619532942771912,0.013793103448275862,0.2539844314257304,0.6666666666666666
+Awesome075/multi_news_parquet,5,"And this, from the Los Angeles...",from esq former who was,0.7590841054916382,0.0273972602739726,0.15181682109832764,0.8
+Awesome075/multi_news_parquet,7,"And this, from the Los Angeles...",from in esq former who was saying,0.7670591473579407,0.034013605442176874,0.10957987819399152,0.8571428571428571
+Awesome075/multi_news_parquet,1,"""We take all claims of food sa...",we,0.7735886573791504,0.008547008547008546,0.7735886573791504,1.0
+Awesome075/multi_news_parquet,3,"""We take all claims of food sa...","we few """,0.7649989128112793,0.01702127659574468,0.25499963760375977,1.0
+Awesome075/multi_news_parquet,5,"""We take all claims of food sa...","food we few restaurant """,0.7772446274757385,0.03375527426160338,0.15544892549514772,1.0
+Awesome075/multi_news_parquet,1,See a full picture of Gwyneth ...,full,0.7830421328544617,0.0,0.7830421328544617,1.0
+Awesome075/multi_news_parquet,1,less A photo of AG Jeff Sessio...,now,0.7783339023590088,0.009389671361502346,0.7783339023590088,1.0
+Awesome075/multi_news_parquet,3,less A photo of AG Jeff Sessio...,photo now el,0.7822140455245972,0.02790697674418605,0.2607380151748657,1.0
+Awesome075/multi_news_parquet,1,"||||| PUBLICATION 
+ 
+ MTI Repo...",transform,0.7704413533210754,0.0,0.7704413533210754,0.0
+Awesome075/multi_news_parquet,3,"||||| PUBLICATION 
+ 
+ MTI Repo...",elliot growth transform,0.770042896270752,0.0,0.256680965423584,0.6666666666666666
+Awesome075/multi_news_parquet,5,"||||| PUBLICATION 
+ 
+ MTI Repo...",54 elliot ph growth transform,0.7657783031463623,0.0,0.15315566062927247,0.8
+Awesome075/multi_news_parquet,7,"||||| PUBLICATION 
+ 
+ MTI Repo...",54 elliot ph d abstract growth transform,0.7579134702682495,0.0,0.10827335289546422,0.8571428571428571
+Awesome075/multi_news_parquet,1,The Sheriff's Office said a 12...,year,0.7763519287109375,0.01234567901234568,0.7763519287109375,1.0
+Awesome075/multi_news_parquet,1,When Salerno reported the thef...,officer,0.7686107754707336,0.0,0.7686107754707336,1.0
+Awesome075/multi_news_parquet,3,When Salerno reported the thef...,theft officer prostitute,0.7915242314338684,0.0,0.2638414104779561,1.0
+Awesome075/multi_news_parquet,1,Michael Schumacher’s medical f...,offered,0.7825179100036621,0.013986013986013986,0.7825179100036621,1.0
+Awesome075/multi_news_parquet,3,Michael Schumacher’s medical f...,s offered his,0.7907416224479675,0.041379310344827586,0.2635805408159892,1.0
+Awesome075/multi_news_parquet,1,"And, conversely, previous rese...",association,0.7737749814987183,0.00966183574879227,0.7737749814987183,1.0
+Awesome075/multi_news_parquet,3,"And, conversely, previous rese...",previous association a,0.7708690166473389,0.028708133971291867,0.2569563388824463,1.0
+Awesome075/multi_news_parquet,5,"And, conversely, previous rese...",conversely previous association a reduced,0.7809523940086365,0.03791469194312796,0.1561904788017273,1.0
+Awesome075/multi_news_parquet,1,"""Checking the video from the s...",survived,0.7760260105133057,0.0,0.7760260105133057,1.0
+Awesome075/multi_news_parquet,3,"""Checking the video from the s...",number picked survived,0.7898633480072021,0.009900990099009901,0.2632877826690674,1.0
+Awesome075/multi_news_parquet,5,"""Checking the video from the s...","number picked were survived """,0.7809137105941772,0.019704433497536946,0.15618274211883545,1.0
+Awesome075/multi_news_parquet,7,"""Checking the video from the s...","number came picked folks were survived """,0.7842244505882263,0.019512195121951223,0.11203206436974662,1.0
+Awesome075/multi_news_parquet,9,"""Checking the video from the s...","we number came picked lot folks were survived """,0.7839027643203735,0.03864734299516909,0.08710030714670818,1.0
+Awesome075/multi_news_parquet,1,And there was a lot of discuss...,this,0.7876011729240417,0.0125,0.7876011729240417,1.0
+Awesome075/multi_news_parquet,3,And there was a lot of discuss...,or bacon this,0.7814985513687134,0.02469135802469136,0.2604995171229045,1.0
+Awesome075/multi_news_parquet,5,And there was a lot of discuss...,lot or complete bacon this,0.7716761827468872,0.024390243902439025,0.15433523654937745,1.0
+Awesome075/multi_news_parquet,7,And there was a lot of discuss...,lot or complete bacon sauce this t,0.781457245349884,0.024096385542168676,0.11163674933569771,1.0
+Awesome075/multi_news_parquet,9,And there was a lot of discuss...,lot cheese or special complete bacon sauce this t,0.7860963940620422,0.03571428571428571,0.08734404378467137,1.0
+Awesome075/multi_news_parquet,11,And there was a lot of discuss...,lot cheese or had special with complete bacon sauce this t,0.7885326147079468,0.04705882352941177,0.07168478315526788,1.0
+Awesome075/multi_news_parquet,1,MANILA — The International Cri...,preliminary,0.7740350365638733,0.007407407407407408,0.7740350365638733,1.0
+Awesome075/multi_news_parquet,3,MANILA — The International Cri...,international preliminary s,0.7862350344657898,0.022058823529411766,0.26207834482192993,1.0
+Awesome075/multi_news_parquet,5,MANILA — The International Cri...,international preliminary government s deadly,0.7726236581802368,0.0291970802919708,0.15452473163604735,1.0
+Awesome075/multi_news_parquet,7,MANILA — The International Cri...,international preliminary president course government s deadly,0.7798249125480652,0.036231884057971016,0.11140355893543788,1.0
+Awesome075/multi_news_parquet,1,||||| Man sets self on fire in...,condition,0.7819204926490784,0.01680672268907563,0.7819204926490784,1.0
+Awesome075/multi_news_parquet,3,||||| Man sets self on fire in...,condition december a,0.780236005783081,0.03305785123966942,0.26007866859436035,1.0
+Awesome075/multi_news_parquet,5,||||| Man sets self on fire in...,condition police vatican december a,0.7791056632995605,0.04878048780487805,0.1558211326599121,1.0
+Awesome075/multi_news_parquet,7,||||| Man sets self on fire in...,condition police motive vatican december a the,0.7930662631988525,0.08,0.11329518045697894,1.0
+Awesome075/multi_news_parquet,9,||||| Man sets self on fire in...,condition police motive - vatican december a the vatican,0.8033230304718018,0.07936507936507936,0.08925811449686687,0.875
+Awesome075/multi_news_parquet,1,“The fact that they were able ...,is,0.7759149074554443,0.011764705882352941,0.7759149074554443,1.0
+Awesome075/multi_news_parquet,3,“The fact that they were able ...,convince is ”,0.7708019614219666,0.011695906432748537,0.2569339871406555,1.0
+Awesome075/multi_news_parquet,5,“The fact that they were able ...,convince is particularly ” lee,0.7648434638977051,0.011560693641618498,0.152968692779541,0.75
+Awesome075/multi_news_parquet,7,“The fact that they were able ...,fact convince is particularly ” lee telephone,0.7667085528373718,0.011428571428571427,0.10952979326248169,0.8333333333333334
+Awesome075/multi_news_parquet,9,“The fact that they were able ...,fact convince panel is particularly ” a lee telephone,0.7696312665939331,0.03389830508474576,0.08551458517710368,0.875
+Awesome075/multi_news_parquet,11,“The fact that they were able ...,fact convince panel is particularly other ” a lee said telephone,0.7788974046707153,0.033519553072625705,0.07080885497006503,0.9
+Awesome075/multi_news_parquet,13,“The fact that they were able ...,fact convince panel the is particularly other ” joshua a lee said telephone,0.7660906910896301,0.0441988950276243,0.05893005316074078,0.9166666666666666
+Awesome075/multi_news_parquet,15,“The fact that they were able ...,fact they convince panel the is particularly saw other ” joshua a lee said telephone,0.7718330025672913,0.04371584699453552,0.05145553350448608,0.9285714285714286
+Awesome075/multi_news_parquet,17,“The fact that they were able ...,fact they convince panel cardiovascular but the is particularly saw other ” joshua a lee said telephone,0.7735256552696228,0.04324324324324324,0.04550150913350722,0.9375
+Awesome075/multi_news_parquet,1,"""If we did not get on that fli...",we,0.774305522441864,0.007874015748031496,0.774305522441864,1.0
+Awesome075/multi_news_parquet,1,Berkshire's board also said ce...,questions,0.7800134420394897,0.014084507042253521,0.7800134420394897,1.0
+Awesome075/multi_news_parquet,3,Berkshire's board also said ce...,buffet response questions,0.7935423851013184,0.013888888888888888,0.26451412836710614,0.6666666666666666
+Awesome075/multi_news_parquet,5,Berkshire's board also said ce...,board buffet response questions dec,0.8010925650596619,0.0273972602739726,0.16021851301193238,0.6
+Awesome075/multi_news_parquet,1,"In a statement to THR, Human R...",they,0.7852145433425903,0.0,0.7852145433425903,1.0
+Awesome075/multi_news_parquet,3,"In a statement to THR, Human R...",human they participate,0.7992584705352783,0.011363636363636362,0.2664194901784261,1.0
+Awesome075/multi_news_parquet,5,"In a statement to THR, Human R...",statement human rei they participate,0.782081663608551,0.011235955056179775,0.1564163327217102,0.8
+Awesome075/multi_news_parquet,7,"In a statement to THR, Human R...",statement human party ka rei they participate,0.7926784753799438,0.022222222222222223,0.11323978219713483,0.7142857142857143
+Awesome075/multi_news_parquet,1,(Also on POLITICO: Republicans...,rip,0.7806640267372131,0.0,0.7806640267372131,1.0
+Awesome075/multi_news_parquet,1,Audio recordings of the shooti...,single,0.7750548720359802,0.0,0.7750548720359802,1.0
+Awesome075/multi_news_parquet,3,Audio recordings of the shooti...,disc single trigger,0.7817996144294739,0.0,0.2605998714764913,0.6666666666666666
+Awesome075/multi_news_parquet,5,Audio recordings of the shooti...,s disc single trigger in,0.7791812419891357,0.015625,0.15583624839782714,0.8
+Awesome075/multi_news_parquet,1,Read or Share this story: http...,2018,0.7769429087638855,0.0,0.7769429087638855,1.0
+Awesome075/multi_news_parquet,3,Read or Share this story: http...,2018 12 |,0.7476171851158142,0.0,0.24920572837193808,1.0
+Awesome075/multi_news_parquet,5,Read or Share this story: http...,people 2018 12 14 |,0.7384641170501709,0.00930232558139535,0.14769282341003417,1.0
+Awesome075/multi_news_parquet,7,Read or Share this story: http...,story people 2018 12 14 | via,0.7565657496452332,0.009216589861751152,0.10808082137789045,1.0
+Awesome075/multi_news_parquet,9,Read or Share this story: http...,story people 2018 12 14 231 | such via,0.7531832456588745,0.009132420091324202,0.0836870272954305,0.875
+Awesome075/multi_news_parquet,11,Read or Share this story: http...,story people 2018 12 14 hospitalized 231 | such from via,0.7710094451904297,0.00904977375565611,0.07009176774458452,0.9
+Awesome075/multi_news_parquet,13,Read or Share this story: http...,www story people 2018 12 14 hospitalized after 231 | such from via,0.774205207824707,0.008968609865470852,0.05955424675574669,0.9166666666666666
+Awesome075/multi_news_parquet,15,Read or Share this story: http...,/ www story life people 2018 12 14 hospitalized after 231 | such from via,0.7741551399230957,0.00892857142857143,0.051610342661539715,0.9230769230769231
+Awesome075/multi_news_parquet,17,Read or Share this story: http...,/ www story life people 2018 12 14 lou hospitalized after 231 | such from via party,0.7729930281639099,0.017699115044247787,0.04547017812728882,0.9333333333333333
+Awesome075/multi_news_parquet,19,Read or Share this story: http...,/ www story life people 2018 12 14 lou hospitalized after pneumonia gone 231 | such from via party,0.7777286767959595,0.026315789473684206,0.04093308825241892,0.9411764705882353
+Awesome075/multi_news_parquet,21,Read or Share this story: http...,/ www story life people 2018 12 14 lou hospitalized after pneumonia shot gone wrong 231 | such from via party,0.7803313136100769,0.043478260869565216,0.03715863398143223,0.9473684210526315
+Awesome075/multi_news_parquet,1,“I think the Republicans need ...,shut,0.7726141214370728,0.0,0.7726141214370728,1.0
+Awesome075/multi_news_parquet,3,“I think the Republicans need ...,stand shut government,0.8100558519363403,0.01226993865030675,0.27001861731211346,1.0
+Awesome075/multi_news_parquet,5,“I think the Republicans need ...,stand firm shut government few,0.790962278842926,0.012121212121212123,0.1581924557685852,1.0
+Awesome075/multi_news_parquet,1,The following individuals shal...,74,0.7783783078193665,0.0,0.7783783078193665,1.0
+Awesome075/multi_news_parquet,3,The following individuals shal...,imprisonment six 74,0.7699741125106812,0.00641025641025641,0.25665803750356037,1.0
+Awesome075/multi_news_parquet,5,The following individuals shal...,one imprisonment one six 74,0.7777124047279358,0.01910828025477707,0.15554248094558715,0.8
+Awesome075/multi_news_parquet,7,The following individuals shal...,one imprisonment one six 74 to one,0.7784629464149475,0.025316455696202535,0.1112089923449925,0.7142857142857143
+Awesome075/multi_news_parquet,9,The following individuals shal...,one imprisonment one six 74 to one two the,0.7692710757255554,0.031446540880503145,0.08547456396950616,0.7777777777777778
+Awesome075/multi_news_parquet,11,The following individuals shal...,three one imprisonment one six up 74 to one two the,0.7723003029823303,0.03125,0.07020911845293912,0.8181818181818182
+Awesome075/multi_news_parquet,13,The following individuals shal...,three one imprisonment a one five six up 74 to one two the,0.7682375311851501,0.037267080745341616,0.05909519470655001,0.8461538461538461
+Awesome075/multi_news_parquet,15,The following individuals shal...,three one imprisonment a fine one five six up 74 to one two the above,0.7697395086288452,0.037037037037037035,0.05131596724192301,0.8666666666666667
+Awesome075/multi_news_parquet,17,The following individuals shal...,following sentenced three one imprisonment a fine one five six up 74 to one two the above,0.7663633823394775,0.04294478527607362,0.045080198961145734,0.8823529411764706
+Awesome075/multi_news_parquet,19,The following individuals shal...,following sentenced three one imprisonment a fine one five six up 74 to one two of the above .,0.7786586284637451,0.04892966360856269,0.040982033077039216,0.8888888888888888
+Awesome075/multi_news_parquet,21,The following individuals shal...,following sentenced to three one imprisonment a fine one five six up 74 to one or two of the above .,0.7770507335662842,0.0547112462006079,0.03700241588410877,0.85
+Awesome075/multi_news_parquet,1,||||| A worldwide team of seni...,indicates,0.7745835185050964,0.0,0.7745835185050964,1.0
+Awesome075/multi_news_parquet,3,||||| A worldwide team of seni...,indicates a two,0.7762287259101868,0.014925373134328358,0.25874290863672894,1.0
+Awesome075/multi_news_parquet,5,||||| A worldwide team of seni...,clinic editorial indicates a two,0.7910576462745667,0.02222222222222222,0.15821152925491333,0.8
+Awesome075/multi_news_parquet,7,||||| A worldwide team of seni...,clinic produce editorial indicates a two bacteria,0.7899253368377686,0.029411764705882353,0.1128464766911098,0.8571428571428571
+Awesome075/multi_news_parquet,9,||||| A worldwide team of seni...,clinic produce editorial indicates certain a two bacteria are,0.7864547371864319,0.03649635036496351,0.08738385968738133,0.8888888888888888
+Awesome075/multi_news_parquet,11,||||| A worldwide team of seni...,clinic produce editorial indicates certain a specific two bacteria are s,0.7923605442047119,0.043478260869565216,0.0720327767458829,0.9090909090909091
+Awesome075/multi_news_parquet,1,Rights groups have blamed auth...,pay,0.7753255367279053,0.010869565217391304,0.7753255367279053,1.0
+Awesome075/multi_news_parquet,3,Rights groups have blamed auth...,pay exceeding strict,0.7918447256088257,0.010752688172043012,0.2639482418696086,1.0
+Awesome075/multi_news_parquet,5,Rights groups have blamed auth...,sha ab pay exceeding strict,0.7796251773834229,0.010638297872340425,0.15592503547668457,0.6
+Awesome075/multi_news_parquet,7,Rights groups have blamed auth...,sha ab pay he exceeding strict population,0.7838180661201477,0.021052631578947368,0.11197400944573539,0.5714285714285714
